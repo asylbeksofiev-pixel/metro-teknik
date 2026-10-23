@@ -1,0 +1,22 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/page/pk-8-bilimsel-egitim-kompleksi-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/pk-6-laboratuvar-blogu-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/35-blok-spor-salonu-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/teknopark-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/nazarbayev-universitesi-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/nazarbayev-universitesi-44-45-bloklar-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/nazarbayev-uni-24-25-ogrenci-yurt-bloklari", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true },
+    { "source": "/page/primat-santiyesi-mekanik-iscilik-astana", "destination": "/page/metro-teknik-biten-projeleri", "permanent": true }
+  ],
+  "headers": [
+    { "source": "/static/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] }
+  ]
+}

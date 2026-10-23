@@ -587,7 +587,10 @@ def main():
                "seo": {"canonical": BASE_URL + url("home", lang), "alternates": [], "xdefault": BASE_URL + "/", "og_alternates": []},
                "breadcrumb": [], "chrome": ch, "home_url": url("home", lang), "contact_url": url("iletisim", lang),
                "footer_links": [], "ui_json": Markup(json.dumps(ui, ensure_ascii=False)), "analytics_id": None}
-        (out / f"404-{lang}.html").write_text(env.get_template("404.html").render(**ctx), encoding="utf-8")
+        nf_html = env.get_template("404.html").render(**ctx)
+        (out / f"404-{lang}.html").write_text(nf_html, encoding="utf-8")
+        if lang == "tr":
+            (out / "404.html").write_text(nf_html, encoding="utf-8")  # default 404 for static hosts
     for pid, p in PAGES.items():
         if p["type"] == "project":
             routes["status"][pid] = p.get("status")

@@ -13,7 +13,7 @@ static site generator. It works as-is and is meant to be ported into the product
 
 ```bash
 python -m venv .venv
-.venv/Scripts/python -m pip install -r requirements.txt
+.venv/Scripts/python -m pip install -r requirements-dev.txt
 .venv/Scripts/python tools/build.py
 .venv/Scripts/python tools/serve.py --port 8080
 ```
