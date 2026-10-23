@@ -102,7 +102,7 @@ def make_handler(dist: Path):
                 if dist.resolve() in f.parents and f.is_file():
                     return self.send_file(f, cache="public, max-age=31536000, immutable")
                 return self.not_found(path)
-            for name in ("sitemap.xml", "robots.txt", "favicon.ico"):
+            for name in ("sitemap.xml", "robots.txt", "favicon.ico", "apple-touch-icon.png"):
                 if path == "/" + name:
                     return self.send_file(dist / name)
             if path.startswith("/page/"):

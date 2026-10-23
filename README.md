@@ -28,8 +28,8 @@ Refreshing content from the live site (optional): `tools/crawl.py` → `tools/ex
 
 | Command | What it verifies | Last result |
 |---|---|---|
-| `tools/check_content.py` | i18n key parity, no raw keys/placeholders, `html[lang]`, self canonicals, reciprocal hreflang, internal links, `rel=noopener`, no Turkish leaking into Kazakh pages, sitemap coverage | 184 pages, 0 errors |
-| `tools/check_behaviour.py` | routing (direct localised URLs, legacy `?lng=` and `POST /site/clang`, `/` + cookie, 301s, 404), mobile menu (open, scroll lock, inert, focus trap, Escape, focus return), keyboard dropdowns, page-preserving language switch + reload + persistence, lightbox, reduced motion, no-JS | 52/52 pass |
+| `tools/check_content.py` | i18n key parity, no raw keys/placeholders, `html[lang]`, self canonicals, reciprocal hreflang, internal links, `rel=noopener`, no Turkish leaking into Kazakh pages, sitemap coverage | 204 pages, 0 errors |
+| `tools/check_behaviour.py` | routing (direct localised URLs, legacy `?lng=` and `POST /site/clang`, `/` + cookie, 301s, 404), mobile menu (open, scroll lock, inert, focus trap, Escape, focus return), keyboard dropdowns, page-preserving language switch + reload + persistence, lightbox, reduced motion, no-JS | 57/57 pass |
 | `tools/check_ui.py` | Edge headless at 360/390/768/1024/1440: horizontal overflow, clipped text, broken images, console errors, small touch targets; saves screenshots (`--all`: every page at 390 and 1440) | 0 problems |
 
 The two browser checks need `tools/serve.py` running and use the installed Microsoft Edge through Playwright.
@@ -49,6 +49,7 @@ static/css/               tokens.css (design tokens) → base → layout → com
 static/js/site.js         progressive enhancement, no dependencies
 static/fonts/             IBM Plex Sans woff2 subsets incl. cyrillic-ext (Kazakh letters verified with fontTools)
 static/icons/             Facebook / Instagram marks (Simple Icons 15.17.0, CC0)
+static/img/icons/         favicon set built from the supplied badge (tools/make_icons.py)
 tools/                    crawl, extract, build, serve, checks, Kazakh export
 export/                   Kazakh content for the CMS (JSON with <!--:kk_kz--> values) and a review spreadsheet
 dist/                     build output (generated)
@@ -86,3 +87,17 @@ side by side. Points that most need a decision:
   addresses and phone numbers stay exactly as in the source. Numbers use Kazakh digit grouping (163 961 м²).
 * The **Rixos Borovoe** location is kept as "Астана", as in the source, although Burabay (Borovoe) lies outside the city.
 * The **catalog** is labelled as Turkish/Russian on every language version, because that is its actual content.
+
+## Projects in every language
+
+All 35 projects exist in Turkish, English, Russian and Kazakh. Pages that did not exist on the live site in
+English/Russian were added with the existing slug convention (`<tr-slug>-en`, `<tr-slug>-ru`); existing URLs are
+unchanged. Names: `content/{tr,en,ru}/projects.json` and `content/kk/projects.json`. English/Russian facts are generated
+by `tools/gen_project_i18n.py` (per-language source values are kept where they existed, Turkish otherwise).
+
+## Site icon
+
+`tools/make_icons.py` turns the supplied circular badge (`static/img/icon-source/…`) into `favicon.ico`
+(16–256 px), 16/32/48 px PNGs, a 180 px apple-touch icon, 192/512 px manifest icons and `static/site.webmanifest`.
+Only the light corners outside the circle were made transparent; the artwork is unchanged. At 16 px the wordmark is
+not readable (the badge contains small text), but the dark disc with the brand-coloured ring stays recognisable.

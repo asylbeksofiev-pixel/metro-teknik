@@ -1,0 +1,20 @@
+{
+ "name": "Metro Teknik",
+ "short_name": "Metro Teknik",
+ "icons": [
+  {
+   "src": "/static/img/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/static/img/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "theme_color": "#0e1835",
+ "background_color": "#ffffff",
+ "display": "browser",
+ "start_url": "/"
+}

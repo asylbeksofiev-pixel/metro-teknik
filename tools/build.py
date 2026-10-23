@@ -53,6 +53,9 @@ for f in sorted((CONTENT / "kk").glob("*.json")):
     for k, v in load(f).items():
         if not k.startswith("_"):
             KK[k] = v
+# localized project names/facts for tr/en/ru (content/<lang>/projects.json); Kazakh lives in KK
+OVR = {l: {k: v for k, v in load(CONTENT / l / "projects.json").items() if not k.startswith("_")}
+       for l in SOURCE_LANGS if (CONTENT / l / "projects.json").exists()}
 ICON_PATHS = {n: re.search(r'd="([^"]+)"', (ROOT / "static" / "icons" / f"{n}.svg").read_text(encoding="utf-8")).group(1)
               for n in ("facebook", "instagram")}
 
@@ -64,7 +67,15 @@ def url(pid, lang):
         if pid != "home" and pid not in KK:
             return None
         return "/page/ana-sayfa-kk" if pid == "home" else p["paths"]["tr"] + "-kk"
-    return p["paths"].get(lang)
+    if lang in p["paths"]:
+        return p["paths"][lang]
+    if p["type"] == "project" and pid in OVR.get(lang, {}):
+        return p["paths"]["tr"] + "-" + lang  # new translation, same convention as existing -en/-ru pages
+    return None
+
+
+def ovr(pid, lang):
+    return OVR.get(lang, {}).get(pid)
 
 
 def exists(pid, lang):
@@ -121,7 +132,9 @@ def corrected(lang, pid, data):
     fix = CORR.get(lang, {}).get(pid)
     if fix:
         data = dict(data)
-        data.update({k: v for k, v in fix.items() if not k.startswith("_")})
+        data.update({k: v for k, v in fix.items() if not k.startswith("_") and k != "replace"})
+        for old, new in fix.get("replace", []):
+            data["body_html"] = data.get("body_html", "").replace(old, new)
     return data
 
 
@@ -138,6 +151,8 @@ def heading(pid, lang):
     if lang == "kk":
         k = KK.get(pid, {})
         return k.get("heading") or k.get("title")
+    if ovr(pid, lang):
+        return ovr(pid, lang)["heading"]
     d = src(pid, lang)
     h = clean_heading(d.get("heading") or d.get("title"))
     return h
@@ -192,6 +207,8 @@ def list_item_lang(pid, lang):
 
 
 def project_facts(pid, lang):
+    if lang != "kk" and (ovr(pid, lang) or {}).get("facts"):
+        return {k: v for k, v in ovr(pid, lang)["facts"].items() if v}
     if lang == "kk":
         raw = KK[pid]["facts"]
         facts = {k: v for k, v in raw.items() if v}
@@ -210,6 +227,9 @@ def card(pid, lang):
     if lang == "kk":
         name = KK[pid].get("card_name") or KK[pid]["heading"]
         location = facts.get("location", "")
+    elif ovr(pid, lang):
+        name = ovr(pid, lang).get("card_name") or ovr(pid, lang)["heading"]
+        location = facts.get("location", "") if ovr(pid, lang).get("facts") else ((l_item or {}).get("location") or facts.get("location", ""))
     else:
         h = heading(pid, lang)
         ln = (l_item or {}).get("name", "")
@@ -452,7 +472,7 @@ def page_project(pid, lang):
     scope = facts.get("scope", "")
     tmpl = t["meta"]["project"]
     desc = tmpl.replace("{name}", h).replace("{location}", loc).replace("{scope}", scope) if scope else f"{h} — {loc}."
-    extra_body = body_html(pid, lang) if lang != "kk" else ""
+    extra_body = body_html(pid, lang) if lang != "kk" and pid in SRC[lang] and lang in PAGES[pid]["paths"] else ""
     if strip_tags(extra_body) in ("Project Budget", ""):
         extra_body = ""  # EN library page: orphaned label, the value is already shown as a fact
     data = {"id": pid, "type": "project", "title": h, "doc_title": f"{h} | Metro Teknik", "heading": h,
@@ -503,6 +523,13 @@ def page_contact(pid, lang):
         offices.append({"name": name, "address": addr, "address_lang": "tr" if TURKISH_HINT.search(" ".join(addr)) or base == "tr" or base == "en" else base,
                         "phones": phones, "map": o.get("map"),
                         "map_link": "https://www.google.com/maps/search/?api=1&query=" + q if q else None})
+    kz = load(CONTENT / "offices_extra.json")["kz"]
+    if kz.get("address"):
+        offices.append({"name": t["contact"]["kz_office"], "address": kz["address"], "address_lang": "kk" if lang == "kk" else lang,
+                        "phones": [{"text": ph, "href": tel_href(ph)} for ph in kz.get("phones", [])], "map": kz.get("map"),
+                        "map_link": "https://www.google.com/maps/search/?api=1&query=" + re.sub(r"\s+", "+", " ".join(kz["address"]))})
+    elif lang == "tr":
+        print("WARNING: Kazakhstan office address missing (content/offices_extra.json) — not shown on the contact page")
     h = t["nav"]["contact"]
     data = {"id": pid, "type": "contact", "title": h, "doc_title": f"{h} | Metro Teknik", "heading": h,
             "description": t["meta"]["contact"], "offices": offices}
@@ -526,7 +553,7 @@ def main():
 
     # assets
     st = out / "static"
-    shutil.copytree(ROOT / "static", st, ignore=shutil.ignore_patterns("css", "ranges.json"))
+    shutil.copytree(ROOT / "static", st, ignore=shutil.ignore_patterns("css", "ranges.json", "icon-source"))
     (st / "css").mkdir()
     css = "\n".join((ROOT / "static" / "css" / f).read_text(encoding="utf-8")
                     for f in ("tokens.css", "base.css", "layout.css", "components.css", "pages.css"))
@@ -613,7 +640,8 @@ def main():
     lines.append("</urlset>")
     (out / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
     (out / "robots.txt").write_text("User-agent: *\nDisallow: /assets\nSitemap: https://metro-teknik.net/sitemap.xml\n", encoding="utf-8")
-    shutil.copy(ROOT / "static" / "img" / "favicon.ico", out / "favicon.ico")
+    shutil.copy(ROOT / "static" / "img" / "icons" / "favicon.ico", out / "favicon.ico")
+    shutil.copy(ROOT / "static" / "img" / "icons" / "apple-touch-icon.png", out / "apple-touch-icon.png")
     print(f"built {count} pages into {out}")
 
 

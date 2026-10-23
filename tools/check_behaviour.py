@@ -51,8 +51,11 @@ def main():
     s, h, _ = raw(base, "/page/kokshetau-hospital?lng=kk_kz")
     check("?lng=kk_kz redirects to Kazakh equivalent", s == 302 and h["Location"] == "/page/kokshetau-hospital-kk", (s, h.get("Location")))
     s, h, _ = raw(base, "/page/akbozat-restoran?lng=en_us")
-    check("untranslated page + ?lng=en_us goes to English completed list (not Turkish, not home)",
-          s == 302 and h["Location"] == "/page/metro-teknik-completed-projects", (s, h.get("Location")))
+    check("?lng=en_us on a formerly untranslated project goes to its new English page",
+          s == 302 and h["Location"] == "/page/akbozat-restoran-en", (s, h.get("Location")))
+    for p in ["/favicon.ico", "/apple-touch-icon.png", "/static/img/icons/favicon-32.png", "/static/site.webmanifest"]:
+        s, h, _ = raw(base, p)
+        check(f"icon asset {p} served", s == 200 and h.get("Content-Type", "").split(";")[0] in ("image/x-icon", "image/vnd.microsoft.icon", "image/png", "application/manifest+json"), (s, h.get("Content-Type")))
     s, h, _ = raw(base, "/site/clang", data=urllib.parse.urlencode({"lng": "kk_kz", "refurl": "/page/vizyon"}).encode())
     check("legacy POST /site/clang keeps the page", s == 302 and h["Location"] == "/page/vizyon-kk", (s, h.get("Location")))
     s, h, _ = raw(base, "/", cookie="mt_lang=kk")
@@ -129,11 +132,12 @@ def main():
         check("language preference cookie stored", cookies.get("mt_lang") == "kk", cookies)
         pg.goto(base + "/")
         check("bare domain returns user to Kazakh home", pg.url.endswith("/page/ana-sayfa-kk"), pg.url)
-        # untranslated EN page: switcher offers the list, not Turkish content
+        # every project now exists in every language: switcher links straight to the equivalent page
         pg.goto(base + "/page/akbozat-restoran-kk")
         en = pg.locator("#dd-lang a[data-lang-switch='en']")
-        check("missing EN translation links to EN completed list", en.get_attribute("href") == "/page/metro-teknik-completed-projects")
-        check("missing EN translation is labelled", en.get_attribute("title") is not None)
+        check("EN switch from a Kazakh project goes to its English page", en.get_attribute("href") == "/page/akbozat-restoran-en")
+        pg.goto(base + "/page/akbozat-restoran-en")
+        check("new English project page has English name", "Akbozat Restaurant" in pg.locator("h1").text_content())
         # lightbox
         pg.goto(base + "/page/uygulama-ornekleri-kk")
         first = pg.locator("a[data-lightbox]").first

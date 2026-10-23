@@ -59,7 +59,7 @@ Hastanesi has no EN/RU slug; the live site serves the Turkish text under `lang="
 | 5 | Quality policy, TR | Item "Hizmet esnasında ve diğer faaliyetlerimizden kaynaklanan atıkları," is cut off mid-sentence (RU completes it as "take into account waste…") | Kazakh follows the RU completion; TR left unchanged |
 | 6 | Town Center image | `alt="Fairmont Otel"` | Redesign uses the project name as alt |
 | 7 | Typo (RU) | Heading "топление/Охлаждение" | Corrected to "Отопление/Охлаждение" (`content/corrections.json`, the only text correction) |
-| 8 | Untranslated EN/RU text | e.g. EN "Mega 2 Alışveriş Merkezi", RU facts labelled "Yer / İşveren / Tarih", Karaganda note in Turkish on EN/RU pages | Labels now come from the UI translation files; remaining Turkish values are marked `lang="tr"` for screen readers |
+| 8 | Untranslated EN/RU text | e.g. EN "Mega 2 Alışveriş Merkezi", RU facts labelled "Yer / İşveren / Tarih", Karaganda note in Turkish on EN/RU pages, a Turkish fragment inside the RU quality policy | All 35 projects now have localized names, locations, scope and units in TR/EN/RU/KK (`content/{en,ru,tr}/projects.json`, `content/kk/projects.json`); the RU fragment is removed via `content/corrections.json`. Company names, addresses and personal names stay in their original form |
 | 9 | Galleries | Attached per language in the CMS: e.g. Aktau, Expo, Forum, Mega have photos only on EN/RU | Photos are shared by every language of the project |
 
 ## 5. Broken links on the live site
@@ -75,3 +75,16 @@ Both links are the same on every page: `https://www.facebook.com/metroteknik01/?
 `https://www.instagram.com/metroteknik/`. They are preserved unchanged. Their ownership could not be confirmed without
 signing in to Facebook/Instagram; please confirm that both profiles belong to Metro Teknik. The `?fref=ts` parameter is
 a leftover Facebook tracking parameter and can be dropped if you want.
+
+## 7. Kazakhstan office address — **required from the owner**
+
+No Kazakhstan office address exists anywhere in the available material: the live site (all languages, header,
+footer, contact pages), the extracted CMS content, or the 2021 catalog (49 pages, no contact page). Nothing was
+invented. `content/offices_extra.json` holds a clearly marked placeholder (`"status": "ADDRESS_REQUIRED"`); once the
+official address is entered there, the office appears on the contact page in all four languages
+(names come from `i18n/*.json → contact.kz_office`). The build prints a warning while the address is missing.
+
+## 8. Contact page and forms
+
+The live contact page has no form, so no form, fields, placeholders or validation messages were added (adding
+a non-functional form was explicitly out of scope). Every visible label on the page is localized in all four languages.

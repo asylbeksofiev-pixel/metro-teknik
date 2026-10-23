@@ -122,10 +122,14 @@
   },
   "akademi-a6-blok-astana": {
    "tr": "/page/akademi-a6-blok-astana",
+   "en": "/page/akademi-a6-blok-astana-en",
+   "ru": "/page/akademi-a6-blok-astana-ru",
    "kk": "/page/akademi-a6-blok-astana-kk"
   },
   "akademi-a11-blok-astana": {
    "tr": "/page/akademi-a11-blok-astana",
+   "en": "/page/akademi-a11-blok-astana-en",
+   "ru": "/page/akademi-a11-blok-astana-ru",
    "kk": "/page/akademi-a11-blok-astana-kk"
   },
   "rixos-otel-borovoe": {
@@ -136,26 +140,31 @@
   },
   "han-cadir-mekanik-iscilik-astana": {
    "tr": "/page/han-cadir-mekanik-iscilik-astana",
+   "en": "/page/han-cadir-mekanik-iscilik-astana-en",
    "ru": "/page/han-cadir-mekanik-iscilik-astana-ru",
    "kk": "/page/han-cadir-mekanik-iscilik-astana-kk"
   },
   "stadyum-mekanik-iscilik-astana": {
    "tr": "/page/stadyum-mekanik-iscilik-astana",
+   "en": "/page/stadyum-mekanik-iscilik-astana-en",
    "ru": "/page/stadyum-mekanik-iscilik-astana-ru",
    "kk": "/page/stadyum-mekanik-iscilik-astana-kk"
   },
   "cocuk-hastanesi-mekanik-iscilik-astana": {
    "tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+   "en": "/page/cocuk-hastanesi-mekanik-iscilik-astana-en",
    "ru": "/page/cocuk-hastanesi-mekanik-iscilik-astana-ru",
    "kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk"
   },
   "sariarka-alisveris-merkezi-astana": {
    "tr": "/page/sariarka-alisveris-merkezi-astana",
+   "en": "/page/sariarka-alisveris-merkezi-astana-en",
    "ru": "/page/sariarka-alisveris-merkezi-astana-ru",
    "kk": "/page/sariarka-alisveris-merkezi-astana-kk"
   },
   "noroloji-hastanesi-mekanik-iscilik-astana": {
    "tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+   "en": "/page/noroloji-hastanesi-mekanik-iscilik-astana-en",
    "ru": "/page/noroloji-hastanesi-mekanik-iscilik-astana-ru",
    "kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk"
   },
@@ -179,6 +188,8 @@
   },
   "turkistan-sehir-hastanesi": {
    "tr": "/page/turkistan-sehir-hastanesi",
+   "en": "/page/turkistan-sehir-hastanesi-en",
+   "ru": "/page/turkistan-sehir-hastanesi-ru",
    "kk": "/page/turkistan-sehir-hastanesi-kk"
   },
   "karaganda-lastik-fabrikasi": {
@@ -243,36 +254,43 @@
   },
   "piramit-santiyesi-mekanik-iscilik-astana": {
    "tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+   "en": "/page/piramit-santiyesi-mekanik-iscilik-astana-en",
    "ru": "/page/primat-santiyesi-mekanik-iscilik-astana-ru",
    "kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk"
   },
   "nazarbayev-universitesi-1-etap": {
    "tr": "/page/nazarbayev-universitesi-1-etap",
+   "en": "/page/nazarbayev-universitesi-1-etap-en",
    "ru": "/page/nazarbayev-universitesi-1-etap-ru",
    "kk": "/page/nazarbayev-universitesi-1-etap-kk"
   },
   "cumhurbaskanligi-hastanesi": {
    "tr": "/page/cumhurbaskanligi-hastanesi",
+   "en": "/page/cumhurbaskanligi-hastanesi-en",
    "ru": "/page/cumhurbaskanligi-hastanesi-ru",
    "kk": "/page/cumhurbaskanligi-hastanesi-kk"
   },
   "akbozat-restoran": {
    "tr": "/page/akbozat-restoran",
+   "en": "/page/akbozat-restoran-en",
    "ru": "/page/akbozat-restoran-ru",
    "kk": "/page/akbozat-restoran-kk"
   },
   "bugday-depolari": {
    "tr": "/page/bugday-depolari",
+   "en": "/page/bugday-depolari-en",
    "ru": "/page/bugday-depolari-ru",
    "kk": "/page/bugday-depolari-kk"
   },
   "astana-motors-bmw-otosalon": {
    "tr": "/page/astana-motors-bmw-otosalon",
+   "en": "/page/astana-motors-bmw-otosalon-en",
    "ru": "/page/astana-motors-bmw-otosalon-ru",
    "kk": "/page/astana-motors-bmw-otosalon-kk"
   },
   "king-halid-havalimani": {
    "tr": "/page/king-halid-havalimani",
+   "en": "/page/king-halid-havalimani-en",
    "ru": "/page/king-halid-havalimani-ru",
    "kk": "/page/king-halid-havalimani-kk"
   },
@@ -284,6 +302,8 @@
   },
   "tersane-istanbul-spa-merkezi-villa": {
    "tr": "/page/tersane-istanbul-spa-merkezi-villa",
+   "en": "/page/tersane-istanbul-spa-merkezi-villa-en",
+   "ru": "/page/tersane-istanbul-spa-merkezi-villa-ru",
    "kk": "/page/tersane-istanbul-spa-merkezi-villa-kk"
   }
  },
@@ -572,8 +592,36 @@
    "mega-3-alisveris-merkezi-almaata",
    "en"
   ],
+  "/page/akademi-a6-blok-astana-en": [
+   "akademi-a6-blok-astana",
+   "en"
+  ],
+  "/page/akademi-a11-blok-astana-en": [
+   "akademi-a11-blok-astana",
+   "en"
+  ],
   "/page/rixos-otel-borovoe-en": [
    "rixos-otel-borovoe",
+   "en"
+  ],
+  "/page/han-cadir-mekanik-iscilik-astana-en": [
+   "han-cadir-mekanik-iscilik-astana",
+   "en"
+  ],
+  "/page/stadyum-mekanik-iscilik-astana-en": [
+   "stadyum-mekanik-iscilik-astana",
+   "en"
+  ],
+  "/page/cocuk-hastanesi-mekanik-iscilik-astana-en": [
+   "cocuk-hastanesi-mekanik-iscilik-astana",
+   "en"
+  ],
+  "/page/sariarka-alisveris-merkezi-astana-en": [
+   "sariarka-alisveris-merkezi-astana",
+   "en"
+  ],
+  "/page/noroloji-hastanesi-mekanik-iscilik-astana-en": [
+   "noroloji-hastanesi-mekanik-iscilik-astana",
    "en"
   ],
   "/page/metro-teknik-ongoing-projects": [
@@ -586,6 +634,10 @@
   ],
   "/page/kokshetau-hospital-en": [
    "kokshetau-hospital",
+   "en"
+  ],
+  "/page/turkistan-sehir-hastanesi-en": [
+   "turkistan-sehir-hastanesi",
    "en"
   ],
   "/page/karaganda-lastik-fabrikasi-en": [
@@ -628,8 +680,40 @@
    "astana-kongre-merkezi-komple-renovasyon",
    "en"
   ],
+  "/page/piramit-santiyesi-mekanik-iscilik-astana-en": [
+   "piramit-santiyesi-mekanik-iscilik-astana",
+   "en"
+  ],
+  "/page/nazarbayev-universitesi-1-etap-en": [
+   "nazarbayev-universitesi-1-etap",
+   "en"
+  ],
+  "/page/cumhurbaskanligi-hastanesi-en": [
+   "cumhurbaskanligi-hastanesi",
+   "en"
+  ],
+  "/page/akbozat-restoran-en": [
+   "akbozat-restoran",
+   "en"
+  ],
+  "/page/bugday-depolari-en": [
+   "bugday-depolari",
+   "en"
+  ],
+  "/page/astana-motors-bmw-otosalon-en": [
+   "astana-motors-bmw-otosalon",
+   "en"
+  ],
+  "/page/king-halid-havalimani-en": [
+   "king-halid-havalimani",
+   "en"
+  ],
   "/page/almata-hilton-en": [
    "almata-hilton",
+   "en"
+  ],
+  "/page/tersane-istanbul-spa-merkezi-villa-en": [
+   "tersane-istanbul-spa-merkezi-villa",
    "en"
   ],
   "/page/ana-sayfa-ru": [
@@ -712,6 +796,14 @@
    "mega-3-alisveris-merkezi-almaata",
    "ru"
   ],
+  "/page/akademi-a6-blok-astana-ru": [
+   "akademi-a6-blok-astana",
+   "ru"
+  ],
+  "/page/akademi-a11-blok-astana-ru": [
+   "akademi-a11-blok-astana",
+   "ru"
+  ],
   "/page/rixos-otel-borovoe-ru": [
    "rixos-otel-borovoe",
    "ru"
@@ -746,6 +838,10 @@
   ],
   "/page/kokshetau-hospital-ru": [
    "kokshetau-hospital",
+   "ru"
+  ],
+  "/page/turkistan-sehir-hastanesi-ru": [
+   "turkistan-sehir-hastanesi",
    "ru"
   ],
   "/page/karaganda-lastik-fabrikasi-ru": [
@@ -818,6 +914,10 @@
   ],
   "/page/almata-hilton-ru": [
    "almata-hilton",
+   "ru"
+  ],
+  "/page/tersane-istanbul-spa-merkezi-villa-ru": [
+   "tersane-istanbul-spa-merkezi-villa",
    "ru"
   ],
   "/page/ana-sayfa-kk": [

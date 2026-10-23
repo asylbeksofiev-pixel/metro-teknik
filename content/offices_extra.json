@@ -1,0 +1,9 @@
+{
+  "_note": "PLACEHOLDER — Kazakhstan office. No official Kazakhstan address exists on the live site, in its CMS content or in the 2021 catalog, so nothing is published yet. Fill in 'address' (lines as printed on official documents) and optionally 'phones' and 'map'; the office then appears on the contact page in all four languages. Leave the postal address in its original form; office names come from i18n contact.kz_office.",
+  "kz": {
+    "status": "ADDRESS_REQUIRED",
+    "address": null,
+    "phones": [],
+    "map": null
+  }
+}
