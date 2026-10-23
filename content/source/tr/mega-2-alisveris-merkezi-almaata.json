@@ -1,0 +1,48 @@
+{
+ "id": "mega-2-alisveris-merkezi-almaata",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/mega-2-alisveris-merkezi-almaata",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Mega 2 Alışveriş Merkezi",
+ "description": "",
+ "pagehead": null,
+ "heading": "Mega 2 Alışveriş Merkezi",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Almaata / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "A-TA STROY"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "105.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2013"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/MEGA-2-metro-teknik-net.jpg",
+   "alt": "Mega 2 Alışveriş Merkezi",
+   "width": "1200",
+   "height": "887"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

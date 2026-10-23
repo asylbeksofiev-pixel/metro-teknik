@@ -1,0 +1,48 @@
+{
+ "id": "tema-park",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/tema-park",
+ "html_lang": "tr",
+ "title": "TEMA PARK",
+ "description": "",
+ "pagehead": null,
+ "heading": "Tema Park",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Aktau/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "14.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2021"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/TEMA-PARK-metro-teknik-net.jpg",
+   "alt": "Tema Park",
+   "width": "720",
+   "height": "480"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

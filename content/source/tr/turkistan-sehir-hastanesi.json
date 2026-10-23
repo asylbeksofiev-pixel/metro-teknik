@@ -1,0 +1,129 @@
+{
+ "id": "turkistan-sehir-hastanesi",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/turkistan-sehir-hastanesi",
+ "html_lang": "tr",
+ "title": "Türkistan Şehir Hastanesi",
+ "description": "",
+ "pagehead": null,
+ "heading": "Türkistan Şehir Hastanesi",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Türkistan/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "YDA Group"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "79.200m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2021"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "12.166.000$"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/turkistan-sehir-hastanesi-cover.jpg",
+   "alt": "Türkistan Şehir Hastanesi",
+   "width": "1920",
+   "height": "1080"
+  }
+ ],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120222010593628000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120222010593628000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120222010413584400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120222010413584400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221590385024400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221590385024400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221580252503400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221580252503400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221570158717000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221570158717000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221470504153300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221470504153300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221460424097500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221460424097500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221440388696000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221440388696000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221430297226900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221430297226900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221430115211300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221430115211300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221310514761600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221310514761600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221290466812600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221290466812600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221280329439800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221280329439800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221260279582200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221260279582200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/38/main/38-202204120221250124819300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/38/691/38-202204120221250124819300.jpg",
+   "alt": ""
+  }
+ ]
+}

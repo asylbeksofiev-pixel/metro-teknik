@@ -1,0 +1,160 @@
+/* Metro Teknik design tokens.
+   Palette derived from the logo: indigo wordmark (#2E3192), orange arrow (#F07040), blue arrow (#0078C0).
+   Indigo is the primary brand colour, the logo orange is the single accent. */
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url("../fonts/ibm-plex-sans-cyrillic-ext.woff2") format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url("../fonts/ibm-plex-sans-cyrillic.woff2") format("woff2");
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url("../fonts/ibm-plex-sans-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url("../fonts/ibm-plex-sans-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  /* colour: neutrals */
+  --c-white: #ffffff;
+  --c-bg: #ffffff;
+  --c-surface: #f4f6f9;
+  --c-surface-2: #e9edf3;
+  --c-border: #dde2ea;
+  --c-border-strong: #c3cad6;
+
+  /* colour: ink (text) */
+  --c-ink: #0f1a33;
+  --c-text: #28324a;
+  --c-muted: #566078;
+
+  /* colour: navy (dark surfaces) */
+  --c-navy-950: #0a1229;
+  --c-navy-900: #0e1835;
+  --c-navy-800: #17234a;
+  --c-on-dark: #f2f4f8;
+  --c-on-dark-muted: #a9b2c6;
+  --c-on-dark-border: rgba(255, 255, 255, 0.14);
+
+  /* colour: brand (logo indigo) */
+  --c-brand: #2e3192;
+  --c-brand-hover: #23267a;
+  --c-brand-tint: #eceefa;
+
+  /* colour: accent (logo orange) — markers, active states, focus; text uses the darker step */
+  --c-accent: #e8622c;
+  --c-accent-text: #b2441a;
+  --c-accent-tint: #fdf0ea;
+
+  --c-focus: #e8622c;
+  --c-overlay: rgba(10, 18, 41, 0.92);
+
+  /* typography */
+  --font-sans: "IBM Plex Sans", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+
+  --fs-xs: 0.8125rem;   /* 13 */
+  --fs-sm: 0.875rem;    /* 14 */
+  --fs-base: 1rem;      /* 16 */
+  --fs-body: 1.0625rem; /* 17 */
+  --fs-md: 1.125rem;    /* 18 */
+  --fs-lg: 1.25rem;     /* 20 */
+  --fs-xl: clamp(1.375rem, 1.2rem + 0.6vw, 1.625rem);
+  --fs-2xl: clamp(1.625rem, 1.35rem + 1.1vw, 2.125rem);
+  --fs-3xl: clamp(1.875rem, 1.45rem + 1.7vw, 2.75rem);
+
+  --lh-tight: 1.2;
+  --lh-snug: 1.35;
+  --lh-body: 1.65;
+  --tracking-caps: 0.08em;
+  --measure: 68ch;
+
+  /* spacing (4px base) */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 2.5rem;
+  --space-8: 3rem;
+  --space-9: 4rem;
+  --space-10: 5.5rem;
+  --section-y: clamp(3rem, 2rem + 4vw, 5.5rem);
+
+  /* layout */
+  --container: 78rem;
+  --gutter: 1rem;
+  --header-h: 4rem;
+  --topbar-h: 2.25rem;
+  --sidebar-w: 16.5rem;
+  --tap: 2.75rem; /* minimum touch target, 44px */
+
+  /* shape */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --border: 1px solid var(--c-border);
+
+  /* elevation */
+  --shadow-sm: 0 1px 2px rgba(15, 26, 51, 0.06);
+  --shadow-md: 0 6px 18px -6px rgba(15, 26, 51, 0.14);
+  --shadow-lg: 0 16px 40px -12px rgba(15, 26, 51, 0.22);
+
+  /* motion */
+  --dur-fast: 160ms;
+  --dur-base: 220ms;
+  --dur-reveal: 420ms;
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.45, 0, 0.25, 1);
+  --reveal-shift: 12px;
+  --hover-lift: -3px;
+  --hover-zoom: 1.03;
+
+  /* layers */
+  --z-header: 50;
+  --z-dropdown: 60;
+  --z-panel: 80;
+  --z-dialog: 100;
+}
+
+@media (min-width: 48em) {
+  :root { --gutter: 1.5rem; }
+}
+@media (min-width: 64em) {
+  :root { --gutter: 2rem; --header-h: 4.5rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur-base: 0ms;
+    --dur-reveal: 0ms;
+    --reveal-shift: 0px;
+    --hover-lift: 0px;
+    --hover-zoom: 1;
+  }
+}

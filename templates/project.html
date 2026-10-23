@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(breadcrumb, t) }}
+    <h1 class="page-head__title"{{ page.heading_lang }}>{{ page.heading }}</h1>
+    <div class="page-head__meta">
+      {{ m.badge(page.status, t) }}
+      {%- if page.location %}
+      <span class="card__meta">{{ m.icon("pin") }}<span{{ page.location_lang }}>{{ page.location }}</span></span>
+      {%- endif %}
+      {%- if page.date %}
+      <span class="card__meta">{{ m.icon("calendar") }}{{ page.date }}</span>
+      {%- endif %}
+    </div>
+  </div>
+</div>
+
+<div class="container project">
+  <div class="project__grid">
+    {%- if page.lead_image %}
+    <figure class="frame frame--4x3 project__lead-media" data-reveal>
+      <img src="{{ page.lead_image.src }}" alt="{{ page.heading }}" decoding="async" fetchpriority="high"{% if page.lead_image.width %} width="{{ page.lead_image.width }}" height="{{ page.lead_image.height }}"{% endif %}>
+    </figure>
+    {%- endif %}
+    <section aria-labelledby="facts-title" data-reveal>
+      <h2 id="facts-title">{{ t.projects.facts_title }}</h2>
+      <dl class="facts">
+        {%- for f in page.facts %}
+        <div class="facts__item{% if f.wide %} facts__item--wide{% endif %}">
+          <dt>{{ f.label }}</dt>
+          <dd{{ f.lang_attr }}>{{ f.value }}</dd>
+        </div>
+        {%- endfor %}
+      </dl>
+      {%- if page.note %}
+      <p class="note mt-4"><strong>{{ t.facts.note }}:</strong> <span{{ page.note.lang_attr }}>{{ page.note.value }}</span></p>
+      {%- endif %}
+      {%- if page.body_html %}
+      <div class="prose mt-5">{{ page.body_html|safe }}</div>
+      {%- endif %}
+    </section>
+  </div>
+
+  {%- if page.gallery %}
+  <section aria-labelledby="gallery-title">
+    <div class="section-head section-head--row mb-5">
+      <h2 id="gallery-title">{{ t.projects.gallery_title }}</h2>
+      <p class="card__meta">{{ t.gallery.count|replace("{n}", page.gallery|length) }}</p>
+    </div>
+    {{ m.gallery(page.gallery, "project", t, "photo", page.heading) }}
+  </section>
+  {%- endif %}
+
+  {%- if page.related %}
+  <section class="related mt-0" aria-labelledby="related-title">
+    <div class="section-head section-head--row mb-5">
+      <h2 id="related-title">{{ t.common.related_projects }}</h2>
+      <a class="text-link" href="{{ page.list_url }}">{{ page.list_label }} {{ m.icon("arrow-right") }}</a>
+    </div>
+    <div class="grid grid--3" data-reveal-group>
+      {%- for p in page.related %}
+      {{ m.project_card(p, t) }}
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif %}
+
+  <p><a class="back-link" href="{{ page.list_url }}">{{ m.icon("arrow-left") }} {{ t.common.back_to_list }}</a></p>
+</div>
+{% endblock %}

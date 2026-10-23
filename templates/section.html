@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{# company, certificates and service pages #}
+{% block content %}
+<div class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(breadcrumb, t) }}
+    <h1 class="page-head__title"{{ page.heading_lang }}>{{ page.heading }}</h1>
+  </div>
+</div>
+<div class="container with-sidebar">
+  {{ m.subnav(page.subnav, t, page.subnav_label) }}
+  <div>
+    {%- if page.body_html %}
+    <div class="prose" data-reveal{{ page.body_lang }}>
+      {{ page.body_html|safe }}
+    </div>
+    {%- endif %}
+    {%- if page.figure %}
+    <figure class="content-figure" data-reveal>
+      <img src="{{ page.figure.src }}" alt="{{ page.figure.alt }}" loading="lazy" decoding="async"{% if page.figure.width %} width="{{ page.figure.width }}" height="{{ page.figure.height }}"{% endif %}>
+    </figure>
+    {%- endif %}
+    {%- if page.gallery %}
+    <section aria-labelledby="gallery-title">
+      <h2 id="gallery-title" class="visually-hidden">{{ t.gallery.certificates_title }}</h2>
+      <p class="card__meta mb-4">{{ t.gallery.count|replace("{n}", page.gallery|length) }}</p>
+      {{ m.gallery(page.gallery, "certificates", t, "doc") }}
+    </section>
+    {%- endif %}
+    {%- if page.related_services %}
+    <section class="related" aria-labelledby="related-title">
+      <h2 id="related-title">{{ t.common.other_services }}</h2>
+      <div class="grid" data-reveal-group>
+        {%- for s in page.related_services %}
+        {{ m.service_card(s, t, s.num) }}
+        {%- endfor %}
+      </div>
+    </section>
+    {%- endif %}
+  </div>
+</div>
+{% endblock %}

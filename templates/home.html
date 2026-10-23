@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero on-dark" aria-labelledby="hero-title">
+  <div class="hero__media">
+    <img src="{{ page.hero.image }}" alt="" width="1920" height="600" fetchpriority="high" decoding="async">
+  </div>
+  <div class="container hero__inner">
+    <p class="eyebrow">{{ t.home.eyebrow }}</p>
+    <h1 id="hero-title">{{ t.home.hero_title }}</h1>
+    <p class="lead">{{ t.home.hero_lead }}</p>
+    <div class="btn-row">
+      <a class="btn btn--light" href="{{ page.links.completed }}">{{ t.home.cta_projects }} {{ m.icon("arrow-right", "icon--arrow") }}</a>
+      <a class="btn btn--outline-light" href="{{ page.links.services }}">{{ t.home.cta_services }}</a>
+    </div>
+  </div>
+  {%- if page.hero.url %}
+  <p class="hero__caption">{{ m.icon("pin") }}<a href="{{ page.hero.url }}"{{ page.hero.lang_attr }}>{{ page.hero.name }}</a></p>
+  {%- endif %}
+</section>
+
+<section class="section" aria-labelledby="services-title">
+  <div class="container">
+    <div class="section-head" data-reveal>
+      <h2 id="services-title">{{ t.home.services_title }}</h2>
+      <p class="lead">{{ t.home.services_lead }}</p>
+    </div>
+    <div class="grid grid--services" data-reveal-group>
+      {%- for s in page.services %}
+      {{ m.service_card(s, t, loop.index) }}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section--surface" aria-labelledby="about-title">
+  <div class="container about">
+    <div class="about__text stack" data-reveal>
+      <p class="eyebrow">{{ page.intro_heading }}</p>
+      <h2 id="about-title">{{ t.home.about_title }}</h2>
+      <p>{{ page.intro }}</p>
+      <p><a class="text-link" href="{{ page.links.company }}">{{ t.common.read_more }} {{ m.icon("arrow-right") }}</a></p>
+    </div>
+    <nav aria-labelledby="about-title" data-reveal>
+      <ul class="link-list">
+        {%- for c in page.company_links %}
+        <li><a href="{{ c.url }}">{{ c.label }} {{ m.icon("arrow-right") }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="projects-title">
+  <div class="container">
+    <div class="section-head section-head--row" data-reveal>
+      <div class="stack">
+        <h2 id="projects-title">{{ page.projects_heading }}</h2>
+        <p class="lead">{{ t.home.projects_lead }}</p>
+      </div>
+      <div class="btn-row">
+        <a class="btn btn--secondary" href="{{ page.links.ongoing }}">{{ t.home.all_ongoing }}</a>
+        <a class="btn btn--secondary" href="{{ page.links.completed }}">{{ t.home.all_completed }}</a>
+      </div>
+    </div>
+    <div class="grid grid--3" data-reveal-group>
+      {%- for p in page.featured %}
+      {{ m.project_card(p, t) }}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="cta-band on-dark" aria-labelledby="cta-title">
+  <div class="container cta-band__inner">
+    <h2 id="cta-title" data-reveal>{{ page.action_heading }}</h2>
+    <div class="btn-row" data-reveal>
+      <a class="btn btn--light" href="{{ contact_url }}">{{ t.home.contact_cta }} {{ m.icon("arrow-right", "icon--arrow") }}</a>
+      <a class="btn btn--outline-light" href="{{ chrome.catalog.url }}" target="_blank" rel="noopener" type="application/pdf">{{ m.icon("file") }} {{ t.catalog.download }}<span class="visually-hidden"> — {{ t.catalog.meta|replace("{size}", chrome.catalog.size) }} {{ t.common.opens_new_tab }}</span></a>
+    </div>
+  </div>
+</section>
+{% endblock %}

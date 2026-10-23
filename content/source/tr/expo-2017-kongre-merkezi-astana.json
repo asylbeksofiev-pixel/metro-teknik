@@ -1,0 +1,48 @@
+{
+ "id": "expo-2017-kongre-merkezi-astana",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/expo-2017-kongre-merkezi-astana",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / EXPO 2017 Kongre Merkezi",
+ "description": "",
+ "pagehead": null,
+ "heading": "EXPO 2017 Kongre Merkezi",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "48.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2016"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/EXPO-KONGRE_MERKEZI-metro-teknik-net.jpg",
+   "alt": "EXPO 2017 Kongre Merkezi",
+   "width": "564",
+   "height": "564"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

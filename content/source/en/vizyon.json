@@ -1,0 +1,38 @@
+{
+ "id": "vizyon",
+ "type": "company",
+ "lang": "en",
+ "path": "/page/vision",
+ "html_lang": "en",
+ "title": "Vision",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Corporate"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vision"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Mission"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "President's Message"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Quality and Environment Policy"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "Our Certificates of Completion"
+  }
+ ],
+ "heading": "Vision",
+ "body_html": "<p>It is to provide for people to benefit from the modernity, architecture and technology at a high level without breaking their ties with nature by respecting people and nature and transfer our Life Architecture philosophy to life practices without ignoring the fact that we will serve as a model to the entire world.</p>",
+ "gallery": []
+}

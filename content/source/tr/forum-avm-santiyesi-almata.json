@@ -1,0 +1,48 @@
+{
+ "id": "forum-avm-santiyesi-almata",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/forum-avm-santiyesi-almata",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Forum AVM Şantiyesi",
+ "description": "",
+ "pagehead": null,
+ "heading": "Forum AVM",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Almata / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "ATASTROY"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "163.961 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2015"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/FORUM-AVM-metro-teknik-net.jpg",
+   "alt": "Forum AVM",
+   "width": "2160",
+   "height": "1157"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

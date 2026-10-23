@@ -1,0 +1,48 @@
+{
+ "id": "kokshetau-hospital",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/kokshetau-hospital",
+ "html_lang": "tr",
+ "title": "Kokshetau Hospital",
+ "description": "",
+ "pagehead": null,
+ "heading": "Kokshetau Hospital",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Kokshetau/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "RÖNESANS HOLDİNG A.Ş."
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "110.000 m2 (630 Yataklı)"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2025"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/Kokshetau-Hastane-metro-teknik-net.jpg",
+   "alt": "Kokshetau Hospital",
+   "width": "1789",
+   "height": "809"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

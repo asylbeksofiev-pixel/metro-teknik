@@ -1,0 +1,48 @@
+{
+ "id": "almata-hilton",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/almata-hilton-ru",
+ "html_lang": "ru",
+ "title": "Almata Hilton",
+ "description": "",
+ "pagehead": null,
+ "heading": "Almata Hilton",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Almata/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "ARTEMIDA LTD."
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "40.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2025"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/ALMATA-HILTON-metro-teknik-net.jpg",
+   "alt": "Almata Hilton",
+   "width": "1066",
+   "height": "1280"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

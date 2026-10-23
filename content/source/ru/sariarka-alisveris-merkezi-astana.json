@@ -1,0 +1,97 @@
+{
+ "id": "sariarka-alisveris-merkezi-astana",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/sariarka-alisveris-merkezi-astana-ru",
+ "html_lang": "ru",
+ "title": "Торгово-развлекательный центр \"Сары-Арка\"",
+ "description": "",
+ "pagehead": "Торгово-развлекательный центр \"Сары-Арка\"",
+ "heading": "Торгово-развлекательный центр \"Сары-Арка\"",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "БАЙТУР/ГЕМТАШ"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "42.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2006"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$925.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337520128640200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337520128640200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337370982825700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337370982825700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337370850112800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337370850112800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337370719624800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337370719624800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337360673987800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337360673987800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337350530113000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337350530113000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337350416077600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337350416077600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337340302898700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337340302898700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337320282244100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337320282244100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337320166391600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337320166391600.jpg",
+   "alt": ""
+  }
+ ]
+}

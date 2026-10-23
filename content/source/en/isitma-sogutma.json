@@ -1,0 +1,34 @@
+{
+ "id": "isitma-sogutma",
+ "type": "service",
+ "lang": "en",
+ "path": "/page/heating-and-cooling",
+ "html_lang": "en",
+ "title": "Heating and Cooling",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/havalandirma-sistemleri",
+   "label": "Ventilation Systems"
+  },
+  {
+   "href": "/page/isitma-sogutma",
+   "label": "Heating and Cooling"
+  },
+  {
+   "href": "/page/sihhi-tesisat",
+   "label": "Plumbing"
+  },
+  {
+   "href": "/page/yangin",
+   "label": "Fire"
+  },
+  {
+   "href": "/page/mekanik-otomasyon",
+   "label": "Mechanical Automation"
+  }
+ ],
+ "heading": "Heating and Cooling",
+ "body_html": "<p>Provision, application on local standards, isolation, testing and commissioning device armature installation of systems such as boiler, pump, heat exchanger, chiller, cooling towers, fan coil, vrv, radiator, floor heating and so on.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/all-services/ISITMA-SOGUTMA-0047.jpg\" alt=\"Metro Teknik Isıtma ve Soğutma Hizmeti\" width=\"602\" height=\"455\"></figure>",
+ "gallery": []
+}

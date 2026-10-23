@@ -1,0 +1,82 @@
+{
+ "id": "bugday-depolari",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/bugday-depolari",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Buğday Depoları",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Buğday Depoları",
+ "heading": "Buğday Depoları",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Öskemen"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "33.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2011"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "HAVALANDIRMA MONTAJ+MALZEME"
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$550.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231113000293781700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231113000293781700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231112590196448500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231112590196448500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231112110509967400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231112110509967400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231112090491031600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231112090491031600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231112080397437500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231112080397437500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231112070277288000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231112070277288000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/30/main/30-201710231112060172084800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/30/691/30-201710231112060172084800.jpg",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "town-center",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/town-center-ru",
+ "html_lang": "ru",
+ "title": "TOWN CENTER",
+ "description": "",
+ "pagehead": null,
+ "heading": "Town Center",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Location",
+   "value": "Aktau/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "Employer/Investor",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Closed Construction Area",
+   "value": "48.500 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2021"
+  },
+  {
+   "key": "scope",
+   "label": "Scope of Project",
+   "value": "Isıtma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/projects/town-center.jpg",
+   "alt": "Fairmont Otel",
+   "width": "1280",
+   "height": "720"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

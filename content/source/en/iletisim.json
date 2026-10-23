@@ -1,0 +1,49 @@
+{
+ "id": "iletisim",
+ "type": "contact",
+ "lang": "en",
+ "path": "/page/contact",
+ "html_lang": "en",
+ "title": "Contact",
+ "description": "Contact with metro teknik now",
+ "offices": [
+  {
+   "name": "METRO-TEKNİK İSTANBUL OFFICE",
+   "fields": [
+    {
+     "label": "Addres",
+     "lines": [
+      "Osmanağa Mah. Kuşdili Cad. No: 65 Kat: 5 Yüksel İş Hanı",
+      "Kadıköy / İstanbul / Türkiye"
+     ]
+    },
+    {
+     "label": "Telephone",
+     "lines": [
+      "+90 0216 345 11 61"
+     ]
+    }
+   ],
+   "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d532.3931540172331!2d29.033018301744743!3d40.98869596441108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab86ff5b4fac3%3A0x47cd29dcada40307!2zWcO8a3NlbCDEsMWfIEhhbsSx!5e0!3m2!1str!2str!4v1488413603414"
+  },
+  {
+   "name": "METRO-TEKNİK ADANA OFFICE",
+   "fields": [
+    {
+     "label": "Addres",
+     "lines": [
+      "Çınarlı Mah. İnönü Cad. Günep Kuruköprü",
+      "İş Merk. No:42-101 K:7 No:704 Seyhan-Adana"
+     ]
+    },
+    {
+     "label": "Telephone",
+     "lines": [
+      "+90 0551 233 10 49"
+     ]
+    }
+   ],
+   "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6373.693373152232!2d35.319509!3d36.9895926!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc79d49f54dfb50d9!2zR8O8bmVwIEt1cnVrw7ZwcsO8IMSwxZ8gTWVya2V6aQ!5e0!3m2!1sen!2str!4v1488927721964"
+  }
+ ]
+}

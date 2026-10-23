@@ -1,0 +1,52 @@
+{
+ "id": "king-halid-havalimani",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/king-halid-havalimani-ru",
+ "html_lang": "ru",
+ "title": "КИНГ ХАЛИД АЭРОПОРТ",
+ "description": "",
+ "pagehead": "КИНГ ХАЛИД АЭРОПОРТ",
+ "heading": "КИНГ ХАЛИД АЭРОПОРТ",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "РИЯД"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "ТАВ"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "90.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2014"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ВЕНТИЛЯЦИЯ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$1.500.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/32/main/32-201710231123100171746000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/32/691/32-201710231123100171746000.jpg",
+   "alt": ""
+  }
+ ]
+}

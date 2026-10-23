@@ -1,0 +1,3502 @@
+[
+ {
+  "page": "home",
+  "type": "home",
+  "url_tr": "/",
+  "url_kk": "/page/ana-sayfa-kk",
+  "field": "title",
+  "tr": "Ana Sayfa",
+  "kk": "Басты бет",
+  "cms_value": "<!--:kk_kz-->Басты бет<!--:-->"
+ },
+ {
+  "page": "home",
+  "type": "home",
+  "url_tr": "/",
+  "url_kk": "/page/ana-sayfa-kk",
+  "field": "meta_description",
+  "tr": "Metro Teknik mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.",
+  "kk": "Metro Teknik механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету қызметтерін нормативтік талаптарға сай, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып көрсетеді.",
+  "cms_value": "<!--:kk_kz-->Metro Teknik механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету қызметтерін нормативтік талаптарға сай, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып көрсетеді.<!--:-->"
+ },
+ {
+  "page": "home",
+  "type": "home",
+  "url_tr": "/",
+  "url_kk": "/page/ana-sayfa-kk",
+  "field": "intro",
+  "tr": "Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.",
+  "kk": "Жылыту мен салқындату, желдету және ауа баптау, өрттен қорғау, сумен жабдықтау және су бұру, ғимараттың механикалық жүйелерін автоматтандыру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеміз.",
+  "cms_value": "<!--:kk_kz-->Жылыту мен салқындату, желдету және ауа баптау, өрттен қорғау, сумен жабдықтау және су бұру, ғимараттың механикалық жүйелерін автоматтандыру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеміз.<!--:-->"
+ },
+ {
+  "page": "home",
+  "type": "home",
+  "url_tr": "/",
+  "url_kk": "/page/ana-sayfa-kk",
+  "field": "action_heading",
+  "tr": "Tamamlanması Gereken Bir İş Varsa İşi Bize Bırakın",
+  "kk": "Аяқталуы тиіс жұмыс болса, оны бізге сеніп тапсырыңыз",
+  "cms_value": "<!--:kk_kz-->Аяқталуы тиіс жұмыс болса, оны бізге сеніп тапсырыңыз<!--:-->"
+ },
+ {
+  "page": "home",
+  "type": "home",
+  "url_tr": "/",
+  "url_kk": "/page/ana-sayfa-kk",
+  "field": "projects_heading",
+  "tr": "Projelerimiz",
+  "kk": "Жобалар",
+  "cms_value": "<!--:kk_kz-->Жобалар<!--:-->"
+ },
+ {
+  "page": "iletisim",
+  "type": "contact",
+  "url_tr": "/page/iletisim",
+  "url_kk": "/page/iletisim-kk",
+  "field": "title",
+  "tr": "İletişim",
+  "kk": "Байланыс",
+  "cms_value": "<!--:kk_kz-->Байланыс<!--:-->"
+ },
+ {
+  "page": "iletisim",
+  "type": "contact",
+  "url_tr": "/page/iletisim",
+  "url_kk": "/page/iletisim-kk",
+  "field": "heading",
+  "tr": "",
+  "kk": "Байланыс",
+  "cms_value": "<!--:kk_kz-->Байланыс<!--:-->"
+ },
+ {
+  "page": "iletisim",
+  "type": "contact",
+  "url_tr": "/page/iletisim",
+  "url_kk": "/page/iletisim-kk",
+  "field": "office.0.name",
+  "tr": "METRO-TEKNİK İSTANBUL OFİS",
+  "kk": "METRO-TEKNİK Стамбұл кеңсесі",
+  "cms_value": "<!--:kk_kz-->METRO-TEKNİK Стамбұл кеңсесі<!--:-->"
+ },
+ {
+  "page": "iletisim",
+  "type": "contact",
+  "url_tr": "/page/iletisim",
+  "url_kk": "/page/iletisim-kk",
+  "field": "office.1.name",
+  "tr": "METRO-TEKNİK ADANA OFİS",
+  "kk": "METRO-TEKNİK Адана кеңсесі",
+  "cms_value": "<!--:kk_kz-->METRO-TEKNİK Адана кеңсесі<!--:-->"
+ },
+ {
+  "page": "kurumsal",
+  "type": "company",
+  "url_tr": "/page/kurumsal",
+  "url_kk": "/page/kurumsal-kk",
+  "field": "title",
+  "tr": "Kurumsal",
+  "kk": "Компания туралы",
+  "cms_value": "<!--:kk_kz-->Компания туралы<!--:-->"
+ },
+ {
+  "page": "kurumsal",
+  "type": "company",
+  "url_tr": "/page/kurumsal",
+  "url_kk": "/page/kurumsal-kk",
+  "field": "heading",
+  "tr": "Kurumsal",
+  "kk": "Компания туралы",
+  "cms_value": "<!--:kk_kz-->Компания туралы<!--:-->"
+ },
+ {
+  "page": "kurumsal",
+  "type": "company",
+  "url_tr": "/page/kurumsal",
+  "url_kk": "/page/kurumsal-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Metro Teknik — 2013 жылы Түркияның Адана қаласында құрылған, климаттық және механикалық инженерлік жүйелер саласында жобалау және мердігерлік қызметтер көрсететін компания.",
+  "cms_value": "<!--:kk_kz-->Metro Teknik — 2013 жылы Түркияның Адана қаласында құрылған, климаттық және механикалық инженерлік жүйелер саласында жобалау және мердігерлік қызметтер көрсететін компания.<!--:-->"
+ },
+ {
+  "page": "kurumsal",
+  "type": "company",
+  "url_tr": "/page/kurumsal",
+  "url_kk": "/page/kurumsal-kk",
+  "field": "body_html",
+  "tr": "<p>15 yıllık iş deneyimimizi 2013 yılında Türkiye Adana' da kurduğumuz Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. Şirketimizle profosyonel anlamda ve çağın teknik ve teknolojisini kullanarak iklimlendirme ve mekanik tesisat alanlarında proje ve taahhüt hizmeti vermek üzere kurulan firmamız, deneyimli ve uzman kadrosu ile sektöründe kaliteden ödün vermeden önemli işlere imza atmıştır.</p>\n<p>Isıtma-Soğutma, Havalandırma, Yangın Tesisatı, Sıhhi Tesisat, ..vb mekanik sistemleri, fizibilite ,danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir. Çalışmaların tüm aşamalarında; sistem seçimlerini, işverenin istekleri doğrultusunda ve optimum yatırım ve işletme maliyetlerini dikkate alarak yapmayı hedefleyen METRO TEKNİK, yatırımcıların çözüm ortağı olarak sektördeki yerini almıştır.</p>\n<p>Amacımız istenilen hizmeti, etkin bir çevre ve enerji bilinci ile gelişen teknolojiyi takip ederek, verimli sistemler kurmaktır.</p>\n<p>Uluslararası projelerin yapımında bulunmanın verdiği tecrübe birikimiyle en doğru tasarım ve kaliteli imalata dayalı müşteri menmuniyetini temel hedef edinmiştir.<br>Firmamızın amacı Türkiye, Kazakistan, Türki Cumhuriyetler, Rusya, Ortadoğu Ülkelerinde standartlara uygun, doğaya saygılı, yaşam alanlarının sağlıklı konfor şartlarını sağlayan, endüstriyel, konut ve sosyal hizmet yapılarının iklimlendirme ve mekanik tesisat uygulamalarını gerçekleştirmektir.</p>\n<p>Yapımını bitirdiğimiz projelerde kurulu tüm iklimlendirme ve mekanik tesisat sistemlerinin işletme şartları performans testleri düzenli bir şekilde kontrol edilmektedir. Tesislerin dizayn şartlarında tavsiye edilen set değerleri ve öngörülen enerji tüketim maliyetlerine uygun olarak, sistemlerin en verimli şekilde çalışması sağlanmaktadır. Ayrıca işverenin isteğine bağlı olarak belirtilen işletme personeline gerekli eğitimler verilmektedir.</p>",
+  "kk": "<p>15 жылдық тәжірибемізді 2013 жылы Түркияның Адана қаласында құрылған Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. компаниясында жалғастырдық. Климаттық жабдықтар мен механикалық инженерлік жүйелер саласында заманауи техника мен технологияларды қолдана отырып, жобалау және мердігерлік қызметтерді кәсіби деңгейде көрсету үшін құрылған компаниямыз тәжірибелі әрі білікті мамандарының арқасында сапаға нұқсан келтірмей, салада маңызды жобаларды жүзеге асырды.</p>\n<p>Компания жылыту мен салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеді. Жұмыстың барлық кезеңдерінде жүйелерді тапсырыс берушінің талаптарына сай, инвестиция мен пайдалану шығындарының оңтайлы деңгейін ескере отырып таңдауды мақсат тұтқан METRO TEKNİK салада инвесторлар үшін шешім ұсынатын серіктес ретінде өз орнын алды.</p>\n<p>Біздің мақсатымыз — қоршаған орта мен энергияны тиімді пайдалануға жауапкершілікпен қарап, дамып келе жатқан технологияларды басшылыққа ала отырып, қажетті қызметті көрсету және тиімді жүйелер орнату.</p>\n<p>Халықаралық жобаларға қатысу арқылы жинақталған тәжірибеміздің арқасында дұрыс жобалық шешімдер мен сапалы орындалған жұмысқа негізделген тапсырыс берушілердің қанағаттануын басты мақсат етіп қойдық.</p>\n<p>Компаниямыздың мақсаты — Түркияда, Қазақстанда, түркі республикаларында, Ресейде және Таяу Шығыс елдерінде өнеркәсіптік, тұрғын үй және әлеуметтік нысандарда стандарттарға сай, табиғатқа ұқыпты қарайтын, тіршілік ортасында денсаулыққа қолайлы жайлы жағдай жасайтын климаттық және механикалық инженерлік жүйелерді орнату.</p>\n<p>Біз аяқтаған жобаларда орнатылған барлық климаттық және механикалық инженерлік жүйелердің пайдалану жағдайлары мен өнімділік сынақтары тұрақты түрде тексеріледі. Жүйелердің жобалық шарттарда ұсынылған баптау мәндеріне және болжанған энергия шығынына сәйкес барынша тиімді жұмыс істеуі қамтамасыз етіледі. Сонымен қатар тапсырыс берушінің қалауы бойынша оның пайдалану қызметкерлеріне қажетті оқыту жүргізіледі.</p>",
+  "cms_value": "<!--:kk_kz--><p>15 жылдық тәжірибемізді 2013 жылы Түркияның Адана қаласында құрылған Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. компаниясында жалғастырдық. Климаттық жабдықтар мен механикалық инженерлік жүйелер саласында заманауи техника мен технологияларды қолдана отырып, жобалау және мердігерлік қызметтерді кәсіби деңгейде көрсету үшін құрылған компаниямыз тәжірибелі әрі білікті мамандарының арқасында сапаға нұқсан келтірмей, салада маңызды жобаларды жүзеге асырды.</p>\n<p>Компания жылыту мен салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеді. Жұмыстың барлық кезеңдерінде жүйелерді тапсырыс берушінің талаптарына сай, инвестиция мен пайдалану шығындарының оңтайлы деңгейін ескере отырып таңдауды мақсат тұтқан METRO TEKNİK салада инвесторлар үшін шешім ұсынатын серіктес ретінде өз орнын алды.</p>\n<p>Біздің мақсатымыз — қоршаған орта мен энергияны тиімді пайдалануға жауапкершілікпен қарап, дамып келе жатқан технологияларды басшылыққа ала отырып, қажетті қызметті көрсету және тиімді жүйелер орнату.</p>\n<p>Халықаралық жобаларға қатысу арқылы жинақталған тәжірибеміздің арқасында дұрыс жобалық шешімдер мен сапалы орындалған жұмысқа негізделген тапсырыс берушілердің қанағаттануын басты мақсат етіп қойдық.</p>\n<p>Компаниямыздың мақсаты — Түркияда, Қазақстанда, түркі республикаларында, Ресейде және Таяу Шығыс елдерінде өнеркәсіптік, тұрғын үй және әлеуметтік нысандарда стандарттарға сай, табиғатқа ұқыпты қарайтын, тіршілік ортасында денсаулыққа қолайлы жайлы жағдай жасайтын климаттық және механикалық инженерлік жүйелерді орнату.</p>\n<p>Біз аяқтаған жобаларда орнатылған барлық климаттық және механикалық инженерлік жүйелердің пайдалану жағдайлары мен өнімділік сынақтары тұрақты түрде тексеріледі. Жүйелердің жобалық шарттарда ұсынылған баптау мәндеріне және болжанған энергия шығынына сәйкес барынша тиімді жұмыс істеуі қамтамасыз етіледі. Сонымен қатар тапсырыс берушінің қалауы бойынша оның пайдалану қызметкерлеріне қажетті оқыту жүргізіледі.</p><!--:-->"
+ },
+ {
+  "page": "havalandirma-sistemleri",
+  "type": "service",
+  "url_tr": "/page/havalandirma-sistemleri",
+  "url_kk": "/page/havalandirma-sistemleri-kk",
+  "field": "title",
+  "tr": "Havalandırma Sistemleri",
+  "kk": "Желдету жүйелері",
+  "cms_value": "<!--:kk_kz-->Желдету жүйелері<!--:-->"
+ },
+ {
+  "page": "havalandirma-sistemleri",
+  "type": "service",
+  "url_tr": "/page/havalandirma-sistemleri",
+  "url_kk": "/page/havalandirma-sistemleri-kk",
+  "field": "heading",
+  "tr": "Havalandırma Sistemleri",
+  "kk": "Желдету жүйелері",
+  "cms_value": "<!--:kk_kz-->Желдету жүйелері<!--:-->"
+ },
+ {
+  "page": "havalandirma-sistemleri",
+  "type": "service",
+  "url_tr": "/page/havalandirma-sistemleri",
+  "url_kk": "/page/havalandirma-sistemleri-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Ауа арналарын дайындау, ауа баптау қондырғыларын, желдеткіштерді, рекуператорларды және гигиеналық желдету жүйелерін монтаждау, сынау және іске қосу.",
+  "cms_value": "<!--:kk_kz-->Ауа арналарын дайындау, ауа баптау қондырғыларын, желдеткіштерді, рекуператорларды және гигиеналық желдету жүйелерін монтаждау, сынау және іске қосу.<!--:-->"
+ },
+ {
+  "page": "havalandirma-sistemleri",
+  "type": "service",
+  "url_tr": "/page/havalandirma-sistemleri",
+  "url_kk": "/page/havalandirma-sistemleri-kk",
+  "field": "body_html",
+  "tr": "<p>Merkezi ve lokal havalandırmaya yönelik, galvaniz, siyah, paslanmaz, dikdörtgen ve yuvarlak kanal imalatları, her türlü klima santrali, egzost, duman, basınçlandırma fanları, ısı geri kazanım cihazları, hijyenik havalandırma sistemleri, otopark, mutfak, çamaşırhane vb. özel mahal uygulamalarının yerel standartlarda montaj, izolasyon, test ve devreye alınması.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/IMG-20161115-WA0035.jpg\" alt=\"\" width=\"600\" height=\"450\"></figure>",
+  "kk": "<p>Орталықтандырылған және жергілікті желдетуге арналған мырышталған, қара болаттан және тот баспайтын болаттан жасалған тікбұрышты және дөңгелек ауа арналарын дайындау; барлық түрдегі ауа баптау қондырғыларын, сорғыш, түтін шығаратын және ауа қысымын жасайтын желдеткіштерді, жылу рекуператорларын, гигиеналық желдету жүйелерін, сондай-ақ автотұрақ, ас үй, кір жуу орны сияқты арнайы үй-жайлардағы жүйелерді жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p>",
+  "cms_value": "<!--:kk_kz--><p>Орталықтандырылған және жергілікті желдетуге арналған мырышталған, қара болаттан және тот баспайтын болаттан жасалған тікбұрышты және дөңгелек ауа арналарын дайындау; барлық түрдегі ауа баптау қондырғыларын, сорғыш, түтін шығаратын және ауа қысымын жасайтын желдеткіштерді, жылу рекуператорларын, гигиеналық желдету жүйелерін, сондай-ақ автотұрақ, ас үй, кір жуу орны сияқты арнайы үй-жайлардағы жүйелерді жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p><!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Forum AVM Şantiyesi",
+  "kk": "«Forum Almaty» сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->«Forum Almaty» сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "heading",
+  "tr": "Forum AVM",
+  "kk": "«Forum Almaty» сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->«Forum Almaty» сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Forum Almaty» СОО",
+  "cms_value": "<!--:kk_kz-->«Forum Almaty» СОО<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "fact.location",
+  "tr": "Almata / Kazakistan",
+  "kk": "Алматы, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Алматы, Қазақстан<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "fact.client",
+  "tr": "ATASTROY",
+  "kk": "ATASTROY",
+  "cms_value": "<!--:kk_kz-->ATASTROY<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "fact.area",
+  "tr": "163.961 m2",
+  "kk": "163 961 м²",
+  "cms_value": "<!--:kk_kz-->163 961 м²<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "fact.date",
+  "tr": "2015",
+  "kk": "2015",
+  "cms_value": "<!--:kk_kz-->2015<!--:-->"
+ },
+ {
+  "page": "forum-avm-santiyesi-almata",
+  "type": "project",
+  "url_tr": "/page/forum-avm-santiyesi-almata",
+  "url_kk": "/page/forum-avm-santiyesi-almata-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Tienshan Konutları",
+  "kk": "«Tien Shan Gardens» тұрғын үй кешені",
+  "cms_value": "<!--:kk_kz-->«Tien Shan Gardens» тұрғын үй кешені<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "heading",
+  "tr": "Tienshan Konutları",
+  "kk": "«Tien Shan Gardens» тұрғын үй кешені",
+  "cms_value": "<!--:kk_kz-->«Tien Shan Gardens» тұрғын үй кешені<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Tien Shan Gardens» тұрғын үй кешені",
+  "cms_value": "<!--:kk_kz-->«Tien Shan Gardens» тұрғын үй кешені<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "fact.location",
+  "tr": "ALMATA",
+  "kk": "Алматы",
+  "cms_value": "<!--:kk_kz-->Алматы<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "fact.client",
+  "tr": "A-TA STROY",
+  "kk": "A-TA STROY",
+  "cms_value": "<!--:kk_kz-->A-TA STROY<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "fact.area",
+  "tr": "10.000 m2",
+  "kk": "10 000 м²",
+  "cms_value": "<!--:kk_kz-->10 000 м²<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "fact.date",
+  "tr": "2015",
+  "kk": "2015",
+  "cms_value": "<!--:kk_kz-->2015<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "tienshan-konutlari-astana",
+  "type": "project",
+  "url_tr": "/page/tienshan-konutlari-astana",
+  "url_kk": "/page/tienshan-konutlari-astana-kk",
+  "field": "fact.budget",
+  "tr": "$3.024.000,00",
+  "kk": "$3 024 000,00",
+  "cms_value": "<!--:kk_kz-->$3 024 000,00<!--:-->"
+ },
+ {
+  "page": "uygulama-ornekleri",
+  "type": "gallery",
+  "url_tr": "/page/uygulama-ornekleri",
+  "url_kk": "/page/uygulama-ornekleri-kk",
+  "field": "title",
+  "tr": "Uygulama Örnekleri",
+  "kk": "Орындалған жұмыстар",
+  "cms_value": "<!--:kk_kz-->Орындалған жұмыстар<!--:-->"
+ },
+ {
+  "page": "uygulama-ornekleri",
+  "type": "gallery",
+  "url_tr": "/page/uygulama-ornekleri",
+  "url_kk": "/page/uygulama-ornekleri-kk",
+  "field": "heading",
+  "tr": "UYGULAMA ÖRNEKLERİ",
+  "kk": "Орындалған жұмыстар",
+  "cms_value": "<!--:kk_kz-->Орындалған жұмыстар<!--:-->"
+ },
+ {
+  "page": "uygulama-ornekleri",
+  "type": "gallery",
+  "url_tr": "/page/uygulama-ornekleri",
+  "url_kk": "/page/uygulama-ornekleri-kk",
+  "field": "body_html",
+  "tr": "<p>Kaliteli hizmette öncü firma olmamız tesadüf değil, başarımızdır çünkü; her zaman en iyisi için çalışıyoruz. Kalitemizi aşağıdaki galerimizden inceleyebilirsiniz.</p>\n<p><a href=\"/page/tienshan-konutlari-astana\">DEVAM EDEN PROJELERİMİZ</a>BİTEN PROJELERİMİZ</p>",
+  "kk": "<p>Сапалы қызмет көрсетуде алдыңғы қатарлы компания болуымыз — кездейсоқтық емес, біздің жетістігіміз, өйткені біз әрдайым ең үздік нәтиже үшін жұмыс істейміз. Жұмысымыздың сапасымен төмендегі галерея арқылы таныса аласыз.</p>",
+  "cms_value": "<!--:kk_kz--><p>Сапалы қызмет көрсетуде алдыңғы қатарлы компания болуымыз — кездейсоқтық емес, біздің жетістігіміз, өйткені біз әрдайым ең үздік нәтиже үшін жұмыс істейміз. Жұмысымыздың сапасымен төмендегі галерея арқылы таныса аласыз.</p><!--:-->"
+ },
+ {
+  "page": "uygulama-ornekleri",
+  "type": "gallery",
+  "url_tr": "/page/uygulama-ornekleri",
+  "url_kk": "/page/uygulama-ornekleri-kk",
+  "field": "subheading",
+  "tr": "Hizmet Kalitemiz",
+  "kk": "Қызмет сапамыз",
+  "cms_value": "<!--:kk_kz-->Қызмет сапамыз<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / EXPO 2017 Kongre Merkezi",
+  "kk": "«EXPO-2017» конгресс-орталығы",
+  "cms_value": "<!--:kk_kz-->«EXPO-2017» конгресс-орталығы<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "heading",
+  "tr": "EXPO 2017 Kongre Merkezi",
+  "kk": "«EXPO-2017» конгресс-орталығы",
+  "cms_value": "<!--:kk_kz-->«EXPO-2017» конгресс-орталығы<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«EXPO-2017» конгресс-орталығы",
+  "cms_value": "<!--:kk_kz-->«EXPO-2017» конгресс-орталығы<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "fact.area",
+  "tr": "48.000 m2",
+  "kk": "48 000 м²",
+  "cms_value": "<!--:kk_kz-->48 000 м²<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "fact.date",
+  "tr": "2016",
+  "kk": "2016",
+  "cms_value": "<!--:kk_kz-->2016<!--:-->"
+ },
+ {
+  "page": "expo-2017-kongre-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/expo-2017-kongre-merkezi-astana",
+  "url_kk": "/page/expo-2017-kongre-merkezi-astana-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "vizyon",
+  "type": "company",
+  "url_tr": "/page/vizyon",
+  "url_kk": "/page/vizyon-kk",
+  "field": "title",
+  "tr": "Vizyon",
+  "kk": "Болашаққа көзқарас",
+  "cms_value": "<!--:kk_kz-->Болашаққа көзқарас<!--:-->"
+ },
+ {
+  "page": "vizyon",
+  "type": "company",
+  "url_tr": "/page/vizyon",
+  "url_kk": "/page/vizyon-kk",
+  "field": "heading",
+  "tr": "Vizyon",
+  "kk": "Болашаққа көзқарас",
+  "cms_value": "<!--:kk_kz-->Болашаққа көзқарас<!--:-->"
+ },
+ {
+  "page": "vizyon",
+  "type": "company",
+  "url_tr": "/page/vizyon",
+  "url_kk": "/page/vizyon-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Metro Teknik компаниясының болашаққа көзқарасы: адам мен табиғатқа құрмет және «Өмір сәулеті» философиясы.",
+  "cms_value": "<!--:kk_kz-->Metro Teknik компаниясының болашаққа көзқарасы: адам мен табиғатқа құрмет және «Өмір сәулеті» философиясы.<!--:-->"
+ },
+ {
+  "page": "vizyon",
+  "type": "company",
+  "url_tr": "/page/vizyon",
+  "url_kk": "/page/vizyon-kk",
+  "field": "body_html",
+  "tr": "<p>Temeli insana ve doğaya saygı olan, bireyin doğallığıyla bağını koparmadan modernlik, mimari ve teknolojiden üst düzeyde faydalanmasını sağlamak ve bu sayede Yaşam Mimarlığı felsefemizi, tüm dünyaya örnek oluşturacağımızı gözden kaçırmadan yaşam pratiğine aktarmak.</p>",
+  "kk": "<p>Адамға және табиғатқа құрметке негізделген, адамның табиғатпен байланысын үзбей, заманауилықтың, сәулет өнері мен технологияның мүмкіндіктерін барынша пайдалануын қамтамасыз ету және осылайша бүкіл әлемге үлгі боларымызды естен шығармай, «Өмір сәулеті» философиямызды күнделікті өмірде жүзеге асыру.</p>",
+  "cms_value": "<!--:kk_kz--><p>Адамға және табиғатқа құрметке негізделген, адамның табиғатпен байланысын үзбей, заманауилықтың, сәулет өнері мен технологияның мүмкіндіктерін барынша пайдалануын қамтамасыз ету және осылайша бүкіл әлемге үлгі боларымызды естен шығармай, «Өмір сәулеті» философиямызды күнделікті өмірде жүзеге асыру.</p><!--:-->"
+ },
+ {
+  "page": "misyon",
+  "type": "company",
+  "url_tr": "/page/misyon",
+  "url_kk": "/page/misyon-kk",
+  "field": "title",
+  "tr": "Misyon",
+  "kk": "Миссия",
+  "cms_value": "<!--:kk_kz-->Миссия<!--:-->"
+ },
+ {
+  "page": "misyon",
+  "type": "company",
+  "url_tr": "/page/misyon",
+  "url_kk": "/page/misyon-kk",
+  "field": "heading",
+  "tr": "Misyon",
+  "kk": "Миссия",
+  "cms_value": "<!--:kk_kz-->Миссия<!--:-->"
+ },
+ {
+  "page": "misyon",
+  "type": "company",
+  "url_tr": "/page/misyon",
+  "url_kk": "/page/misyon-kk",
+  "field": "meta_description",
+  "tr": "İnsanın ilk çağlardan beri süregelen yuva ihtiyacını, ona doğal ve modern olanaklarla çevrelenmiş olarak sunmak.",
+  "kk": "Адамның ежелден келе жатқан баспанаға деген қажеттілігін табиғи және заманауи мүмкіндіктермен үйлестіре отырып қамтамасыз ету.",
+  "cms_value": "<!--:kk_kz-->Адамның ежелден келе жатқан баспанаға деген қажеттілігін табиғи және заманауи мүмкіндіктермен үйлестіре отырып қамтамасыз ету.<!--:-->"
+ },
+ {
+  "page": "misyon",
+  "type": "company",
+  "url_tr": "/page/misyon",
+  "url_kk": "/page/misyon-kk",
+  "field": "body_html",
+  "tr": "<ul><li>İnsanın ilk çağlardan beri süregelen yuva ihtiyacını, ona doğal ve modern olanaklarla çevrelenmiş olarak sunmak.</li><li>Öncelikle sosyal, sportif ve kültürel aktivitelerle bağını eksiksiz kurarak, doğal yuva ihtiyacını sağlam bir zemine oturtmak.</li><li>Sonra modernlik, mimari mükemmellik ve teknolojinin akıllı kullanımıyla insanı geleceğe taşımak ve böylelikle yüceltmek.</li></ul>",
+  "kk": "<ul><li>Адамның ежелден келе жатқан баспанаға деген қажеттілігін табиғи және заманауи мүмкіндіктермен үйлестіре отырып қамтамасыз ету.</li><li>Ең алдымен әлеуметтік, спорттық және мәдени қызметпен байланысын толық орната отырып, баспанаға деген табиғи қажеттілікті берік негізге қою.</li><li>Содан кейін заманауилық, сәулеттік кемелдік және технологияларды ұтымды пайдалану арқылы адамды болашаққа жетелеу және осылайша оны асқақтату.</li></ul>",
+  "cms_value": "<!--:kk_kz--><ul><li>Адамның ежелден келе жатқан баспанаға деген қажеттілігін табиғи және заманауи мүмкіндіктермен үйлестіре отырып қамтамасыз ету.</li><li>Ең алдымен әлеуметтік, спорттық және мәдени қызметпен байланысын толық орната отырып, баспанаға деген табиғи қажеттілікті берік негізге қою.</li><li>Содан кейін заманауилық, сәулеттік кемелдік және технологияларды ұтымды пайдалану арқылы адамды болашаққа жетелеу және осылайша оны асқақтату.</li></ul><!--:-->"
+ },
+ {
+  "page": "baskanin-mesaji",
+  "type": "company",
+  "url_tr": "/page/baskanin-mesaji",
+  "url_kk": "/page/baskanin-mesaji-kk",
+  "field": "title",
+  "tr": "Başkanın Mesajı",
+  "kk": "Төрағаның үндеуі",
+  "cms_value": "<!--:kk_kz-->Төрағаның үндеуі<!--:-->"
+ },
+ {
+  "page": "baskanin-mesaji",
+  "type": "company",
+  "url_tr": "/page/baskanin-mesaji",
+  "url_kk": "/page/baskanin-mesaji-kk",
+  "field": "heading",
+  "tr": "Başkanın Mesajı",
+  "kk": "Төрағаның үндеуі",
+  "cms_value": "<!--:kk_kz-->Төрағаның үндеуі<!--:-->"
+ },
+ {
+  "page": "baskanin-mesaji",
+  "type": "company",
+  "url_tr": "/page/baskanin-mesaji",
+  "url_kk": "/page/baskanin-mesaji-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Metro Teknik директорлар кеңесінің төрағасы Hüseyin Türkan-ның үндеуі.",
+  "cms_value": "<!--:kk_kz-->Metro Teknik директорлар кеңесінің төрағасы Hüseyin Türkan-ның үндеуі.<!--:-->"
+ },
+ {
+  "page": "baskanin-mesaji",
+  "type": "company",
+  "url_tr": "/page/baskanin-mesaji",
+  "url_kk": "/page/baskanin-mesaji-kk",
+  "field": "body_html",
+  "tr": "<p>Biz Metro Teknik Ltd. Şti. olarak yüksek kalitede tasarlanmış mimari eserlerin havalandırma ve mekanik tesisat işlerinde en son teknolojik gelişmeleri kullanarak yeniliklere açık modern çağın gereksinimlerini karşılayan mimarlık ve mühendislik normlarını tam olarak yansıtmanın gayreti içindeyiz.</p>\n<p>Şirketimiz Türki Cumhuriyetler, Rusya ve Ortadoğu ülkelerinde yaptığı işlerle ekonomiye önemli derecede katkıda bulunmuştur. Ülkemizin refahı ve ekonomik gücümüzü artırmanın yanı sıra personel kadromuz ve istihdam alanlarımızla da her gün büyüyen ve yeni iş kolalarını canlandıran bir yapıya sahibiz.</p>\n<p>Üstlendiğimiz işlerde ticaretin ana kuralı olan karlılık prensibini ikinci plana iterek ortaya çıkardığımız ürünlerin ekonomik ve kullanışlı olmasının yanı sıra, can ve mal emniyetini dikkate almaktayız.</p>\n<p>Hizmet, kalite ve teknolojik imkanların hep birlikte sunulduğu şirketimizde çözüm odaklı, genç ve deneyimli kadromuz ile mekanik ve havalandırmada yaptığımız işlerin altına imzamızı gururla atıyoruz. Biz güçlü, başarılı ve geçmişin başarısını geleceğin teknolojik imkanlarıyla buluşturan kocaman bir aileyiz.</p>\n<p><strong>HÜSEYİN TÜRKAN</strong><br><strong>YÖNETİM KURUL BAŞKANI</strong></p>",
+  "kk": "<p>Metro Teknik Ltd. Şti. ретінде біз жоғары сапамен жобаланған сәулет нысандарының желдету және механикалық инженерлік жүйелері бойынша жұмыстарда соңғы технологиялық жетістіктерді қолдана отырып, жаңалыққа ашық заманауи кезеңнің талаптарына сай сәулет және инженерия нормаларын толық көрсетуге ұмтыламыз.</p>\n<p>Компаниямыз түркі республикаларында, Ресейде және Таяу Шығыс елдерінде атқарған жұмыстары арқылы экономикаға елеулі үлес қосты. Еліміздің әл-ауқаты мен экономикалық әлеуетін арттырумен қатар, қызметкерлер құрамы мен жұмыс орындары күн сайын өсіп, жаңа бизнес бағыттарын дамытатын құрылымға иеміз.</p>\n<p>Өзімізге алған жұмыстарда сауданың басты қағидасы — пайдалылық принципін екінші орынға қойып, біз жасаған нәтиженің үнемді әрі ыңғайлы болуымен қатар, адам өмірі мен мүліктің қауіпсіздігін де басты назарда ұстаймыз.</p>\n<p>Қызмет, сапа және технологиялық мүмкіндіктер бірге ұсынылатын компаниямызда шешімге бағытталған, жас әрі тәжірибелі ұжымымызбен механикалық жүйелер мен желдету саласында атқарған жұмыстарымызға мақтанышпен қол қоямыз. Біз — өткеннің жетістіктерін болашақтың технологиялық мүмкіндіктерімен ұштастыратын қуатты, табысты, үлкен отбасымыз.</p>\n<p><strong>HÜSEYİN TÜRKAN</strong><br><strong>Директорлар кеңесінің төрағасы</strong></p>",
+  "cms_value": "<!--:kk_kz--><p>Metro Teknik Ltd. Şti. ретінде біз жоғары сапамен жобаланған сәулет нысандарының желдету және механикалық инженерлік жүйелері бойынша жұмыстарда соңғы технологиялық жетістіктерді қолдана отырып, жаңалыққа ашық заманауи кезеңнің талаптарына сай сәулет және инженерия нормаларын толық көрсетуге ұмтыламыз.</p>\n<p>Компаниямыз түркі республикаларында, Ресейде және Таяу Шығыс елдерінде атқарған жұмыстары арқылы экономикаға елеулі үлес қосты. Еліміздің әл-ауқаты мен экономикалық әлеуетін арттырумен қатар, қызметкерлер құрамы мен жұмыс орындары күн сайын өсіп, жаңа бизнес бағыттарын дамытатын құрылымға иеміз.</p>\n<p>Өзімізге алған жұмыстарда сауданың басты қағидасы — пайдалылық принципін екінші орынға қойып, біз жасаған нәтиженің үнемді әрі ыңғайлы болуымен қатар, адам өмірі мен мүліктің қауіпсіздігін де басты назарда ұстаймыз.</p>\n<p>Қызмет, сапа және технологиялық мүмкіндіктер бірге ұсынылатын компаниямызда шешімге бағытталған, жас әрі тәжірибелі ұжымымызбен механикалық жүйелер мен желдету саласында атқарған жұмыстарымызға мақтанышпен қол қоямыз. Біз — өткеннің жетістіктерін болашақтың технологиялық мүмкіндіктерімен ұштастыратын қуатты, табысты, үлкен отбасымыз.</p>\n<p><strong>HÜSEYİN TÜRKAN</strong><br><strong>Директорлар кеңесінің төрағасы</strong></p><!--:-->"
+ },
+ {
+  "page": "kalite-ve-cevre-politikamiz",
+  "type": "company",
+  "url_tr": "/page/kalite-ve-cevre-politikamiz",
+  "url_kk": "/page/kalite-ve-cevre-politikamiz-kk",
+  "field": "title",
+  "tr": "Kalite ve Çevre Politikamız",
+  "kk": "Сапа және экологиялық саясат",
+  "cms_value": "<!--:kk_kz-->Сапа және экологиялық саясат<!--:-->"
+ },
+ {
+  "page": "kalite-ve-cevre-politikamiz",
+  "type": "company",
+  "url_tr": "/page/kalite-ve-cevre-politikamiz",
+  "url_kk": "/page/kalite-ve-cevre-politikamiz-kk",
+  "field": "heading",
+  "tr": "Kalite ve Çevre Politikamız",
+  "kk": "Сапа және экологиялық саясат",
+  "cms_value": "<!--:kk_kz-->Сапа және экологиялық саясат<!--:-->"
+ },
+ {
+  "page": "kalite-ve-cevre-politikamiz",
+  "type": "company",
+  "url_tr": "/page/kalite-ve-cevre-politikamiz",
+  "url_kk": "/page/kalite-ve-cevre-politikamiz-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Metro Teknik сапа және экологиялық менеджмент саясаты: стандарттарды сақтау, ISO 9001-14001 талаптарын орындау және қоршаған ортаны қорғау.",
+  "cms_value": "<!--:kk_kz-->Metro Teknik сапа және экологиялық менеджмент саясаты: стандарттарды сақтау, ISO 9001-14001 талаптарын орындау және қоршаған ортаны қорғау.<!--:-->"
+ },
+ {
+  "page": "kalite-ve-cevre-politikamiz",
+  "type": "company",
+  "url_tr": "/page/kalite-ve-cevre-politikamiz",
+  "url_kk": "/page/kalite-ve-cevre-politikamiz-kk",
+  "field": "body_html",
+  "tr": "<p>METROTEKNİK ve TEKNİK2011 olarak faaliyet gösterdiğimiz, Alt Yapı, Üst Yapı İnşaat ve Taahhüt<br>İşleri'nde,</p>\n<ul><li>İlgili tüm yasa ve yönetmeliklerle belirlenen standartları sağlamak.</li><li>Müşteri yasal mevzuat şartları ve kalite yönetim sistemi şartlarına uyulması, hiç bir koşulda kaliteden ödün vermemek</li><li>Doğal kaynak kullanımını azaltmak ve mümkün olduğunca tekrar kullanılabilir ve geri dönüştürülebilir materyallerin tüketimine yönelmek.</li><li>Hizmet esnasında ve diğer faaliyetlerimizden kaynaklanan atıkları,</li><li>Yatırım kararları alınırken, çevresel kıstasları dikkate almak.</li><li>Tüm faaliyetlerimizde, bunların çevreye olabilecek etkileri konusunda tedbirli ve dikkatli davranmak.</li><li>Bir kalite ve çevre yönetim sistemi geliştirip, bu sistemin etkin olmasını ve güncel tutulmasını sağlamak.</li><li>Acil Durum Riskleri'ni azaltmak.</li><li>Çevrenin korunması ile ilgili olarak tüm personelin eğitilmesini sağlamak.</li><li>\"ISO 9001-14001 Kalite ve Çevre Yönetim Sistemi\"nin tüm gereklerini yerine getirmek</li><li>İşlerinizle ilgili üçüncü şahıslara, şirketimize mal ve hizmet veren teslimatçılarımıza ve taşeronlarımıza da sistemimize benzer çevresel standartları uygulamaları konusunda tavsiye ve telkinde bulunmak.</li><li>Sektörümüzde kalitede ve çevrede lider olabilmek ve müşterilerimizin ihtiyaç ve beklentilerini karşılayabilmek için; kalite ve çevre yönetim sistemi şartlarına uymak,</li><li>Kalite ve Çevre Yönetim Sistemimizi Sürekli İyileştirmek, çevrede yol açtığımız kirlenmeyi önlemek,</li></ul>\n<p>YÖNETİM SİSTEMİ POLİTİKAMIZDIR ...</p>",
+  "kk": "<p>METROTEKNİK және TEKNİK2011 ретінде жүзеге асыратын инфрақұрылым нысандарын, ғимараттар мен құрылыстар салу және мердігерлік жұмыстарымызда:</p>\n<ul><li>Тиісті барлық заңдар мен нормативтік актілерде белгіленген стандарттарды сақтау.</li><li>Тапсырыс беруші талаптарын, заңнама талаптарын және сапа менеджменті жүйесінің талаптарын орындау, ешбір жағдайда сапаға нұқсан келтірмеу.</li><li>Табиғи ресурстарды пайдалануды азайту және мүмкіндігінше қайта пайдалануға және қайта өңдеуге болатын материалдарды таңдау.</li><li>Қызмет көрсету барысында және басқа да қызметімізден туындайтын қалдықтарды ескеру.</li><li>Инвестициялық шешімдер қабылдау кезінде экологиялық өлшемдерді ескеру.</li><li>Барлық қызметімізде оның қоршаған ортаға ықтимал әсеріне қатысты сақ әрі мұқият болу.</li><li>Сапа және экологиялық менеджмент жүйесін әзірлеп, оның тиімділігі мен өзектілігін қамтамасыз ету.</li><li>Төтенше жағдай қатерлерін азайту.</li><li>Барлық қызметкерлерді қоршаған ортаны қорғау мәселелері бойынша оқытуды қамтамасыз ету.</li><li>«ISO 9001-14001 сапа және экологиялық менеджмент жүйесінің» барлық талаптарын орындау.</li><li>Жұмыстарымызға қатысы бар үшінші тұлғаларға, компаниямызға тауар жеткізетін және қызмет көрсететін жеткізушілер мен қосалқы мердігерлерге біздің жүйемізге ұқсас экологиялық стандарттарды енгізу жөнінде кеңес беру және ұсыныс жасау.</li><li>Салада сапа мен экология бойынша көшбасшы болу және тапсырыс берушілеріміздің қажеттіліктері мен күтулерін қанағаттандыру үшін сапа және экологиялық менеджмент жүйесінің талаптарын сақтау.</li><li>Сапа және экологиялық менеджмент жүйемізді үздіксіз жетілдіру, қоршаған ортаның ластануына жол бермеу.</li></ul>\n<p>Бұл — біздің менеджмент жүйеміздің саясаты.</p>",
+  "cms_value": "<!--:kk_kz--><p>METROTEKNİK және TEKNİK2011 ретінде жүзеге асыратын инфрақұрылым нысандарын, ғимараттар мен құрылыстар салу және мердігерлік жұмыстарымызда:</p>\n<ul><li>Тиісті барлық заңдар мен нормативтік актілерде белгіленген стандарттарды сақтау.</li><li>Тапсырыс беруші талаптарын, заңнама талаптарын және сапа менеджменті жүйесінің талаптарын орындау, ешбір жағдайда сапаға нұқсан келтірмеу.</li><li>Табиғи ресурстарды пайдалануды азайту және мүмкіндігінше қайта пайдалануға және қайта өңдеуге болатын материалдарды таңдау.</li><li>Қызмет көрсету барысында және басқа да қызметімізден туындайтын қалдықтарды ескеру.</li><li>Инвестициялық шешімдер қабылдау кезінде экологиялық өлшемдерді ескеру.</li><li>Барлық қызметімізде оның қоршаған ортаға ықтимал әсеріне қатысты сақ әрі мұқият болу.</li><li>Сапа және экологиялық менеджмент жүйесін әзірлеп, оның тиімділігі мен өзектілігін қамтамасыз ету.</li><li>Төтенше жағдай қатерлерін азайту.</li><li>Барлық қызметкерлерді қоршаған ортаны қорғау мәселелері бойынша оқытуды қамтамасыз ету.</li><li>«ISO 9001-14001 сапа және экологиялық менеджмент жүйесінің» барлық талаптарын орындау.</li><li>Жұмыстарымызға қатысы бар үшінші тұлғаларға, компаниямызға тауар жеткізетін және қызмет көрсететін жеткізушілер мен қосалқы мердігерлерге біздің жүйемізге ұқсас экологиялық стандарттарды енгізу жөнінде кеңес беру және ұсыныс жасау.</li><li>Салада сапа мен экология бойынша көшбасшы болу және тапсырыс берушілеріміздің қажеттіліктері мен күтулерін қанағаттандыру үшін сапа және экологиялық менеджмент жүйесінің талаптарын сақтау.</li><li>Сапа және экологиялық менеджмент жүйемізді үздіксіз жетілдіру, қоршаған ортаның ластануына жол бермеу.</li></ul>\n<p>Бұл — біздің менеджмент жүйеміздің саясаты.</p><!--:-->"
+ },
+ {
+  "page": "is-bitirme-belgelerimiz",
+  "type": "certificates",
+  "url_tr": "/page/is-bitirme-belgelerimiz",
+  "url_kk": "/page/is-bitirme-belgelerimiz-kk",
+  "field": "title",
+  "tr": "İş Bitirme Belgelerimiz",
+  "kk": "Жұмыстың аяқталғаны туралы сертификаттар",
+  "cms_value": "<!--:kk_kz-->Жұмыстың аяқталғаны туралы сертификаттар<!--:-->"
+ },
+ {
+  "page": "is-bitirme-belgelerimiz",
+  "type": "certificates",
+  "url_tr": "/page/is-bitirme-belgelerimiz",
+  "url_kk": "/page/is-bitirme-belgelerimiz-kk",
+  "field": "heading",
+  "tr": "İş Bitirme Belgelerimiz",
+  "kk": "Жұмыстың аяқталғаны туралы сертификаттар",
+  "cms_value": "<!--:kk_kz-->Жұмыстың аяқталғаны туралы сертификаттар<!--:-->"
+ },
+ {
+  "page": "is-bitirme-belgelerimiz",
+  "type": "certificates",
+  "url_tr": "/page/is-bitirme-belgelerimiz",
+  "url_kk": "/page/is-bitirme-belgelerimiz-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Metro Teknik жұмыстарының аяқталғаны туралы сертификаттар.",
+  "cms_value": "<!--:kk_kz-->Metro Teknik жұмыстарының аяқталғаны туралы сертификаттар.<!--:-->"
+ },
+ {
+  "page": "isitma-sogutma",
+  "type": "service",
+  "url_tr": "/page/isitma-sogutma",
+  "url_kk": "/page/isitma-sogutma-kk",
+  "field": "title",
+  "tr": "Isıtma Soğutma",
+  "kk": "Жылыту және салқындату",
+  "cms_value": "<!--:kk_kz-->Жылыту және салқындату<!--:-->"
+ },
+ {
+  "page": "isitma-sogutma",
+  "type": "service",
+  "url_tr": "/page/isitma-sogutma",
+  "url_kk": "/page/isitma-sogutma-kk",
+  "field": "heading",
+  "tr": "Isıtma - Soğutma",
+  "kk": "Жылыту және салқындату",
+  "cms_value": "<!--:kk_kz-->Жылыту және салқындату<!--:-->"
+ },
+ {
+  "page": "isitma-sogutma",
+  "type": "service",
+  "url_tr": "/page/isitma-sogutma",
+  "url_kk": "/page/isitma-sogutma-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Қазандықтар, сорғылар, чиллерлер, фанкойлдар, VRV жүйелері, радиаторлар және еден астынан жылыту жүйелерін жеткізу, монтаждау, сынау және іске қосу.",
+  "cms_value": "<!--:kk_kz-->Қазандықтар, сорғылар, чиллерлер, фанкойлдар, VRV жүйелері, радиаторлар және еден астынан жылыту жүйелерін жеткізу, монтаждау, сынау және іске қосу.<!--:-->"
+ },
+ {
+  "page": "isitma-sogutma",
+  "type": "service",
+  "url_tr": "/page/isitma-sogutma",
+  "url_kk": "/page/isitma-sogutma-kk",
+  "field": "body_html",
+  "tr": "<p>Kazan, pompa, eşanjör, chiller, soğutma kuleleri, fancoil, vrv, radyatör, döşemeden ısıtma ..vb. sistemlerin cihaz armatür tesisat kapsamında temini, yerel standartlarda uygulaması, izolasyon, test ve devreye alınması.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/all-services/ISITMA-SOGUTMA-0047.jpg\" alt=\"Metro Teknik Isıtma ve Soğutma Hizmeti\" width=\"602\" height=\"455\"></figure>",
+  "kk": "<p>Қазандықтар, сорғылар, жылу алмастырғыштар, чиллерлер, салқындату мұнаралары, фанкойлдар, VRV жүйелері, радиаторлар, еден астынан жылыту және т.б. жүйелер бойынша жабдықтарды, арматура мен құбыр желілерін жеткізу, оларды жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p>",
+  "cms_value": "<!--:kk_kz--><p>Қазандықтар, сорғылар, жылу алмастырғыштар, чиллерлер, салқындату мұнаралары, фанкойлдар, VRV жүйелері, радиаторлар, еден астынан жылыту және т.б. жүйелер бойынша жабдықтарды, арматура мен құбыр желілерін жеткізу, оларды жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p><!--:-->"
+ },
+ {
+  "page": "sihhi-tesisat",
+  "type": "service",
+  "url_tr": "/page/sihhi-tesisat",
+  "url_kk": "/page/sihhi-tesisat-kk",
+  "field": "title",
+  "tr": "Sıhhi Tesisat",
+  "kk": "Сумен жабдықтау және су бұру жүйелері",
+  "cms_value": "<!--:kk_kz-->Сумен жабдықтау және су бұру жүйелері<!--:-->"
+ },
+ {
+  "page": "sihhi-tesisat",
+  "type": "service",
+  "url_tr": "/page/sihhi-tesisat",
+  "url_kk": "/page/sihhi-tesisat-kk",
+  "field": "heading",
+  "tr": "Sıhhi Tesisat",
+  "kk": "Сумен жабдықтау және су бұру жүйелері",
+  "cms_value": "<!--:kk_kz-->Сумен жабдықтау және су бұру жүйелері<!--:-->"
+ },
+ {
+  "page": "sihhi-tesisat",
+  "type": "service",
+  "url_tr": "/page/sihhi-tesisat",
+  "url_kk": "/page/sihhi-tesisat-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Таза су, ағынды су, дренаж, суды жұмсарту және жаңбыр суын бұру жүйелерін дайындау, монтаждау, сынау және іске қосу.",
+  "cms_value": "<!--:kk_kz-->Таза су, ағынды су, дренаж, суды жұмсарту және жаңбыр суын бұру жүйелерін дайындау, монтаждау, сынау және іске қосу.<!--:-->"
+ },
+ {
+  "page": "sihhi-tesisat",
+  "type": "service",
+  "url_tr": "/page/sihhi-tesisat",
+  "url_kk": "/page/sihhi-tesisat-kk",
+  "field": "body_html",
+  "tr": "<p>Tüm temiz su, atık su, drenaj, su yumuşatma, basınçlı pis su, yağmur vb. sistemlerin imalatı, cihaz ekipman temini, yerel standartlarda uygulaması,izolasyon test ve devreye alınması.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/all-services/SIHHI-TESISAT-0053.jpg\" alt=\"Metro Teknik Havalandrma Hizmeti\" width=\"602\" height=\"455\"></figure>",
+  "kk": "<p>Таза су, ағынды су, дренаж, суды жұмсарту, қысыммен жұмыс істейтін кәріз, жаңбыр суын бұру және т.б. жүйелерді дайындау, жабдықтар мен құрылғыларды жеткізу, оларды жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p>",
+  "cms_value": "<!--:kk_kz--><p>Таза су, ағынды су, дренаж, суды жұмсарту, қысыммен жұмыс істейтін кәріз, жаңбыр суын бұру және т.б. жүйелерді дайындау, жабдықтар мен құрылғыларды жеткізу, оларды жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p><!--:-->"
+ },
+ {
+  "page": "yangin",
+  "type": "service",
+  "url_tr": "/page/yangin",
+  "url_kk": "/page/yangin-kk",
+  "field": "title",
+  "tr": "Yangın",
+  "kk": "Өрттен қорғау жүйелері",
+  "cms_value": "<!--:kk_kz-->Өрттен қорғау жүйелері<!--:-->"
+ },
+ {
+  "page": "yangin",
+  "type": "service",
+  "url_tr": "/page/yangin",
+  "url_kk": "/page/yangin-kk",
+  "field": "heading",
+  "tr": "Yangın",
+  "kk": "Өрттен қорғау жүйелері",
+  "cms_value": "<!--:kk_kz-->Өрттен қорғау жүйелері<!--:-->"
+ },
+ {
+  "page": "yangin",
+  "type": "service",
+  "url_tr": "/page/yangin",
+  "url_kk": "/page/yangin-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "Спринклерлік және дренчерлік жүйелерді, өрт шкафтары мен гидрант желілерін жергілікті стандарттарға сәйкес монтаждау, сынау және іске қосу.",
+  "cms_value": "<!--:kk_kz-->Спринклерлік және дренчерлік жүйелерді, өрт шкафтары мен гидрант желілерін жергілікті стандарттарға сәйкес монтаждау, сынау және іске қосу.<!--:-->"
+ },
+ {
+  "page": "yangin",
+  "type": "service",
+  "url_tr": "/page/yangin",
+  "url_kk": "/page/yangin-kk",
+  "field": "body_html",
+  "tr": "<p>Sulu ve kuru sistem olarak sprinkler, yangın dolabı, drencher, hidrant hatları ve bunlarla ilgili teknik oda uygulamaları dahil yerel standartlarda imalatın yapılması, izolasyon test ve devreye alınması.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/all-services/YANGIN-0055.jpg\" alt=\"Metro Teknik Yangın Hizmeti\" width=\"602\" height=\"404\"></figure>",
+  "kk": "<p>Сулы және құрғақ спринклерлік жүйелерді, өрт шкафтарын, дренчерлік жүйелерді, гидрант желілерін, сондай-ақ оларға қатысты техникалық үй-жайлардағы жұмыстарды қоса алғанда, жергілікті стандарттарға сәйкес дайындау, оқшаулау, сынау және іске қосу.</p>",
+  "cms_value": "<!--:kk_kz--><p>Сулы және құрғақ спринклерлік жүйелерді, өрт шкафтарын, дренчерлік жүйелерді, гидрант желілерін, сондай-ақ оларға қатысты техникалық үй-жайлардағы жұмыстарды қоса алғанда, жергілікті стандарттарға сәйкес дайындау, оқшаулау, сынау және іске қосу.</p><!--:-->"
+ },
+ {
+  "page": "mekanik-otomasyon",
+  "type": "service",
+  "url_tr": "/page/mekanik-otomasyon",
+  "url_kk": "/page/mekanik-otomasyon-kk",
+  "field": "title",
+  "tr": "Mekanik Otomasyon",
+  "kk": "Механикалық жүйелерді автоматтандыру",
+  "cms_value": "<!--:kk_kz-->Механикалық жүйелерді автоматтандыру<!--:-->"
+ },
+ {
+  "page": "mekanik-otomasyon",
+  "type": "service",
+  "url_tr": "/page/mekanik-otomasyon",
+  "url_kk": "/page/mekanik-otomasyon-kk",
+  "field": "heading",
+  "tr": "Mekanik otomasyon",
+  "kk": "Механикалық жүйелерді автоматтандыру",
+  "cms_value": "<!--:kk_kz-->Механикалық жүйелерді автоматтандыру<!--:-->"
+ },
+ {
+  "page": "mekanik-otomasyon",
+  "type": "service",
+  "url_tr": "/page/mekanik-otomasyon",
+  "url_kk": "/page/mekanik-otomasyon-kk",
+  "field": "meta_description",
+  "tr": "",
+  "kk": "HVAC жүйесінің механикалық құрылғыларын бір орталықтан басқару, бақылау және есеп беру.",
+  "cms_value": "<!--:kk_kz-->HVAC жүйесінің механикалық құрылғыларын бір орталықтан басқару, бақылау және есеп беру.<!--:-->"
+ },
+ {
+  "page": "mekanik-otomasyon",
+  "type": "service",
+  "url_tr": "/page/mekanik-otomasyon",
+  "url_kk": "/page/mekanik-otomasyon-kk",
+  "field": "body_html",
+  "tr": "<p>Mekanik Otomasyon Sistemleri dahilinde; Klima Santralleri, Sirkülasyon – Isıtma – Soğutma Pompaları, Pis Su Pompaları, Yangın Pompaları, Kanal Tipi ve Hücreli Tip Fanlar, Merdiven Basınçlandırma Fanları, Su Depoları, Jet Fanlar, Hidroforlar, Boyler, Kazan, Eşanjörler, Soğutma (Chiller) Grupları gibi HVAC (Heating, Ventilating and Air Conditioning) sistemine ait mekanik cihazların tek bir merkezden kontrolü, izlenmesi ve raporlanması sağlanmaktadır.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/all-services/mekanik-otomasyon.jpg\" alt=\"Metro Teknik Mekanik Otomasyon Hizmeti\" width=\"1012\" height=\"720\"></figure>",
+  "kk": "<p>Механикалық жүйелерді автоматтандыру аясында ауа баптау қондырғылары, айналым, жылыту және салқындату сорғылары, кәріз сорғылары, өрт сорғылары, арналық және секциялық желдеткіштер, баспалдақтарда ауа қысымын жасайтын желдеткіштер, су қоймалары, жет-желдеткіштер, гидрофорлар, бойлерлер, қазандықтар, жылу алмастырғыштар, салқындату (чиллер) агрегаттары сияқты HVAC (жылыту, желдету және ауа баптау) жүйесінің механикалық құрылғыларын бір орталықтан басқару, бақылау және есеп беру қамтамасыз етіледі.</p>",
+  "cms_value": "<!--:kk_kz--><p>Механикалық жүйелерді автоматтандыру аясында ауа баптау қондырғылары, айналым, жылыту және салқындату сорғылары, кәріз сорғылары, өрт сорғылары, арналық және секциялық желдеткіштер, баспалдақтарда ауа қысымын жасайтын желдеткіштер, су қоймалары, жет-желдеткіштер, гидрофорлар, бойлерлер, қазандықтар, жылу алмастырғыштар, салқындату (чиллер) агрегаттары сияқты HVAC (жылыту, желдету және ауа баптау) жүйесінің механикалық құрылғыларын бір орталықтан басқару, бақылау және есеп беру қамтамасыз етіледі.</p><!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Mega 2 Alışveriş Merkezi",
+  "kk": "Mega 2 сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->Mega 2 сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "heading",
+  "tr": "Mega 2 Alışveriş Merkezi",
+  "kk": "Mega 2 сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->Mega 2 сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Mega 2 сауда орталығы",
+  "cms_value": "<!--:kk_kz-->Mega 2 сауда орталығы<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "fact.location",
+  "tr": "Almaata / Kazakistan",
+  "kk": "Алматы, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Алматы, Қазақстан<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "fact.client",
+  "tr": "A-TA STROY",
+  "kk": "A-TA STROY",
+  "cms_value": "<!--:kk_kz-->A-TA STROY<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "fact.area",
+  "tr": "105.000 m2",
+  "kk": "105 000 м²",
+  "cms_value": "<!--:kk_kz-->105 000 м²<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "fact.date",
+  "tr": "2013",
+  "kk": "2013",
+  "cms_value": "<!--:kk_kz-->2013<!--:-->"
+ },
+ {
+  "page": "mega-2-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-2-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-2-alisveris-merkezi-almaata-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME",
+  "kk": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Kütüphane Binası",
+  "kk": "Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы",
+  "cms_value": "<!--:kk_kz-->Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "heading",
+  "tr": "Kütüphane Binası",
+  "kk": "Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы",
+  "cms_value": "<!--:kk_kz-->Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Тұңғыш Президент кітапханасы",
+  "cms_value": "<!--:kk_kz-->Тұңғыш Президент кітапханасы<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "fact.area",
+  "tr": "34.457 m2",
+  "kk": "34 457 м²",
+  "cms_value": "<!--:kk_kz-->34 457 м²<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "fact.date",
+  "tr": "2013",
+  "kk": "2013",
+  "cms_value": "<!--:kk_kz-->2013<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "kutuphane-binasi-astana",
+  "type": "project",
+  "url_tr": "/page/kutuphane-binasi-astana",
+  "url_kk": "/page/kutuphane-binasi-astana-kk",
+  "field": "fact.budget",
+  "tr": "$600.000,00",
+  "kk": "$600 000,00",
+  "cms_value": "<!--:kk_kz-->$600 000,00<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Mega 3 Alışveriş Merkezi",
+  "kk": "Mega 3 сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->Mega 3 сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "heading",
+  "tr": "Mega 3 Alışveriş Merkezi",
+  "kk": "Mega 3 сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->Mega 3 сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Mega 3 сауда орталығы",
+  "cms_value": "<!--:kk_kz-->Mega 3 сауда орталығы<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "fact.location",
+  "tr": "Almaata / Kazakistan",
+  "kk": "Алматы, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Алматы, Қазақстан<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "fact.client",
+  "tr": "A-TA STROY",
+  "kk": "A-TA STROY",
+  "cms_value": "<!--:kk_kz-->A-TA STROY<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "fact.area",
+  "tr": "104.000 m2",
+  "kk": "104 000 м²",
+  "cms_value": "<!--:kk_kz-->104 000 м²<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "fact.date",
+  "tr": "2013",
+  "kk": "2013",
+  "cms_value": "<!--:kk_kz-->2013<!--:-->"
+ },
+ {
+  "page": "mega-3-alisveris-merkezi-almaata",
+  "type": "project",
+  "url_tr": "/page/mega-3-alisveris-merkezi-almaata",
+  "url_kk": "/page/mega-3-alisveris-merkezi-almaata-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Akademi A6 Blok",
+  "kk": "Ұлттық қорғаныс университеті, A6 блогы",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A6 блогы<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "heading",
+  "tr": "Akademi A6 Blok",
+  "kk": "Ұлттық қорғаныс университеті, A6 блогы",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A6 блогы<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Ұлттық қорғаныс университеті, A6 блогы",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A6 блогы<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "fact.date",
+  "tr": "2013",
+  "kk": "2013",
+  "cms_value": "<!--:kk_kz-->2013<!--:-->"
+ },
+ {
+  "page": "akademi-a6-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-blok-astana",
+  "url_kk": "/page/akademi-a6-blok-astana-kk",
+  "field": "fact.budget",
+  "tr": "₸2.250.000,00",
+  "kk": "2 250 000,00 ₸",
+  "cms_value": "<!--:kk_kz-->2 250 000,00 ₸<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Akademi A11 Blok",
+  "kk": "Ұлттық қорғаныс университеті, A11 блогы",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A11 блогы<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "heading",
+  "tr": "Akademi A11 Blok",
+  "kk": "Ұлттық қорғаныс университеті, A11 блогы",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A11 блогы<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Ұлттық қорғаныс университеті, A11 блогы",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A11 блогы<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "fact.date",
+  "tr": "2013",
+  "kk": "2013",
+  "cms_value": "<!--:kk_kz-->2013<!--:-->"
+ },
+ {
+  "page": "akademi-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a11-blok-astana",
+  "url_kk": "/page/akademi-a11-blok-astana-kk",
+  "field": "fact.budget",
+  "tr": "₸4.550.000,00",
+  "kk": "4 550 000,00 ₸",
+  "cms_value": "<!--:kk_kz-->4 550 000,00 ₸<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Rixos Otel Borovoe",
+  "kk": "«Rixos Borovoe» қонақүйі",
+  "cms_value": "<!--:kk_kz-->«Rixos Borovoe» қонақүйі<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "heading",
+  "tr": "Rixos Otel Borovoe",
+  "kk": "«Rixos Borovoe» қонақүйі",
+  "cms_value": "<!--:kk_kz-->«Rixos Borovoe» қонақүйі<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Rixos Borovoe» қонақүйі",
+  "cms_value": "<!--:kk_kz-->«Rixos Borovoe» қонақүйі<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "fact.location",
+  "tr": "Astana",
+  "kk": "Астана",
+  "cms_value": "<!--:kk_kz-->Астана<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "fact.client",
+  "tr": "A-TA STROY",
+  "kk": "A-TA STROY",
+  "cms_value": "<!--:kk_kz-->A-TA STROY<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "fact.area",
+  "tr": "33.000 m2",
+  "kk": "33 000 м²",
+  "cms_value": "<!--:kk_kz-->33 000 м²<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "fact.date",
+  "tr": "2012",
+  "kk": "2012",
+  "cms_value": "<!--:kk_kz-->2012<!--:-->"
+ },
+ {
+  "page": "rixos-otel-borovoe",
+  "type": "project",
+  "url_tr": "/page/rixos-otel-borovoe",
+  "url_kk": "/page/rixos-otel-borovoe-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME",
+  "kk": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Han Cadır Mekanik İşçilik",
+  "kk": "«Хан Шатыр» сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->«Хан Шатыр» сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "heading",
+  "tr": "Han Cadır Mekanik İşçilik",
+  "kk": "«Хан Шатыр» сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->«Хан Шатыр» сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Хан Шатыр» СОО",
+  "cms_value": "<!--:kk_kz-->«Хан Шатыр» СОО<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL / ALTES",
+  "kk": "SEMBOL / ALTES",
+  "cms_value": "<!--:kk_kz-->SEMBOL / ALTES<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "fact.area",
+  "tr": "140.000 m2",
+  "kk": "140 000 м²",
+  "cms_value": "<!--:kk_kz-->140 000 м²<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "fact.date",
+  "tr": "2008",
+  "kk": "2008",
+  "cms_value": "<!--:kk_kz-->2008<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "han-cadir-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/han-cadir-mekanik-iscilik-astana",
+  "url_kk": "/page/han-cadir-mekanik-iscilik-astana-kk",
+  "field": "fact.budget",
+  "tr": "$4.150.000,00",
+  "kk": "$4 150 000,00",
+  "cms_value": "<!--:kk_kz-->$4 150 000,00<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Stadyum Mekanik İşçilik",
+  "kk": "«Астана Арена» стадионы",
+  "cms_value": "<!--:kk_kz-->«Астана Арена» стадионы<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "heading",
+  "tr": "Stadyum Mekanik İşçilik",
+  "kk": "«Астана Арена» стадионы",
+  "cms_value": "<!--:kk_kz-->«Астана Арена» стадионы<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Астана Арена» стадионы",
+  "cms_value": "<!--:kk_kz-->«Астана Арена» стадионы<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL / ALTES",
+  "kk": "SEMBOL / ALTES",
+  "cms_value": "<!--:kk_kz-->SEMBOL / ALTES<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "fact.date",
+  "tr": "2008",
+  "kk": "2008",
+  "cms_value": "<!--:kk_kz-->2008<!--:-->"
+ },
+ {
+  "page": "stadyum-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/stadyum-mekanik-iscilik-astana",
+  "url_kk": "/page/stadyum-mekanik-iscilik-astana-kk",
+  "field": "fact.budget",
+  "tr": "$1.150.000,00",
+  "kk": "$1 150 000,00",
+  "cms_value": "<!--:kk_kz-->$1 150 000,00<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Çocuk Hastanesi Mekanik İşçilik",
+  "kk": "«Республикалық балалар оңалту орталығы» АҚ",
+  "cms_value": "<!--:kk_kz-->«Республикалық балалар оңалту орталығы» АҚ<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "heading",
+  "tr": "Çocuk Hastanesi Mekanik İşçilik",
+  "kk": "«Республикалық балалар оңалту орталығы» АҚ",
+  "cms_value": "<!--:kk_kz-->«Республикалық балалар оңалту орталығы» АҚ<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Республикалық балалар оңалту орталығы",
+  "cms_value": "<!--:kk_kz-->Республикалық балалар оңалту орталығы<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.client",
+  "tr": "BAYTUR / GEMTAŞ",
+  "kk": "BAYTUR / GEMTAŞ",
+  "cms_value": "<!--:kk_kz-->BAYTUR / GEMTAŞ<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.date",
+  "tr": "2007",
+  "kk": "2007",
+  "cms_value": "<!--:kk_kz-->2007<!--:-->"
+ },
+ {
+  "page": "cocuk-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.budget",
+  "tr": "$1.270.080,00",
+  "kk": "$1 270 080,00",
+  "cms_value": "<!--:kk_kz-->$1 270 080,00<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Sarıarka Alışveriş Merkezi",
+  "kk": "«Сарыарқа» сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->«Сарыарқа» сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "heading",
+  "tr": "Sarıarka Alışveriş Merkezi",
+  "kk": "«Сарыарқа» сауда-ойын-сауық орталығы",
+  "cms_value": "<!--:kk_kz-->«Сарыарқа» сауда-ойын-сауық орталығы<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Сарыарқа» СОО",
+  "cms_value": "<!--:kk_kz-->«Сарыарқа» СОО<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "fact.client",
+  "tr": "BAYTUR / GEMTAŞ",
+  "kk": "BAYTUR / GEMTAŞ",
+  "cms_value": "<!--:kk_kz-->BAYTUR / GEMTAŞ<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "fact.area",
+  "tr": "42.000 m2",
+  "kk": "42 000 м²",
+  "cms_value": "<!--:kk_kz-->42 000 м²<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "fact.date",
+  "tr": "2006",
+  "kk": "2006",
+  "cms_value": "<!--:kk_kz-->2006<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "sariarka-alisveris-merkezi-astana",
+  "type": "project",
+  "url_tr": "/page/sariarka-alisveris-merkezi-astana",
+  "url_kk": "/page/sariarka-alisveris-merkezi-astana-kk",
+  "field": "fact.budget",
+  "tr": "$925.000,00",
+  "kk": "$925 000,00",
+  "cms_value": "<!--:kk_kz-->$925 000,00<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Nöroloji Hastanesi Mekanik İşçilik",
+  "kk": "«Ұлттық нейрохирургия орталығы» АҚ",
+  "cms_value": "<!--:kk_kz-->«Ұлттық нейрохирургия орталығы» АҚ<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "heading",
+  "tr": "Nöroloji Hastanesi Mekanik İşçilik",
+  "kk": "«Ұлттық нейрохирургия орталығы» АҚ",
+  "cms_value": "<!--:kk_kz-->«Ұлттық нейрохирургия орталығы» АҚ<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Ұлттық нейрохирургия орталығы",
+  "cms_value": "<!--:kk_kz-->Ұлттық нейрохирургия орталығы<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.client",
+  "tr": "BAYTUR / GEMTAŞ",
+  "kk": "BAYTUR / GEMTAŞ",
+  "cms_value": "<!--:kk_kz-->BAYTUR / GEMTAŞ<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.date",
+  "tr": "2006",
+  "kk": "2006",
+  "cms_value": "<!--:kk_kz-->2006<!--:-->"
+ },
+ {
+  "page": "noroloji-hastanesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+  "url_kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk",
+  "field": "fact.budget",
+  "tr": "$1.360.800,00",
+  "kk": "$1 360 800,00",
+  "cms_value": "<!--:kk_kz-->$1 360 800,00<!--:-->"
+ },
+ {
+  "page": "metro-teknik-devam-eden-projeler",
+  "type": "list",
+  "url_tr": "/page/metro-teknik-devam-eden-projeler",
+  "url_kk": "/page/metro-teknik-devam-eden-projeler-kk",
+  "field": "title",
+  "tr": "Metro Teknik Devam Eden Projeler",
+  "kk": "Іске асырылып жатқан жобалар",
+  "cms_value": "<!--:kk_kz-->Іске асырылып жатқан жобалар<!--:-->"
+ },
+ {
+  "page": "metro-teknik-devam-eden-projeler",
+  "type": "list",
+  "url_tr": "/page/metro-teknik-devam-eden-projeler",
+  "url_kk": "/page/metro-teknik-devam-eden-projeler-kk",
+  "field": "heading",
+  "tr": "Metro Teknik Devam Eden Projeler",
+  "kk": "Іске асырылып жатқан жобалар",
+  "cms_value": "<!--:kk_kz-->Іске асырылып жатқан жобалар<!--:-->"
+ },
+ {
+  "page": "metro-teknik-biten-projeleri",
+  "type": "list",
+  "url_tr": "/page/metro-teknik-biten-projeleri",
+  "url_kk": "/page/metro-teknik-biten-projeleri-kk",
+  "field": "title",
+  "tr": "Metro Teknik Biten Projeleri",
+  "kk": "Аяқталған жобалар",
+  "cms_value": "<!--:kk_kz-->Аяқталған жобалар<!--:-->"
+ },
+ {
+  "page": "metro-teknik-biten-projeleri",
+  "type": "list",
+  "url_tr": "/page/metro-teknik-biten-projeleri",
+  "url_kk": "/page/metro-teknik-biten-projeleri-kk",
+  "field": "heading",
+  "tr": "Metro Teknik Biten Projeler",
+  "kk": "Аяқталған жобалар",
+  "cms_value": "<!--:kk_kz-->Аяқталған жобалар<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "title",
+  "tr": "Kokshetau Hospital",
+  "kk": "Көкшетау ауруханасы",
+  "cms_value": "<!--:kk_kz-->Көкшетау ауруханасы<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "heading",
+  "tr": "Kokshetau Hospital",
+  "kk": "Көкшетау ауруханасы",
+  "cms_value": "<!--:kk_kz-->Көкшетау ауруханасы<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Көкшетау ауруханасы",
+  "cms_value": "<!--:kk_kz-->Көкшетау ауруханасы<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "fact.location",
+  "tr": "Kokshetau/Kazakistan",
+  "kk": "Көкшетау, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Көкшетау, Қазақстан<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "fact.client",
+  "tr": "RÖNESANS HOLDİNG A.Ş.",
+  "kk": "RÖNESANS HOLDİNG A.Ş.",
+  "cms_value": "<!--:kk_kz-->RÖNESANS HOLDİNG A.Ş.<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "fact.area",
+  "tr": "110.000 m2 (630 Yataklı)",
+  "kk": "110 000 м² (630 төсек-орын)",
+  "cms_value": "<!--:kk_kz-->110 000 м² (630 төсек-орын)<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "fact.date",
+  "tr": "2025",
+  "kk": "2025",
+  "cms_value": "<!--:kk_kz-->2025<!--:-->"
+ },
+ {
+  "page": "kokshetau-hospital",
+  "type": "project",
+  "url_tr": "/page/kokshetau-hospital",
+  "url_kk": "/page/kokshetau-hospital-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "title",
+  "tr": "Türkistan Şehir Hastanesi",
+  "kk": "Түркістан қалалық ауруханасы",
+  "cms_value": "<!--:kk_kz-->Түркістан қалалық ауруханасы<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "heading",
+  "tr": "Türkistan Şehir Hastanesi",
+  "kk": "Түркістан қалалық ауруханасы",
+  "cms_value": "<!--:kk_kz-->Түркістан қалалық ауруханасы<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Түркістан қалалық ауруханасы",
+  "cms_value": "<!--:kk_kz-->Түркістан қалалық ауруханасы<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "fact.location",
+  "tr": "Türkistan/Kazakistan",
+  "kk": "Түркістан, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Түркістан, Қазақстан<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "fact.client",
+  "tr": "YDA Group",
+  "kk": "YDA Group",
+  "cms_value": "<!--:kk_kz-->YDA Group<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "fact.area",
+  "tr": "79.200m2",
+  "kk": "79 200 м²",
+  "cms_value": "<!--:kk_kz-->79 200 м²<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "fact.date",
+  "tr": "2021",
+  "kk": "2021",
+  "cms_value": "<!--:kk_kz-->2021<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "turkistan-sehir-hastanesi",
+  "type": "project",
+  "url_tr": "/page/turkistan-sehir-hastanesi",
+  "url_kk": "/page/turkistan-sehir-hastanesi-kk",
+  "field": "fact.budget",
+  "tr": "12.166.000$",
+  "kk": "12 166 000 $",
+  "cms_value": "<!--:kk_kz-->12 166 000 $<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "title",
+  "tr": "Karaganda Lastik Fabrikası",
+  "kk": "Қарағанды шина зауыты",
+  "cms_value": "<!--:kk_kz-->Қарағанды шина зауыты<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "heading",
+  "tr": "Karaganda Lastik Fabrikası",
+  "kk": "Қарағанды шина зауыты",
+  "cms_value": "<!--:kk_kz-->Қарағанды шина зауыты<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Қарағанды шина зауыты",
+  "cms_value": "<!--:kk_kz-->Қарағанды шина зауыты<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "fact.location",
+  "tr": "Karaganda/Kazakistan",
+  "kk": "Қарағанды, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Қарағанды, Қазақстан<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "fact.client",
+  "tr": "BI GROUP",
+  "kk": "BI GROUP",
+  "cms_value": "<!--:kk_kz-->BI GROUP<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "fact.area",
+  "tr": "80.000 m2",
+  "kk": "80 000 м²",
+  "cms_value": "<!--:kk_kz-->80 000 м²<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "fact.date",
+  "tr": "2022",
+  "kk": "2022",
+  "cms_value": "<!--:kk_kz-->2022<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "fact.scope",
+  "tr": "Havalandırma, Isıtma, Soğutma, Yangın, Sıhhi Tesisat Malzeme + Montaj.",
+  "kk": "Желдету, жылыту, салқындату, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Желдету, жылыту, салқындату, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "karaganda-lastik-fabrikasi",
+  "type": "project",
+  "url_tr": "/page/karaganda-lastik-fabrikasi",
+  "url_kk": "/page/karaganda-lastik-fabrikasi-kk",
+  "field": "fact.note",
+  "tr": "İmalat görselleri proje medya kısıtlamasından dolayı paylaşılamıyor.",
+  "kk": "Монтаж жұмыстарының фотосуреттері жобаның медиа шектеулеріне байланысты жарияланбайды.",
+  "cms_value": "<!--:kk_kz-->Монтаж жұмыстарының фотосуреттері жобаның медиа шектеулеріне байланысты жарияланбайды.<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "title",
+  "tr": "Kervansaray",
+  "kk": "«Керуенсарай» кешені",
+  "cms_value": "<!--:kk_kz-->«Керуенсарай» кешені<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "heading",
+  "tr": "Kervansaray",
+  "kk": "«Керуенсарай» кешені",
+  "cms_value": "<!--:kk_kz-->«Керуенсарай» кешені<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Керуенсарай» кешені",
+  "cms_value": "<!--:kk_kz-->«Керуенсарай» кешені<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "fact.location",
+  "tr": "Türkistan/Kazakistan",
+  "kk": "Түркістан, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Түркістан, Қазақстан<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "fact.area",
+  "tr": "56.000 m2",
+  "kk": "56 000 м²",
+  "cms_value": "<!--:kk_kz-->56 000 м²<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "fact.date",
+  "tr": "2020",
+  "kk": "2020",
+  "cms_value": "<!--:kk_kz-->2020<!--:-->"
+ },
+ {
+  "page": "kervansaray",
+  "type": "project",
+  "url_tr": "/page/kervansaray",
+  "url_kk": "/page/kervansaray-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "title",
+  "tr": "TEMA PARK",
+  "kk": "Tema Park",
+  "cms_value": "<!--:kk_kz-->Tema Park<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "heading",
+  "tr": "Tema Park",
+  "kk": "Tema Park",
+  "cms_value": "<!--:kk_kz-->Tema Park<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Tema Park",
+  "cms_value": "<!--:kk_kz-->Tema Park<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "fact.location",
+  "tr": "Aktau/Kazakistan",
+  "kk": "Ақтау, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Ақтау, Қазақстан<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "fact.area",
+  "tr": "14.000 m2",
+  "kk": "14 000 м²",
+  "cms_value": "<!--:kk_kz-->14 000 м²<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "fact.date",
+  "tr": "2021",
+  "kk": "2021",
+  "cms_value": "<!--:kk_kz-->2021<!--:-->"
+ },
+ {
+  "page": "tema-park",
+  "type": "project",
+  "url_tr": "/page/tema-park",
+  "url_kk": "/page/tema-park-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "title",
+  "tr": "TOWN CENTER",
+  "kk": "Town Center",
+  "cms_value": "<!--:kk_kz-->Town Center<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "heading",
+  "tr": "Town Center",
+  "kk": "Town Center",
+  "cms_value": "<!--:kk_kz-->Town Center<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Town Center",
+  "cms_value": "<!--:kk_kz-->Town Center<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "fact.location",
+  "tr": "Aktau/Kazakistan",
+  "kk": "Ақтау, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Ақтау, Қазақстан<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "fact.area",
+  "tr": "48.500 m2",
+  "kk": "48 500 м²",
+  "cms_value": "<!--:kk_kz-->48 500 м²<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "fact.date",
+  "tr": "2021",
+  "kk": "2021",
+  "cms_value": "<!--:kk_kz-->2021<!--:-->"
+ },
+ {
+  "page": "town-center",
+  "type": "project",
+  "url_tr": "/page/town-center",
+  "url_kk": "/page/town-center-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "title",
+  "tr": "Aktau Resort Hotel",
+  "kk": "Aktau Resort Hotel",
+  "cms_value": "<!--:kk_kz-->Aktau Resort Hotel<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "heading",
+  "tr": "Aktau Resort Hotel",
+  "kk": "Aktau Resort Hotel",
+  "cms_value": "<!--:kk_kz-->Aktau Resort Hotel<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Aktau Resort Hotel",
+  "cms_value": "<!--:kk_kz-->Aktau Resort Hotel<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "fact.location",
+  "tr": "Aktau / Kazakistan",
+  "kk": "Ақтау, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Ақтау, Қазақстан<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "fact.area",
+  "tr": "61.000 m2",
+  "kk": "61 000 м²",
+  "cms_value": "<!--:kk_kz-->61 000 м²<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "fact.date",
+  "tr": "2020",
+  "kk": "2020",
+  "cms_value": "<!--:kk_kz-->2020<!--:-->"
+ },
+ {
+  "page": "aktau-resort-hotel",
+  "type": "project",
+  "url_tr": "/page/aktau-resort-hotel",
+  "url_kk": "/page/aktau-resort-hotel-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, BUHAR, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, бу жүйелері, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, бу жүйелері, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "title",
+  "tr": "Nazarbayev Merkezi İdari Binası",
+  "kk": "Назарбаев орталығының әкімшілік ғимараты",
+  "cms_value": "<!--:kk_kz-->Назарбаев орталығының әкімшілік ғимараты<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "heading",
+  "tr": "Nazarbayev Merkezi İdari Binası",
+  "kk": "Назарбаев орталығының әкімшілік ғимараты",
+  "cms_value": "<!--:kk_kz-->Назарбаев орталығының әкімшілік ғимараты<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Назарбаев орталығының әкімшілік ғимараты",
+  "cms_value": "<!--:kk_kz-->Назарбаев орталығының әкімшілік ғимараты<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "fact.location",
+  "tr": "Astana",
+  "kk": "Астана",
+  "cms_value": "<!--:kk_kz-->Астана<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "fact.area",
+  "tr": "39.857 m2",
+  "kk": "39 857 м²",
+  "cms_value": "<!--:kk_kz-->39 857 м²<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "fact.date",
+  "tr": "2019",
+  "kk": "2019",
+  "cms_value": "<!--:kk_kz-->2019<!--:-->"
+ },
+ {
+  "page": "nazarbayev-merkezi-idari-binasi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-merkezi-idari-binasi",
+  "url_kk": "/page/nazarbayev-merkezi-idari-binasi-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "title",
+  "tr": "NAZARBAYEV ÜNİVERSİTESİ",
+  "kk": "Назарбаев Университеті",
+  "cms_value": "<!--:kk_kz-->Назарбаев Университеті<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "heading",
+  "tr": "Nazarbayev Üniversitesi",
+  "kk": "Назарбаев Университеті",
+  "cms_value": "<!--:kk_kz-->Назарбаев Университеті<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Назарбаев Университеті",
+  "cms_value": "<!--:kk_kz-->Назарбаев Университеті<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "fact.location",
+  "tr": "Astana",
+  "kk": "Астана",
+  "cms_value": "<!--:kk_kz-->Астана<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "fact.area",
+  "tr": "228.500 m2",
+  "kk": "228 500 м²",
+  "cms_value": "<!--:kk_kz-->228 500 м²<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "fact.date",
+  "tr": "2013-2017",
+  "kk": "2013–2017",
+  "cms_value": "<!--:kk_kz-->2013–2017<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi",
+  "url_kk": "/page/nazarbayev-universitesi-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "title",
+  "tr": "Kızılorda (Korkut Ata) Havalimanı Terminal Binası",
+  "kk": "Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты",
+  "cms_value": "<!--:kk_kz-->Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "heading",
+  "tr": "Kızılorda (Korkut Ata) Havalimanı Terminal Binası",
+  "kk": "Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты",
+  "cms_value": "<!--:kk_kz-->Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Қызылорда (Қорқыт Ата) әуежайының терминалы",
+  "cms_value": "<!--:kk_kz-->Қызылорда (Қорқыт Ата) әуежайының терминалы<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "fact.location",
+  "tr": "Kızılorda/Kazakistan",
+  "kk": "Қызылорда, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Қызылорда, Қазақстан<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "fact.client",
+  "tr": "Elite Construction",
+  "kk": "Elite Construction",
+  "cms_value": "<!--:kk_kz-->Elite Construction<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "fact.area",
+  "tr": "10.000 m2",
+  "kk": "10 000 м²",
+  "cms_value": "<!--:kk_kz-->10 000 м²<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "fact.date",
+  "tr": "2023",
+  "kk": "2023",
+  "cms_value": "<!--:kk_kz-->2023<!--:-->"
+ },
+ {
+  "page": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "type": "project",
+  "url_tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+  "url_kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Akademi A6-A11 Blok",
+  "kk": "Ұлттық қорғаныс университеті, A6–A11 блоктары",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A6–A11 блоктары<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "heading",
+  "tr": "HARP AKADEMİLERİ A6-A11 BLOKLAR",
+  "kk": "Ұлттық қорғаныс университеті, A6–A11 блоктары",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A6–A11 блоктары<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Ұлттық қорғаныс университеті, A6–A11 блоктары",
+  "cms_value": "<!--:kk_kz-->Ұлттық қорғаныс университеті, A6–A11 блоктары<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "fact.location",
+  "tr": "ASTANA",
+  "kk": "Астана",
+  "cms_value": "<!--:kk_kz-->Астана<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "fact.area",
+  "tr": "33.000 m2",
+  "kk": "33 000 м²",
+  "cms_value": "<!--:kk_kz-->33 000 м²<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "fact.date",
+  "tr": "2013",
+  "kk": "2013",
+  "cms_value": "<!--:kk_kz-->2013<!--:-->"
+ },
+ {
+  "page": "akademi-a6-a11-blok-astana",
+  "type": "project",
+  "url_tr": "/page/akademi-a6-a11-blok-astana",
+  "url_kk": "/page/akademi-a6-a11-blok-astana-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME",
+  "kk": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "title",
+  "tr": "Astana Kongre Merkezi (Komple Renovasyon)",
+  "kk": "Астана конгресс-орталығы (толық реконструкция)",
+  "cms_value": "<!--:kk_kz-->Астана конгресс-орталығы (толық реконструкция)<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "heading",
+  "tr": "Astana Kongre Merkezi (Komple Renovasyon)",
+  "kk": "Астана конгресс-орталығы (толық реконструкция)",
+  "cms_value": "<!--:kk_kz-->Астана конгресс-орталығы (толық реконструкция)<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Астана конгресс-орталығы (толық реконструкция)",
+  "cms_value": "<!--:kk_kz-->Астана конгресс-орталығы (толық реконструкция)<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "fact.location",
+  "tr": "Astana/Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "fact.client",
+  "tr": "Sembol İnşaat",
+  "kk": "Sembol İnşaat",
+  "cms_value": "<!--:kk_kz-->Sembol İnşaat<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "fact.area",
+  "tr": "44.000 m2",
+  "kk": "44 000 м²",
+  "cms_value": "<!--:kk_kz-->44 000 м²<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "fact.date",
+  "tr": "2023",
+  "kk": "2023",
+  "cms_value": "<!--:kk_kz-->2023<!--:-->"
+ },
+ {
+  "page": "astana-kongre-merkezi-komple-renovasyon",
+  "type": "project",
+  "url_tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+  "url_kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Piramit Şantyesi Mekanik İşçilik",
+  "kk": "«Бейбітшілік және келісім сарайы» («Пирамида»)",
+  "cms_value": "<!--:kk_kz-->«Бейбітшілік және келісім сарайы» («Пирамида»)<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "heading",
+  "tr": "Piramit Şantiyesi Mekanik İşçilik",
+  "kk": "«Бейбітшілік және келісім сарайы» («Пирамида»)",
+  "cms_value": "<!--:kk_kz-->«Бейбітшілік және келісім сарайы» («Пирамида»)<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Бейбітшілік және келісім сарайы",
+  "cms_value": "<!--:kk_kz-->Бейбітшілік және келісім сарайы<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL / ALTES",
+  "kk": "SEMBOL / ALTES",
+  "cms_value": "<!--:kk_kz-->SEMBOL / ALTES<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "fact.area",
+  "tr": "28.721 m2",
+  "kk": "28 721 м²",
+  "cms_value": "<!--:kk_kz-->28 721 м²<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "fact.date",
+  "tr": "2006",
+  "kk": "2006",
+  "cms_value": "<!--:kk_kz-->2006<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME",
+  "kk": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "piramit-santiyesi-mekanik-iscilik-astana",
+  "type": "project",
+  "url_tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+  "url_kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk",
+  "field": "fact.budget",
+  "tr": "$870.000,00",
+  "kk": "$870 000,00",
+  "cms_value": "<!--:kk_kz-->$870 000,00<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Nazarbayev Üni. 1.Etap",
+  "kk": "Назарбаев Университеті, 1-кезең",
+  "cms_value": "<!--:kk_kz-->Назарбаев Университеті, 1-кезең<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "heading",
+  "tr": "Nazarbayev Üniversitesi 1.Etap",
+  "kk": "Назарбаев Университеті, 1-кезең",
+  "cms_value": "<!--:kk_kz-->Назарбаев Университеті, 1-кезең<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Назарбаев Университеті, 1-кезең",
+  "cms_value": "<!--:kk_kz-->Назарбаев Университеті, 1-кезең<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL",
+  "kk": "SEMBOL",
+  "cms_value": "<!--:kk_kz-->SEMBOL<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "fact.area",
+  "tr": "60.000 m2",
+  "kk": "60 000 м²",
+  "cms_value": "<!--:kk_kz-->60 000 м²<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "fact.date",
+  "tr": "2007",
+  "kk": "2007",
+  "cms_value": "<!--:kk_kz-->2007<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "nazarbayev-universitesi-1-etap",
+  "type": "project",
+  "url_tr": "/page/nazarbayev-universitesi-1-etap",
+  "url_kk": "/page/nazarbayev-universitesi-1-etap-kk",
+  "field": "fact.budget",
+  "tr": "$850.000,00",
+  "kk": "$850 000,00",
+  "cms_value": "<!--:kk_kz-->$850 000,00<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Cumhurbaşkanlığı Hastanesi",
+  "kk": "Президенттік аурухана",
+  "cms_value": "<!--:kk_kz-->Президенттік аурухана<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "heading",
+  "tr": "Cumhurbaşkanlığı Hastanesi",
+  "kk": "Президенттік аурухана",
+  "cms_value": "<!--:kk_kz-->Президенттік аурухана<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Президенттік аурухана",
+  "cms_value": "<!--:kk_kz-->Президенттік аурухана<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "fact.client",
+  "tr": "GMT ENGINEERING",
+  "kk": "GMT ENGINEERING",
+  "cms_value": "<!--:kk_kz-->GMT ENGINEERING<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "fact.area",
+  "tr": "95.000 m2",
+  "kk": "95 000 м²",
+  "cms_value": "<!--:kk_kz-->95 000 м²<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "fact.date",
+  "tr": "2010",
+  "kk": "2010",
+  "cms_value": "<!--:kk_kz-->2010<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "cumhurbaskanligi-hastanesi",
+  "type": "project",
+  "url_tr": "/page/cumhurbaskanligi-hastanesi",
+  "url_kk": "/page/cumhurbaskanligi-hastanesi-kk",
+  "field": "fact.budget",
+  "tr": "$4.850.000,00",
+  "kk": "$4 850 000,00",
+  "cms_value": "<!--:kk_kz-->$4 850 000,00<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Akbozat Restoran",
+  "kk": "«Ақбозат» мейрамханасы",
+  "cms_value": "<!--:kk_kz-->«Ақбозат» мейрамханасы<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "heading",
+  "tr": "Akbozat Restoran",
+  "kk": "«Ақбозат» мейрамханасы",
+  "cms_value": "<!--:kk_kz-->«Ақбозат» мейрамханасы<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "«Ақбозат» мейрамханасы",
+  "cms_value": "<!--:kk_kz-->«Ақбозат» мейрамханасы<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "fact.location",
+  "tr": "Astana / Kazakistan",
+  "kk": "Астана, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Астана, Қазақстан<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "fact.client",
+  "tr": "GMT ENGINEERING",
+  "kk": "GMT ENGINEERING",
+  "cms_value": "<!--:kk_kz-->GMT ENGINEERING<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "fact.area",
+  "tr": "3.500 m2",
+  "kk": "3 500 м²",
+  "cms_value": "<!--:kk_kz-->3 500 м²<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "fact.date",
+  "tr": "2010",
+  "kk": "2010",
+  "cms_value": "<!--:kk_kz-->2010<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "fact.scope",
+  "tr": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME",
+  "kk": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "akbozat-restoran",
+  "type": "project",
+  "url_tr": "/page/akbozat-restoran",
+  "url_kk": "/page/akbozat-restoran-kk",
+  "field": "fact.budget",
+  "tr": "$400.000,00",
+  "kk": "$400 000,00",
+  "cms_value": "<!--:kk_kz-->$400 000,00<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Buğday Depoları",
+  "kk": "Бидай қоймалары",
+  "cms_value": "<!--:kk_kz-->Бидай қоймалары<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "heading",
+  "tr": "Buğday Depoları",
+  "kk": "Бидай қоймалары",
+  "cms_value": "<!--:kk_kz-->Бидай қоймалары<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Бидай қоймалары",
+  "cms_value": "<!--:kk_kz-->Бидай қоймалары<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "fact.location",
+  "tr": "Öskemen",
+  "kk": "Өскемен",
+  "cms_value": "<!--:kk_kz-->Өскемен<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "fact.client",
+  "tr": "SEMBOL İNŞAAT",
+  "kk": "SEMBOL İNŞAAT",
+  "cms_value": "<!--:kk_kz-->SEMBOL İNŞAAT<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "fact.area",
+  "tr": "33.000 m2",
+  "kk": "33 000 м²",
+  "cms_value": "<!--:kk_kz-->33 000 м²<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "fact.date",
+  "tr": "2011",
+  "kk": "2011",
+  "cms_value": "<!--:kk_kz-->2011<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA MONTAJ+MALZEME",
+  "kk": "Желдету; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "bugday-depolari",
+  "type": "project",
+  "url_tr": "/page/bugday-depolari",
+  "url_kk": "/page/bugday-depolari-kk",
+  "field": "fact.budget",
+  "tr": "$550.000,00",
+  "kk": "$550 000,00",
+  "cms_value": "<!--:kk_kz-->$550 000,00<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / Astana Motors Bmw Otosalon",
+  "kk": "Astana Motors BMW автосалоны",
+  "cms_value": "<!--:kk_kz-->Astana Motors BMW автосалоны<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "heading",
+  "tr": "Astana Motors Bmw Otosalon",
+  "kk": "Astana Motors BMW автосалоны",
+  "cms_value": "<!--:kk_kz-->Astana Motors BMW автосалоны<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Astana Motors BMW автосалоны",
+  "cms_value": "<!--:kk_kz-->Astana Motors BMW автосалоны<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "fact.location",
+  "tr": "Astana",
+  "kk": "Астана",
+  "cms_value": "<!--:kk_kz-->Астана<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "fact.client",
+  "tr": "ATASTROY",
+  "kk": "ATASTROY",
+  "cms_value": "<!--:kk_kz-->ATASTROY<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "fact.area",
+  "tr": "7.400 m2",
+  "kk": "7 400 м²",
+  "cms_value": "<!--:kk_kz-->7 400 м²<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "fact.date",
+  "tr": "2012",
+  "kk": "2012",
+  "cms_value": "<!--:kk_kz-->2012<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME",
+  "kk": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "astana-motors-bmw-otosalon",
+  "type": "project",
+  "url_tr": "/page/astana-motors-bmw-otosalon",
+  "url_kk": "/page/astana-motors-bmw-otosalon-kk",
+  "field": "fact.budget",
+  "tr": "$600.000,00",
+  "kk": "$600 000,00",
+  "cms_value": "<!--:kk_kz-->$600 000,00<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "title",
+  "tr": "Tamamlanan Proje / King Halid Havalimanı",
+  "kk": "Король Халид әуежайы",
+  "cms_value": "<!--:kk_kz-->Король Халид әуежайы<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "heading",
+  "tr": "King Halid Havalimanı",
+  "kk": "Король Халид әуежайы",
+  "cms_value": "<!--:kk_kz-->Король Халид әуежайы<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Король Халид әуежайы",
+  "cms_value": "<!--:kk_kz-->Король Халид әуежайы<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "fact.location",
+  "tr": "Riyad",
+  "kk": "Эр-Рияд",
+  "cms_value": "<!--:kk_kz-->Эр-Рияд<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "fact.client",
+  "tr": "TAV",
+  "kk": "TAV",
+  "cms_value": "<!--:kk_kz-->TAV<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "fact.area",
+  "tr": "90.000 m2",
+  "kk": "90 000 м²",
+  "cms_value": "<!--:kk_kz-->90 000 м²<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "fact.date",
+  "tr": "2014",
+  "kk": "2014",
+  "cms_value": "<!--:kk_kz-->2014<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "fact.scope",
+  "tr": "HAVALANDIRMA MONTAJ+MALZEME",
+  "kk": "Желдету; монтаж және материалдар",
+  "cms_value": "<!--:kk_kz-->Желдету; монтаж және материалдар<!--:-->"
+ },
+ {
+  "page": "king-halid-havalimani",
+  "type": "project",
+  "url_tr": "/page/king-halid-havalimani",
+  "url_kk": "/page/king-halid-havalimani-kk",
+  "field": "fact.budget",
+  "tr": "$1.500.000,00",
+  "kk": "$1 500 000,00",
+  "cms_value": "<!--:kk_kz-->$1 500 000,00<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "title",
+  "tr": "Almata Hilton",
+  "kk": "Hilton қонақүйі, Алматы",
+  "cms_value": "<!--:kk_kz-->Hilton қонақүйі, Алматы<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "heading",
+  "tr": "Almata Hilton",
+  "kk": "Hilton қонақүйі, Алматы",
+  "cms_value": "<!--:kk_kz-->Hilton қонақүйі, Алматы<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Hilton қонақүйі, Алматы",
+  "cms_value": "<!--:kk_kz-->Hilton қонақүйі, Алматы<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "fact.location",
+  "tr": "Almata/Kazakistan",
+  "kk": "Алматы, Қазақстан",
+  "cms_value": "<!--:kk_kz-->Алматы, Қазақстан<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "fact.client",
+  "tr": "ARTEMIDA LTD.",
+  "kk": "ARTEMIDA LTD.",
+  "cms_value": "<!--:kk_kz-->ARTEMIDA LTD.<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "fact.area",
+  "tr": "40.000 m2",
+  "kk": "40 000 м²",
+  "cms_value": "<!--:kk_kz-->40 000 м²<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "fact.date",
+  "tr": "2025",
+  "kk": "2025",
+  "cms_value": "<!--:kk_kz-->2025<!--:-->"
+ },
+ {
+  "page": "almata-hilton",
+  "type": "project",
+  "url_tr": "/page/almata-hilton",
+  "url_kk": "/page/almata-hilton-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "title",
+  "tr": "Tersane-İstanbul SPA Merkezi+Villa",
+  "kk": "Tersane İstanbul: SPA орталығы және вилла",
+  "cms_value": "<!--:kk_kz-->Tersane İstanbul: SPA орталығы және вилла<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "heading",
+  "tr": "Tersane-İstanbul SPA Merkezi+Villa",
+  "kk": "Tersane İstanbul: SPA орталығы және вилла",
+  "cms_value": "<!--:kk_kz-->Tersane İstanbul: SPA орталығы және вилла<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "card_name",
+  "tr": "",
+  "kk": "Tersane İstanbul: SPA орталығы және вилла",
+  "cms_value": "<!--:kk_kz-->Tersane İstanbul: SPA орталығы және вилла<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "fact.location",
+  "tr": "İstanbul/Türkiye",
+  "kk": "Стамбұл, Түркия",
+  "cms_value": "<!--:kk_kz-->Стамбұл, Түркия<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "fact.client",
+  "tr": "Sembol İnşaat",
+  "kk": "Sembol İnşaat",
+  "cms_value": "<!--:kk_kz-->Sembol İnşaat<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "fact.area",
+  "tr": "24.000 m2",
+  "kk": "24 000 м²",
+  "cms_value": "<!--:kk_kz-->24 000 м²<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "fact.date",
+  "tr": "2024",
+  "kk": "2024",
+  "cms_value": "<!--:kk_kz-->2024<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "fact.scope",
+  "tr": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.",
+  "kk": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+  "cms_value": "<!--:kk_kz-->Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж<!--:-->"
+ },
+ {
+  "page": "tersane-istanbul-spa-merkezi-villa",
+  "type": "project",
+  "url_tr": "/page/tersane-istanbul-spa-merkezi-villa",
+  "url_kk": "/page/tersane-istanbul-spa-merkezi-villa-kk",
+  "field": "fact.budget",
+  "tr": "-",
+  "kk": "—",
+  "cms_value": "<!--:kk_kz-->—<!--:-->"
+ },
+ {
+  "page": "_chrome",
+  "type": "chrome",
+  "url_tr": "",
+  "url_kk": "",
+  "field": "footer_about",
+  "tr": "Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.",
+  "kk": "Жылыту мен салқындату, желдету және ауа баптау, өрттен қорғау, сумен жабдықтау және су бұру, ғимараттың механикалық жүйелерін автоматтандыру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеміз.",
+  "cms_value": "<!--:kk_kz-->Жылыту мен салқындату, желдету және ауа баптау, өрттен қорғау, сумен жабдықтау және су бұру, ғимараттың механикалық жүйелерін автоматтандыру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеміз.<!--:-->"
+ }
+]

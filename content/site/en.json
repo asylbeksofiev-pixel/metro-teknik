@@ -1,0 +1,113 @@
+{
+ "nav": [
+  {
+   "label": "Corporate",
+   "href": "/page/corporate",
+   "children": []
+  },
+  {
+   "label": "Fields of Activity",
+   "href": "/page/ventilation-systems",
+   "children": []
+  },
+  {
+   "label": "Our Projects",
+   "href": "/",
+   "children": [
+    {
+     "label": "Ongoing Projects",
+     "href": "/page/metro-teknik-ongoing-projects"
+    },
+    {
+     "label": "Completed Projects",
+     "href": "/page/metro-teknik-completed-projects"
+    }
+   ]
+  },
+  {
+   "label": "Application Examples",
+   "href": "/page/application-examples",
+   "children": []
+  },
+  {
+   "label": "Contact",
+   "href": "/page/contact",
+   "children": []
+  }
+ ],
+ "contacts": [
+  {
+   "label": "Contact Us",
+   "href": "/page/iletisim",
+   "icon": "fa-map-marker"
+  },
+  {
+   "label": "Telephone | 0216 345 1116",
+   "href": "tel:0902163451116",
+   "icon": "fa-phone"
+  },
+  {
+   "label": "E-Mail | info@metro-teknik.net",
+   "href": "mailto:info@metro-teknik.net",
+   "icon": "fa-envelope-o"
+  },
+  {
+   "label": "Catalog",
+   "href": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf",
+   "icon": "fa-book"
+  },
+  {
+   "label": "info@metro-teknik.net",
+   "href": "mailto:info@metro-teknik.net",
+   "icon": "fa-mail"
+  }
+ ],
+ "socials": [
+  {
+   "network": "facebook",
+   "href": "https://www.facebook.com/metroteknik01/?fref=ts"
+  },
+  {
+   "network": "instagram",
+   "href": "https://www.instagram.com/metroteknik/"
+  }
+ ],
+ "footer": {
+  "text": [
+   "Contact Details",
+   "Address",
+   "Zühtü Paşa Mah.Kolej Sokak.Kardesler Apt B Blok Daire:1 Kızıltoprak Kadıköy / İstanbul / Türkiye",
+   "Telephone",
+   "0216 345 1161",
+   "fax",
+   "0216 345 1161",
+   "E-Mail",
+   "info@metro-teknik.net",
+   "ABOUT US",
+   "We provide high quality and productive services by keeping a tab on the international standards and technology and in compliance with the mechanical systems, feasibility, consultancy, material supply, application, operating and management regulations on Heating-Cooling, Ventilation and Air Conditioning, Fire Fighting, Plumbing, Building Mechanical Automation and so on.",
+   "Contact Us Here",
+   "YOU CAN DOWNLOAD OUR CATALOG HERE",
+   "Metro-Teknik © 2026 All Rights Reserved.",
+   "Ayaner Bilişim Teknolojileri"
+  ],
+  "links": [
+   {
+    "href": "mailto:info@metro-teknik.net",
+    "label": "info@metro-teknik.net"
+   },
+   {
+    "href": "/page/iletisim",
+    "label": "Contact Us Here"
+   },
+   {
+    "href": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf",
+    "label": "YOU CAN DOWNLOAD OUR CATALOG HERE"
+   },
+   {
+    "href": "http://www.ayaner.com",
+    "label": "Ayaner Bilişim Teknolojileri"
+   }
+  ]
+ },
+ "ga": "UA-93769726-1"
+}

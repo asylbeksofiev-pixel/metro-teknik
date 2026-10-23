@@ -1,0 +1,39 @@
+<footer class="site-footer on-dark" data-inert-when-menu>
+  <div class="container footer-grid">
+    <div class="footer-col">
+      <a class="footer-logo" href="{{ home_url }}"><img src="{{ asset('img/metroteknik-weblogo.jpg') }}" alt="Metro Teknik — {{ t.nav.home }}" width="320" height="60" loading="lazy"></a>
+      <h2>{{ t.footer.about }}</h2>
+      <p class="footer-about">{{ chrome.footer.about }}</p>
+    </div>
+    <nav class="footer-col" aria-label="{{ t.footer.pages }}">
+      <h2>{{ t.footer.pages }}</h2>
+      <ul class="footer-links">
+        {%- for l in footer_links %}
+        <li><a href="{{ l.url }}"{% if l.current %} aria-current="page"{% endif %}>{{ l.label }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    <div class="footer-col">
+      <h2>{{ t.footer.contact }}</h2>
+      <dl class="footer-dl">
+        <div><dt>{{ t.contact.address }}</dt><dd>{{ chrome.footer.address }}</dd></div>
+        <div><dt>{{ t.contact.phone }}</dt><dd><a href="{{ chrome.footer.phone_href }}">{{ chrome.footer.phone }}</a></dd></div>
+        <div><dt>{{ t.contact.fax }}</dt><dd>{{ chrome.footer.fax }}</dd></div>
+        <div><dt>{{ t.contact.email }}</dt><dd><a href="mailto:{{ chrome.footer.email }}">{{ chrome.footer.email }}</a></dd></div>
+      </dl>
+      <p><a class="text-link" href="{{ contact_url }}">{{ t.header.contact_link }} {{ m.icon("arrow-right") }}</a></p>
+    </div>
+    <div class="footer-col stack">
+      <h2>{{ t.contact.catalog_title }}</h2>
+      {{ m.catalog_card(chrome, t) }}
+      <h2>{{ t.footer.follow }}</h2>
+      {{ m.social_links(chrome.socials, t, "social--dark") }}
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container footer-bottom__inner">
+      <p>{{ chrome.footer.rights }}</p>
+      <p><a href="{{ chrome.footer.attribution_url }}" target="_blank" rel="noopener">{{ chrome.footer.attribution }}<span class="visually-hidden"> {{ t.common.opens_new_tab }}</span></a></p>
+    </div>
+  </div>
+</footer>

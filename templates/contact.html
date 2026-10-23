@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(breadcrumb, t) }}
+    <h1 class="page-head__title">{{ page.heading }}</h1>
+    <p class="lead">{{ page.description }}</p>
+  </div>
+</div>
+<div class="container section pt-7">
+  <h2 class="visually-hidden">{{ t.contact.offices_title }}</h2>
+  <div class="offices" data-reveal-group>
+    {%- for o in page.offices %}
+    <article class="office" data-reveal>
+      <div class="office__body">
+        <h3 class="office__name fs-lg">{{ o.name }}</h3>
+        <dl>
+          {%- if o.address %}
+          <div>
+            <dt>{{ m.icon("pin") }}{{ t.contact.address }}</dt>
+            <dd lang="{{ o.address_lang }}">{% for line in o.address %}{{ line }}{% if not loop.last %}<br>{% endif %}{% endfor %}</dd>
+          </div>
+          {%- endif %}
+          {%- for ph in o.phones %}
+          <div>
+            <dt>{{ m.icon("phone") }}{{ t.contact.phone }}</dt>
+            <dd><a href="{{ ph.href }}">{{ ph.text }}</a></dd>
+          </div>
+          {%- endfor %}
+        </dl>
+        {%- if o.map_link %}
+        <p><a class="text-link" href="{{ o.map_link }}" target="_blank" rel="noopener noreferrer">{{ t.contact.map_open }} {{ m.icon("external") }}<span class="visually-hidden"> {{ t.common.opens_new_tab }}</span></a></p>
+        {%- endif %}
+      </div>
+      {%- if o.map %}
+      <div class="office__map">
+        <iframe src="{{ o.map }}" title="{{ t.contact.map_title|replace('{office}', o.name) }}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+      </div>
+      {%- endif %}
+    </article>
+    {%- endfor %}
+  </div>
+  <div class="contact-extra">
+    <section class="contact-card" aria-labelledby="general-title" data-reveal>
+      <h2 id="general-title">{{ t.contact.general_title }}</h2>
+      <p><a class="text-link" href="mailto:{{ chrome.email }}">{{ m.icon("mail") }} {{ chrome.email }}</a></p>
+      {{ m.social_links(chrome.socials, t) }}
+    </section>
+    <section class="contact-card" aria-labelledby="catalog-title" data-reveal>
+      <h2 id="catalog-title">{{ t.contact.catalog_title }}</h2>
+      {{ m.catalog_card(chrome, t) }}
+      <p class="card__meta">{{ t.catalog.doc_lang_note }}</p>
+    </section>
+  </div>
+</div>
+{% endblock %}

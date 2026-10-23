@@ -1,0 +1,57 @@
+{
+ "id": "cumhurbaskanligi-hastanesi",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/cumhurbaskanligi-hastanesi-ru",
+ "html_lang": "ru",
+ "title": "ПРЕЗИДЕНТСКАЯ БОЛЬНИЦА",
+ "description": "",
+ "pagehead": "ПРЕЗИДЕНТСКАЯ БОЛЬНИЦА",
+ "heading": "ПРЕЗИДЕНТСКАЯ БОЛЬНИЦА",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "ГМТ ЕИГ."
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "95.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2010"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$4.850.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/28/main/28-201710231108270210266400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/28/691/28-201710231108270210266400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/28/main/28-201710231108260174727200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/28/691/28-201710231108260174727200.jpg",
+   "alt": ""
+  }
+ ]
+}

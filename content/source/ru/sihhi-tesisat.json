@@ -1,0 +1,34 @@
+{
+ "id": "sihhi-tesisat",
+ "type": "service",
+ "lang": "ru",
+ "path": "/page/sihhi-tesisat-ru",
+ "html_lang": "ru",
+ "title": "Водопроводное оборудование",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/havalandirma-sistemleri",
+   "label": "Системы вентиляции"
+  },
+  {
+   "href": "/page/isitma-sogutma",
+   "label": "топление/Охлаждение"
+  },
+  {
+   "href": "/page/sihhi-tesisat",
+   "label": "Водопроводное оборудование"
+  },
+  {
+   "href": "/page/yangin",
+   "label": "Пожарные системы"
+  },
+  {
+   "href": "/page/mekanik-otomasyon",
+   "label": "Пожарные системы"
+  }
+ ],
+ "heading": "Водопроводное оборудование",
+ "body_html": "<p>Поставка оборудования, монтаж в соответствии с местными стандартами, изоляция, диагностика и ввод в эксплуатацию систем питьевого водоснабжения, сточных вод, дренажа, умягчения воды, напорных сточных вод, дождевых вод и т.д.</p>\n<figure><img src=\"https://metro-teknik.net/uploads/all-services/SIHHI-TESISAT-0053.jpg\" alt=\"Metro Teknik Havalandrma Hizmeti\" width=\"602\" height=\"455\"></figure>",
+ "gallery": []
+}

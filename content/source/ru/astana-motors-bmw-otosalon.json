@@ -1,0 +1,67 @@
+{
+ "id": "astana-motors-bmw-otosalon",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/astana-motors-bmw-otosalon-ru",
+ "html_lang": "ru",
+ "title": "АСТАНА МОТОРЫ BMW ГАЛЕРЕЯ",
+ "description": "",
+ "pagehead": "АСТАНА МОТОРЫ BMW ГАЛЕРЕЯ",
+ "heading": "АСТАНА МОТОРЫ BMW ГАЛЕРЕЯ",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "АТА СТРОЙ"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "7.400 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2012"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$600.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/31/main/31-201710231114530496462400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/31/691/31-201710231114530496462400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/31/main/31-201710231114530367788800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/31/691/31-201710231114530367788800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/31/main/31-201710231114530237204100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/31/691/31-201710231114530237204100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/31/main/31-201710231114520185703500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/31/691/31-201710231114520185703500.jpg",
+   "alt": ""
+  }
+ ]
+}

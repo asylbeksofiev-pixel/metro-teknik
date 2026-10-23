@@ -1,0 +1,77 @@
+{
+ "id": "nazarbayev-universitesi-1-etap",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/nazarbayev-universitesi-1-etap-ru",
+ "html_lang": "ru",
+ "title": "",
+ "description": "",
+ "pagehead": "",
+ "heading": "НАЗАРБАЕВСКИЙ УНИВЕРСИТЕТ 1-й ЭТАП",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "SEMBOL / GEMTAŞ"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "60.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2007"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$850.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/26/main/26-201710231105370692748200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/26/691/26-201710231105370692748200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/26/main/26-201710231105360568252300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/26/691/26-201710231105360568252300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/26/main/26-201710231105350456991200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/26/691/26-201710231105350456991200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/26/main/26-201710231105350334577000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/26/691/26-201710231105350334577000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/26/main/26-201710231105350213475600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/26/691/26-201710231105350213475600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/26/main/26-201710231105340187727400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/26/691/26-201710231105340187727400.jpg",
+   "alt": ""
+  }
+ ]
+}

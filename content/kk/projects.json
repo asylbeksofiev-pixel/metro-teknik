@@ -1,0 +1,227 @@
+{
+  "_note": "Kazakh project data. Translated from content/source/tr (the primary source). Client / employer names, years and budgets are copied unchanged; numbers use Kazakh digit grouping (space) and m2 is written as м². Empty Turkish facts stay empty. Official Kazakh names follow the Russian page where that page gives the official name of the facility.",
+  "forum-avm-santiyesi-almata": {
+    "heading": "«Forum Almaty» сауда-ойын-сауық орталығы",
+    "card_name": "«Forum Almaty» СОО",
+    "facts": {"location": "Алматы, Қазақстан", "client": "ATASTROY", "area": "163 961 м²", "date": "2015",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "tienshan-konutlari-astana": {
+    "heading": "«Tien Shan Gardens» тұрғын үй кешені",
+    "card_name": "«Tien Shan Gardens» тұрғын үй кешені",
+    "facts": {"location": "Алматы", "client": "A-TA STROY", "area": "10 000 м²", "date": "2015",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$3 024 000,00"}
+  },
+  "expo-2017-kongre-merkezi-astana": {
+    "heading": "«EXPO-2017» конгресс-орталығы",
+    "card_name": "«EXPO-2017» конгресс-орталығы",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "48 000 м²", "date": "2016",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "mega-2-alisveris-merkezi-almaata": {
+    "heading": "Mega 2 сауда-ойын-сауық орталығы",
+    "card_name": "Mega 2 сауда орталығы",
+    "facts": {"location": "Алматы, Қазақстан", "client": "A-TA STROY", "area": "105 000 м²", "date": "2013",
+      "scope": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"}
+  },
+  "kutuphane-binasi-astana": {
+    "heading": "Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы",
+    "card_name": "Тұңғыш Президент кітапханасы",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "34 457 м²", "date": "2013",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$600 000,00"}
+  },
+  "mega-3-alisveris-merkezi-almaata": {
+    "heading": "Mega 3 сауда-ойын-сауық орталығы",
+    "card_name": "Mega 3 сауда орталығы",
+    "facts": {"location": "Алматы, Қазақстан", "client": "A-TA STROY", "area": "104 000 м²", "date": "2013",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "akademi-a6-blok-astana": {
+    "heading": "Ұлттық қорғаныс университеті, A6 блогы",
+    "card_name": "Ұлттық қорғаныс университеті, A6 блогы",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "", "date": "2013", "scope": "",
+      "budget": "2 250 000,00 ₸"}
+  },
+  "akademi-a11-blok-astana": {
+    "heading": "Ұлттық қорғаныс университеті, A11 блогы",
+    "card_name": "Ұлттық қорғаныс университеті, A11 блогы",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "", "date": "2013", "scope": "",
+      "budget": "4 550 000,00 ₸"}
+  },
+  "rixos-otel-borovoe": {
+    "heading": "«Rixos Borovoe» қонақүйі",
+    "card_name": "«Rixos Borovoe» қонақүйі",
+    "facts": {"location": "Астана", "client": "A-TA STROY", "area": "33 000 м²", "date": "2012",
+      "scope": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"}
+  },
+  "han-cadir-mekanik-iscilik-astana": {
+    "heading": "«Хан Шатыр» сауда-ойын-сауық орталығы",
+    "card_name": "«Хан Шатыр» СОО",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL / ALTES", "area": "140 000 м²", "date": "2008",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$4 150 000,00"}
+  },
+  "stadyum-mekanik-iscilik-astana": {
+    "heading": "«Астана Арена» стадионы",
+    "card_name": "«Астана Арена» стадионы",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL / ALTES", "area": "", "date": "2008", "scope": "",
+      "budget": "$1 150 000,00"}
+  },
+  "cocuk-hastanesi-mekanik-iscilik-astana": {
+    "heading": "«Республикалық балалар оңалту орталығы» АҚ",
+    "card_name": "Республикалық балалар оңалту орталығы",
+    "facts": {"location": "Астана, Қазақстан", "client": "BAYTUR / GEMTAŞ", "area": "", "date": "2007", "scope": "",
+      "budget": "$1 270 080,00"}
+  },
+  "sariarka-alisveris-merkezi-astana": {
+    "heading": "«Сарыарқа» сауда-ойын-сауық орталығы",
+    "card_name": "«Сарыарқа» СОО",
+    "facts": {"location": "Астана, Қазақстан", "client": "BAYTUR / GEMTAŞ", "area": "42 000 м²", "date": "2006",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$925 000,00"}
+  },
+  "noroloji-hastanesi-mekanik-iscilik-astana": {
+    "heading": "«Ұлттық нейрохирургия орталығы» АҚ",
+    "card_name": "Ұлттық нейрохирургия орталығы",
+    "facts": {"location": "Астана, Қазақстан", "client": "BAYTUR / GEMTAŞ", "area": "", "date": "2006", "scope": "",
+      "budget": "$1 360 800,00"}
+  },
+  "kokshetau-hospital": {
+    "heading": "Көкшетау ауруханасы",
+    "card_name": "Көкшетау ауруханасы",
+    "facts": {"location": "Көкшетау, Қазақстан", "client": "RÖNESANS HOLDİNG A.Ş.", "area": "110 000 м² (630 төсек-орын)", "date": "2025",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"}
+  },
+  "turkistan-sehir-hastanesi": {
+    "heading": "Түркістан қалалық ауруханасы",
+    "card_name": "Түркістан қалалық ауруханасы",
+    "facts": {"location": "Түркістан, Қазақстан", "client": "YDA Group", "area": "79 200 м²", "date": "2021",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+      "budget": "12 166 000 $"}
+  },
+  "karaganda-lastik-fabrikasi": {
+    "heading": "Қарағанды шина зауыты",
+    "card_name": "Қарағанды шина зауыты",
+    "facts": {"location": "Қарағанды, Қазақстан", "client": "BI GROUP", "area": "80 000 м²", "date": "2022",
+      "scope": "Желдету, жылыту, салқындату, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+      "note": "Монтаж жұмыстарының фотосуреттері жобаның медиа шектеулеріне байланысты жарияланбайды."}
+  },
+  "kervansaray": {
+    "heading": "«Керуенсарай» кешені",
+    "card_name": "«Керуенсарай» кешені",
+    "facts": {"location": "Түркістан, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "56 000 м²", "date": "2020",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "tema-park": {
+    "heading": "Tema Park",
+    "card_name": "Tema Park",
+    "facts": {"location": "Ақтау, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "14 000 м²", "date": "2021",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"}
+  },
+  "town-center": {
+    "heading": "Town Center",
+    "card_name": "Town Center",
+    "facts": {"location": "Ақтау, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "48 500 м²", "date": "2021",
+      "scope": "Жылыту, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"}
+  },
+  "aktau-resort-hotel": {
+    "heading": "Aktau Resort Hotel",
+    "card_name": "Aktau Resort Hotel",
+    "facts": {"location": "Ақтау, Қазақстан", "client": "SEMBOL İNŞAAT", "area": "61 000 м²", "date": "2020",
+      "scope": "Жылыту, салқындату, бу жүйелері, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "nazarbayev-merkezi-idari-binasi": {
+    "heading": "Назарбаев орталығының әкімшілік ғимараты",
+    "card_name": "Назарбаев орталығының әкімшілік ғимараты",
+    "facts": {"location": "Астана", "client": "SEMBOL İNŞAAT", "area": "39 857 м²", "date": "2019",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "nazarbayev-universitesi": {
+    "heading": "Назарбаев Университеті",
+    "card_name": "Назарбаев Университеті",
+    "facts": {"location": "Астана", "client": "SEMBOL İNŞAAT", "area": "228 500 м²", "date": "2013–2017",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"}
+  },
+  "kizilorda-korkut-ata-havalimani-terminal-binasi": {
+    "heading": "Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты",
+    "card_name": "Қызылорда (Қорқыт Ата) әуежайының терминалы",
+    "facts": {"location": "Қызылорда, Қазақстан", "client": "Elite Construction", "area": "10 000 м²", "date": "2023",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"}
+  },
+  "akademi-a6-a11-blok-astana": {
+    "heading": "Ұлттық қорғаныс университеті, A6–A11 блоктары",
+    "card_name": "Ұлттық қорғаныс университеті, A6–A11 блоктары",
+    "facts": {"location": "Астана", "client": "SEMBOL İNŞAAT", "area": "33 000 м²", "date": "2013",
+      "scope": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"}
+  },
+  "astana-kongre-merkezi-komple-renovasyon": {
+    "heading": "Астана конгресс-орталығы (толық реконструкция)",
+    "card_name": "Астана конгресс-орталығы (толық реконструкция)",
+    "facts": {"location": "Астана, Қазақстан", "client": "Sembol İnşaat", "area": "44 000 м²", "date": "2023",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"}
+  },
+  "piramit-santiyesi-mekanik-iscilik-astana": {
+    "heading": "«Бейбітшілік және келісім сарайы» («Пирамида»)",
+    "card_name": "Бейбітшілік және келісім сарайы",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL / ALTES", "area": "28 721 м²", "date": "2006",
+      "scope": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+      "budget": "$870 000,00"}
+  },
+  "nazarbayev-universitesi-1-etap": {
+    "heading": "Назарбаев Университеті, 1-кезең",
+    "card_name": "Назарбаев Университеті, 1-кезең",
+    "facts": {"location": "Астана, Қазақстан", "client": "SEMBOL", "area": "60 000 м²", "date": "2007",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$850 000,00"}
+  },
+  "cumhurbaskanligi-hastanesi": {
+    "heading": "Президенттік аурухана",
+    "card_name": "Президенттік аурухана",
+    "facts": {"location": "Астана, Қазақстан", "client": "GMT ENGINEERING", "area": "95 000 м²", "date": "2010",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$4 850 000,00"}
+  },
+  "akbozat-restoran": {
+    "heading": "«Ақбозат» мейрамханасы",
+    "card_name": "«Ақбозат» мейрамханасы",
+    "facts": {"location": "Астана, Қазақстан", "client": "GMT ENGINEERING", "area": "3 500 м²", "date": "2010",
+      "scope": "Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар",
+      "budget": "$400 000,00"}
+  },
+  "bugday-depolari": {
+    "heading": "Бидай қоймалары",
+    "card_name": "Бидай қоймалары",
+    "facts": {"location": "Өскемен", "client": "SEMBOL İNŞAAT", "area": "33 000 м²", "date": "2011",
+      "scope": "Желдету; монтаж және материалдар",
+      "budget": "$550 000,00"}
+  },
+  "astana-motors-bmw-otosalon": {
+    "heading": "Astana Motors BMW автосалоны",
+    "card_name": "Astana Motors BMW автосалоны",
+    "facts": {"location": "Астана", "client": "ATASTROY", "area": "7 400 м²", "date": "2012",
+      "scope": "Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар",
+      "budget": "$600 000,00"}
+  },
+  "king-halid-havalimani": {
+    "heading": "Король Халид әуежайы",
+    "card_name": "Король Халид әуежайы",
+    "facts": {"location": "Эр-Рияд", "client": "TAV", "area": "90 000 м²", "date": "2014",
+      "scope": "Желдету; монтаж және материалдар",
+      "budget": "$1 500 000,00"}
+  },
+  "almata-hilton": {
+    "heading": "Hilton қонақүйі, Алматы",
+    "card_name": "Hilton қонақүйі, Алматы",
+    "facts": {"location": "Алматы, Қазақстан", "client": "ARTEMIDA LTD.", "area": "40 000 м²", "date": "2025",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"}
+  },
+  "tersane-istanbul-spa-merkezi-villa": {
+    "heading": "Tersane İstanbul: SPA орталығы және вилла",
+    "card_name": "Tersane İstanbul: SPA орталығы және вилла",
+    "facts": {"location": "Стамбұл, Түркия", "client": "Sembol İnşaat", "area": "24 000 м²", "date": "2024",
+      "scope": "Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж",
+      "budget": "—"}
+  }
+}

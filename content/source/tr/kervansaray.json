@@ -1,0 +1,48 @@
+{
+ "id": "kervansaray",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/kervansaray",
+ "html_lang": "tr",
+ "title": "Kervansaray",
+ "description": "Karavan",
+ "pagehead": null,
+ "heading": "Kervansaray",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Türkistan/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "56.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2020"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/KERVANSARAY-metro-teknik-net.jpg",
+   "alt": "Kervansaray",
+   "width": "1920",
+   "height": "1248"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

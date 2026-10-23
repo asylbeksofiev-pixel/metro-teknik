@@ -1,0 +1,139 @@
+{
+ "id": "tema-park",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/tema-park-ru",
+ "html_lang": "ru",
+ "title": "TEMA PARK",
+ "description": "",
+ "pagehead": null,
+ "heading": "Tema Park",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Aktau/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "14.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2021"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/TEMA-PARK-metro-teknik-net.jpg",
+   "alt": "Tema Park",
+   "width": "720",
+   "height": "480"
+  }
+ ],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110140113550526522700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110140113550526522700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110140113540470499700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110140113540470499700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110140113540316737700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110140113540316737700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110140113530259383300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110140113530259383300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110140113530100127100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110140113530100127100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090255070314317900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090255070314317900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090255060256567300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090255060256567300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090255060102759700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090255060102759700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254540503447000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254540503447000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254530446258300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254530446258300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254520385371000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254520385371000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254520221804100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254520221804100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254510164653400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254510164653400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254360534645300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254360534645300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254350484179900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254350484179900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254350329501700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254350329501700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254340277246500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254340277246500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/37/main/37-202110090254340119971900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/37/691/37-202110090254340119971900.jpg",
+   "alt": ""
+  }
+ ]
+}

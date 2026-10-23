@@ -1,0 +1,72 @@
+{
+ "id": "noroloji-hastanesi-mekanik-iscilik-astana",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/noroloji-hastanesi-mekanik-iscilik-astana-ru",
+ "html_lang": "ru",
+ "title": "Национальный центр нейрохирургии, АО (НЦН)",
+ "description": "",
+ "pagehead": "Национальный центр нейрохирургии, АО (НЦН)",
+ "heading": "Национальный центр нейрохирургии, АО (НЦН)",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "БАЙТУР/ГЕМТАШ"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "45.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2006"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$1.360.800,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103540598777600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103540598777600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103540419022400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103540419022400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103530379638800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103530379638800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103530253091700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103530253091700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103530104319200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103530104319200.jpg",
+   "alt": ""
+  }
+ ]
+}

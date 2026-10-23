@@ -1,0 +1,638 @@
+{
+ "pages": {
+  "home": {
+   "id": "home",
+   "type": "home",
+   "paths": {
+    "tr": "/",
+    "en": "/page/main-page",
+    "ru": "/page/ana-sayfa-ru"
+   },
+   "aliases": {
+    "tr": [
+     "/page/ana-sayfa"
+    ]
+   }
+  },
+  "iletisim": {
+   "id": "iletisim",
+   "type": "contact",
+   "paths": {
+    "tr": "/page/iletisim",
+    "en": "/page/contact",
+    "ru": "/page/iletisim-ru"
+   },
+   "aliases": {}
+  },
+  "kurumsal": {
+   "id": "kurumsal",
+   "type": "company",
+   "paths": {
+    "tr": "/page/kurumsal",
+    "en": "/page/corporate",
+    "ru": "/page/kurumsal-ru"
+   },
+   "aliases": {}
+  },
+  "havalandirma-sistemleri": {
+   "id": "havalandirma-sistemleri",
+   "type": "service",
+   "paths": {
+    "tr": "/page/havalandirma-sistemleri",
+    "en": "/page/ventilation-systems",
+    "ru": "/page/havalandirma-sistemleri-ru"
+   },
+   "aliases": {}
+  },
+  "forum-avm-santiyesi-almata": {
+   "id": "forum-avm-santiyesi-almata",
+   "type": "project",
+   "paths": {
+    "tr": "/page/forum-avm-santiyesi-almata",
+    "en": "/page/forum-avm-santiyesi-almata-en",
+    "ru": "/page/forum-avm-santiyesi-almata-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "tienshan-konutlari-astana": {
+   "id": "tienshan-konutlari-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/tienshan-konutlari-astana",
+    "en": "/page/tienshan-konutlari-astana-en",
+    "ru": "/page/tienshan-konutlari-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "uygulama-ornekleri": {
+   "id": "uygulama-ornekleri",
+   "type": "gallery",
+   "paths": {
+    "tr": "/page/uygulama-ornekleri",
+    "en": "/page/application-examples",
+    "ru": "/page/uygulama-ornekleri-ru"
+   },
+   "aliases": {}
+  },
+  "expo-2017-kongre-merkezi-astana": {
+   "id": "expo-2017-kongre-merkezi-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/expo-2017-kongre-merkezi-astana",
+    "en": "/page/expo-2017-kongre-merkezi-astana-en",
+    "ru": "/page/expo-2017-kongre-merkezi-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "vizyon": {
+   "id": "vizyon",
+   "type": "company",
+   "paths": {
+    "tr": "/page/vizyon",
+    "en": "/page/vision",
+    "ru": "/page/vizyon-ru"
+   },
+   "aliases": {}
+  },
+  "misyon": {
+   "id": "misyon",
+   "type": "company",
+   "paths": {
+    "tr": "/page/misyon",
+    "en": "/page/mission",
+    "ru": "/page/misyon-ru"
+   },
+   "aliases": {}
+  },
+  "baskanin-mesaji": {
+   "id": "baskanin-mesaji",
+   "type": "company",
+   "paths": {
+    "tr": "/page/baskanin-mesaji",
+    "en": "/page/president-s-message",
+    "ru": "/page/baskanin-mesaji-ru"
+   },
+   "aliases": {}
+  },
+  "kalite-ve-cevre-politikamiz": {
+   "id": "kalite-ve-cevre-politikamiz",
+   "type": "company",
+   "paths": {
+    "tr": "/page/kalite-ve-cevre-politikamiz",
+    "en": "/page/our-quality-and-environment-policy",
+    "ru": "/page/kalite-ve-cevre-politikamiz-ru"
+   },
+   "aliases": {}
+  },
+  "is-bitirme-belgelerimiz": {
+   "id": "is-bitirme-belgelerimiz",
+   "type": "certificates",
+   "paths": {
+    "tr": "/page/is-bitirme-belgelerimiz",
+    "en": "/page/our-certificates-of-completion",
+    "ru": "/page/is-bitirme-belgelerimiz-ru"
+   },
+   "aliases": {}
+  },
+  "isitma-sogutma": {
+   "id": "isitma-sogutma",
+   "type": "service",
+   "paths": {
+    "tr": "/page/isitma-sogutma",
+    "en": "/page/heating-and-cooling",
+    "ru": "/page/isitma-sogutma-ru"
+   },
+   "aliases": {}
+  },
+  "sihhi-tesisat": {
+   "id": "sihhi-tesisat",
+   "type": "service",
+   "paths": {
+    "tr": "/page/sihhi-tesisat",
+    "en": "/page/plumbing",
+    "ru": "/page/sihhi-tesisat-ru"
+   },
+   "aliases": {}
+  },
+  "yangin": {
+   "id": "yangin",
+   "type": "service",
+   "paths": {
+    "tr": "/page/yangin",
+    "en": "/page/fire",
+    "ru": "/page/yangin-ru"
+   },
+   "aliases": {}
+  },
+  "mekanik-otomasyon": {
+   "id": "mekanik-otomasyon",
+   "type": "service",
+   "paths": {
+    "tr": "/page/mekanik-otomasyon",
+    "en": "/page/mechanical-automation",
+    "ru": "/page/mekanik-otomasyon-ru"
+   },
+   "aliases": {}
+  },
+  "mega-2-alisveris-merkezi-almaata": {
+   "id": "mega-2-alisveris-merkezi-almaata",
+   "type": "project",
+   "paths": {
+    "tr": "/page/mega-2-alisveris-merkezi-almaata",
+    "en": "/page/mega-2-alisveris-merkezi-almaata-en",
+    "ru": "/page/mega-2-alisveris-merkezi-almaata-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "kutuphane-binasi-astana": {
+   "id": "kutuphane-binasi-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/kutuphane-binasi-astana",
+    "en": "/page/kutuphane-binasi-astana-en",
+    "ru": "/page/kutuphane-binasi-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "mega-3-alisveris-merkezi-almaata": {
+   "id": "mega-3-alisveris-merkezi-almaata",
+   "type": "project",
+   "paths": {
+    "tr": "/page/mega-3-alisveris-merkezi-almaata",
+    "en": "/page/mega-3-alisveris-merkezi-almaata-en",
+    "ru": "/page/mega-3-alisveris-merkezi-almaata-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "akademi-a6-blok-astana": {
+   "id": "akademi-a6-blok-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/akademi-a6-blok-astana"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "akademi-a11-blok-astana": {
+   "id": "akademi-a11-blok-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/akademi-a11-blok-astana"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "rixos-otel-borovoe": {
+   "id": "rixos-otel-borovoe",
+   "type": "project",
+   "paths": {
+    "tr": "/page/rixos-otel-borovoe",
+    "en": "/page/rixos-otel-borovoe-en",
+    "ru": "/page/rixos-otel-borovoe-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "han-cadir-mekanik-iscilik-astana": {
+   "id": "han-cadir-mekanik-iscilik-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/han-cadir-mekanik-iscilik-astana",
+    "ru": "/page/han-cadir-mekanik-iscilik-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "stadyum-mekanik-iscilik-astana": {
+   "id": "stadyum-mekanik-iscilik-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/stadyum-mekanik-iscilik-astana",
+    "ru": "/page/stadyum-mekanik-iscilik-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "cocuk-hastanesi-mekanik-iscilik-astana": {
+   "id": "cocuk-hastanesi-mekanik-iscilik-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+    "ru": "/page/cocuk-hastanesi-mekanik-iscilik-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "sariarka-alisveris-merkezi-astana": {
+   "id": "sariarka-alisveris-merkezi-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/sariarka-alisveris-merkezi-astana",
+    "ru": "/page/sariarka-alisveris-merkezi-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "noroloji-hastanesi-mekanik-iscilik-astana": {
+   "id": "noroloji-hastanesi-mekanik-iscilik-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+    "ru": "/page/noroloji-hastanesi-mekanik-iscilik-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "metro-teknik-devam-eden-projeler": {
+   "id": "metro-teknik-devam-eden-projeler",
+   "type": "list",
+   "paths": {
+    "tr": "/page/metro-teknik-devam-eden-projeler",
+    "en": "/page/metro-teknik-ongoing-projects",
+    "ru": "/page/metro-teknik-devam-eden-projeler-ru"
+   },
+   "aliases": {}
+  },
+  "metro-teknik-biten-projeleri": {
+   "id": "metro-teknik-biten-projeleri",
+   "type": "list",
+   "paths": {
+    "tr": "/page/metro-teknik-biten-projeleri",
+    "en": "/page/metro-teknik-completed-projects",
+    "ru": "/page/metro-teknik-biten-projeleri-ru"
+   },
+   "aliases": {}
+  },
+  "kokshetau-hospital": {
+   "id": "kokshetau-hospital",
+   "type": "project",
+   "paths": {
+    "tr": "/page/kokshetau-hospital",
+    "en": "/page/kokshetau-hospital-en",
+    "ru": "/page/kokshetau-hospital-ru"
+   },
+   "aliases": {},
+   "status": "ongoing",
+   "status_source": "listed on /page/metro-teknik-devam-eden-projeler",
+   "in_list": true
+  },
+  "turkistan-sehir-hastanesi": {
+   "id": "turkistan-sehir-hastanesi",
+   "type": "project",
+   "paths": {
+    "tr": "/page/turkistan-sehir-hastanesi"
+   },
+   "aliases": {},
+   "status": "ongoing",
+   "status_source": "listed on /page/metro-teknik-devam-eden-projeler",
+   "in_list": true
+  },
+  "karaganda-lastik-fabrikasi": {
+   "id": "karaganda-lastik-fabrikasi",
+   "type": "project",
+   "paths": {
+    "tr": "/page/karaganda-lastik-fabrikasi",
+    "en": "/page/karaganda-lastik-fabrikasi-en",
+    "ru": "/page/karaganda-lastik-fabrikasi-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "kervansaray": {
+   "id": "kervansaray",
+   "type": "project",
+   "paths": {
+    "tr": "/page/kervansaray",
+    "en": "/page/kervansaray-en",
+    "ru": "/page/kervansaray-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "tema-park": {
+   "id": "tema-park",
+   "type": "project",
+   "paths": {
+    "tr": "/page/tema-park",
+    "en": "/page/tema-park-en",
+    "ru": "/page/tema-park-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "town-center": {
+   "id": "town-center",
+   "type": "project",
+   "paths": {
+    "tr": "/page/town-center",
+    "en": "/page/town-center-en",
+    "ru": "/page/town-center-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "aktau-resort-hotel": {
+   "id": "aktau-resort-hotel",
+   "type": "project",
+   "paths": {
+    "tr": "/page/aktau-resort-hotel",
+    "en": "/page/aktau-resort-hotel-en",
+    "ru": "/page/aktau-resort-hotel-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "nazarbayev-merkezi-idari-binasi": {
+   "id": "nazarbayev-merkezi-idari-binasi",
+   "type": "project",
+   "paths": {
+    "tr": "/page/nazarbayev-merkezi-idari-binasi",
+    "en": "/page/nazarbayev-merkezi-idari-binasi-en",
+    "ru": "/page/nazarbayev-merkezi-idari-binasi-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "nazarbayev-universitesi": {
+   "id": "nazarbayev-universitesi",
+   "type": "project",
+   "paths": {
+    "tr": "/page/nazarbayev-universitesi",
+    "en": "/page/nazarbayev-universitesi-en",
+    "ru": "/page/nazarbayev-universitesi-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "kizilorda-korkut-ata-havalimani-terminal-binasi": {
+   "id": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "type": "project",
+   "paths": {
+    "tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+    "en": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-en",
+    "ru": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "akademi-a6-a11-blok-astana": {
+   "id": "akademi-a6-a11-blok-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/akademi-a6-a11-blok-astana",
+    "en": "/page/akademi-a6-a11-blok-astana-en",
+    "ru": "/page/akademi-a6-a11-blok-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "astana-kongre-merkezi-komple-renovasyon": {
+   "id": "astana-kongre-merkezi-komple-renovasyon",
+   "type": "project",
+   "paths": {
+    "tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+    "en": "/page/astana-kongre-merkezi-komple-renovasyon-en",
+    "ru": "/page/astana-kongre-merkezi-komple-renovasyon-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "listed on /page/metro-teknik-biten-projeleri",
+   "in_list": true
+  },
+  "piramit-santiyesi-mekanik-iscilik-astana": {
+   "id": "piramit-santiyesi-mekanik-iscilik-astana",
+   "type": "project",
+   "paths": {
+    "tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+    "ru": "/page/primat-santiyesi-mekanik-iscilik-astana-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "nazarbayev-universitesi-1-etap": {
+   "id": "nazarbayev-universitesi-1-etap",
+   "type": "project",
+   "paths": {
+    "tr": "/page/nazarbayev-universitesi-1-etap",
+    "ru": "/page/nazarbayev-universitesi-1-etap-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "cumhurbaskanligi-hastanesi": {
+   "id": "cumhurbaskanligi-hastanesi",
+   "type": "project",
+   "paths": {
+    "tr": "/page/cumhurbaskanligi-hastanesi",
+    "ru": "/page/cumhurbaskanligi-hastanesi-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "akbozat-restoran": {
+   "id": "akbozat-restoran",
+   "type": "project",
+   "paths": {
+    "tr": "/page/akbozat-restoran",
+    "ru": "/page/akbozat-restoran-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "bugday-depolari": {
+   "id": "bugday-depolari",
+   "type": "project",
+   "paths": {
+    "tr": "/page/bugday-depolari",
+    "ru": "/page/bugday-depolari-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "astana-motors-bmw-otosalon": {
+   "id": "astana-motors-bmw-otosalon",
+   "type": "project",
+   "paths": {
+    "tr": "/page/astana-motors-bmw-otosalon",
+    "ru": "/page/astana-motors-bmw-otosalon-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "king-halid-havalimani": {
+   "id": "king-halid-havalimani",
+   "type": "project",
+   "paths": {
+    "tr": "/page/king-halid-havalimani",
+    "ru": "/page/king-halid-havalimani-ru"
+   },
+   "aliases": {},
+   "status": "completed",
+   "status_source": "page heading/title 'Tamamlanan Proje / ...'",
+   "in_list": false
+  },
+  "almata-hilton": {
+   "id": "almata-hilton",
+   "type": "project",
+   "paths": {
+    "tr": "/page/almata-hilton",
+    "en": "/page/almata-hilton-en",
+    "ru": "/page/almata-hilton-ru"
+   },
+   "aliases": {},
+   "status": "ongoing",
+   "status_source": "listed on /page/metro-teknik-devam-eden-projeler",
+   "in_list": true
+  },
+  "tersane-istanbul-spa-merkezi-villa": {
+   "id": "tersane-istanbul-spa-merkezi-villa",
+   "type": "project",
+   "paths": {
+    "tr": "/page/tersane-istanbul-spa-merkezi-villa"
+   },
+   "aliases": {},
+   "status": "ongoing",
+   "status_source": "listed on /page/metro-teknik-devam-eden-projeler",
+   "in_list": true
+  }
+ },
+ "list_order": {
+  "ongoing": [
+   "kokshetau-hospital",
+   "almata-hilton",
+   "turkistan-sehir-hastanesi",
+   "tersane-istanbul-spa-merkezi-villa"
+  ],
+  "completed": [
+   "karaganda-lastik-fabrikasi",
+   "kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "town-center",
+   "tema-park",
+   "kervansaray",
+   "aktau-resort-hotel",
+   "nazarbayev-merkezi-idari-binasi",
+   "expo-2017-kongre-merkezi-astana",
+   "forum-avm-santiyesi-almata",
+   "nazarbayev-universitesi",
+   "akademi-a6-a11-blok-astana",
+   "mega-3-alisveris-merkezi-almaata",
+   "mega-2-alisveris-merkezi-almaata",
+   "rixos-otel-borovoe",
+   "astana-kongre-merkezi-komple-renovasyon"
+  ]
+ },
+ "broken_legacy_links": [
+  "/page/35-blok-spor-salonu-astana",
+  "/page/nazarbayev-uni-24-25-ogrenci-yurt-bloklari",
+  "/page/nazarbayev-universitesi-44-45-bloklar-astana",
+  "/page/nazarbayev-universitesi-astana",
+  "/page/pk-6-laboratuvar-blogu-astana",
+  "/page/pk-8-bilimsel-egitim-kompleksi-astana",
+  "/page/primat-santiyesi-mekanik-iscilik-astana",
+  "/page/teknopark-astana"
+ ]
+}

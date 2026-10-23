@@ -1,0 +1,38 @@
+{
+ "id": "vizyon",
+ "type": "company",
+ "lang": "ru",
+ "path": "/page/vizyon-ru",
+ "html_lang": "ru",
+ "title": "Видение",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "О компании"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Видение"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Миссия"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "Послание Председателя"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Наша политика качества"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "сертификат об окончани"
+  }
+ ],
+ "heading": "Видение",
+ "body_html": "<p>Обеспечение получения высокоэффективной выгоды от новизны, архитектуры и технологий, не обрывая связи индивида с натуральностью, которая является основой для человека и природы, таким образом, притворение в жизнь нашей философии \"Архитектура Жизни\" не забывая о том, что мы подаем пример всему миру.</p>",
+ "gallery": []
+}

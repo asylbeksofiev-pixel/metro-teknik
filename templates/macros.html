@@ -1,0 +1,118 @@
+{# Shared building blocks. Icons are simple 24px line glyphs; brand logos come from static/icons (Simple Icons, CC0). #}
+
+{% set ICONS = {
+  "arrow-right": "M5 12h14M13 6l6 6-6 6",
+  "arrow-left": "M19 12H5M11 6l-6 6 6 6",
+  "chevron-down": "M6 9l6 6 6-6",
+  "phone": "M5 4h3.5l1.5 4-2 1.5a11 11 0 0 0 6.5 6.5L16 14l4 1.5V19a1 1 0 0 1-1 1A16 16 0 0 1 4 5a1 1 0 0 1 1-1z",
+  "mail": "M4 6h16v12H4zM4 7l8 6 8-6",
+  "file": "M14 3H7a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V7zM14 3v4h4M12 11v6M9.5 14.5L12 17l2.5-2.5",
+  "pin": "M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11zM12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z",
+  "zoom": "M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14zM20 20l-4-4M11 8v6M8 11h6",
+  "external": "M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5",
+  "calendar": "M5 6h14v14H5zM5 10h14M9 4v4M15 4v4"
+} %}
+
+{% macro icon(name, cls="") -%}
+<svg class="icon {{ cls }}" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="{{ ICONS[name] }}"/></svg>
+{%- endmacro %}
+
+{% macro social_links(socials, t, variant="") -%}
+<ul class="social {{ variant }}">
+  {%- for s in socials %}
+  <li><a class="is-{{ s.network }}" href="{{ s.href }}" target="_blank" rel="noopener noreferrer"
+     aria-label="{{ s.label }} {{ t.common.opens_new_tab }}"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="{{ s.path }}"/></svg></a></li>
+  {%- endfor %}
+</ul>
+{%- endmacro %}
+
+{% macro breadcrumb(items, t) -%}
+<nav class="breadcrumb" aria-label="{{ t.breadcrumb.label }}">
+  <ol>
+    {%- for it in items %}
+    <li>{% if not loop.last %}<a href="{{ it.url }}">{{ it.label }}</a>{% else %}<span aria-current="page"{{ it.lang_attr }}>{{ it.label }}</span>{% endif %}</li>
+    {%- endfor %}
+  </ol>
+</nav>
+{%- endmacro %}
+
+{% macro badge(status, t, extra="") -%}
+{% if status %}<span class="badge badge--{{ status }} {{ extra }}">{{ t.status[status] }}</span>{% endif %}
+{%- endmacro %}
+
+{% macro project_card(p, t, heading="h3") -%}
+<article class="card" data-reveal>
+  <div class="frame frame--4x3">
+    {% if p.thumb %}<img src="{{ p.thumb }}" alt="" loading="lazy" decoding="async" width="500" height="375">{% endif %}
+    {{ badge(p.status, t, "badge--on-image") }}
+  </div>
+  <div class="card__body">
+    <{{ heading }} class="card__title"><a href="{{ p.url }}"{{ p.lang_attr }}>{{ p.name }}</a></{{ heading }}>
+    {% if p.location %}<p class="card__meta">{{ icon("pin") }}<span{{ p.loc_lang_attr }}>{{ p.location }}</span></p>{% endif %}
+    <span class="card__more" aria-hidden="true">{{ t.common.view_project }} {{ icon("arrow-right") }}</span>
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro service_card(s, t, num) -%}
+<article class="card service-card" data-reveal>
+  <div class="frame">
+    {% if s.image %}<img src="{{ s.image }}" alt="" loading="lazy" decoding="async" width="602" height="401">{% endif %}
+  </div>
+  <div class="card__body">
+    <span class="service-card__num" aria-hidden="true">{{ "%02d"|format(num) }}</span>
+    <h3 class="card__title"><a href="{{ s.url }}">{{ s.name }}</a></h3>
+    {% if s.excerpt %}<p class="card__text">{{ s.excerpt }}</p>{% endif %}
+    <span class="card__more" aria-hidden="true">{{ t.common.view_service }} {{ icon("arrow-right") }}</span>
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro gallery(items, group, t, kind="photo", name="") -%}
+<ul class="gallery{% if kind == 'doc' %} gallery--docs{% endif %}" data-reveal-group>
+  {%- for g in items %}
+  {%- set n = loop.index %}
+  {%- set caption = (t.gallery.certificate_alt if kind == 'doc' else t.gallery.photo_alt)|replace("{name}", name)|replace("{n}", n) %}
+  <li data-reveal>
+    <a class="gallery__link" href="{{ g.full }}" data-lightbox="{{ group }}" data-caption="{{ caption }}">
+      <img src="{{ g.thumb }}" alt="{{ caption }}" loading="lazy" decoding="async" width="691" height="{{ 921 if kind == 'doc' else 518 }}">
+      <span class="gallery__zoom">{{ icon("zoom") }}</span>
+      <span class="visually-hidden">{{ t.gallery.open|replace("{n}", n)|replace("{total}", items|length) }}</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endmacro %}
+
+{% macro subnav(items, t, label) -%}
+{# two renderings of the same list: a collapsible one for small screens, a plain one for desktop #}
+<aside class="subnav" aria-label="{{ label }}">
+  <details class="subnav__details subnav--mobile">
+    <summary class="subnav__summary">{{ t.section_nav.toggle }} {{ icon("chevron-down", "chevron") }}</summary>
+    <ul>
+      {%- for it in items %}
+      <li><a href="{{ it.url }}"{% if it.current %} aria-current="page"{% endif %}>{{ it.label }}</a></li>
+      {%- endfor %}
+    </ul>
+  </details>
+  <div class="subnav--desktop">
+    <p class="subnav__summary">{{ t.section_nav.label }}</p>
+    <ul>
+      {%- for it in items %}
+      <li><a href="{{ it.url }}"{% if it.current %} aria-current="page"{% endif %}>{{ it.label }}</a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</aside>
+{%- endmacro %}
+
+{% macro catalog_card(chrome, t) -%}
+<a class="download" href="{{ chrome.catalog.url }}" target="_blank" rel="noopener" type="application/pdf">
+  <span class="download__icon">{{ icon("file") }}</span>
+  <span>
+    <span class="download__title">{{ t.catalog.download }}</span>
+    <span class="download__meta">{{ t.catalog.meta|replace("{size}", chrome.catalog.size) }}</span>
+  </span>
+  <span class="visually-hidden">{{ t.common.opens_new_tab }}</span>
+</a>
+{%- endmacro %}

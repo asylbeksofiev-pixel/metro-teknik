@@ -1,0 +1,63 @@
+{%- import "macros.html" as m with context -%}
+<!doctype html>
+<html lang="{{ L }}" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.doc_title }}</title>
+<meta name="description" content="{{ page.description }}">
+<link rel="canonical" href="{{ seo.canonical }}">
+{%- for a in seo.alternates %}
+<link rel="alternate" hreflang="{{ a.hreflang }}" href="{{ a.url }}">
+{%- endfor %}
+{%- if seo.alternates %}
+<link rel="alternate" hreflang="x-default" href="{{ seo.xdefault }}">
+{%- endif %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Metro Teknik">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ seo.canonical }}">
+<meta property="og:locale" content="{{ t._lang.locale }}">
+{%- for a in seo.og_alternates %}
+<meta property="og:locale:alternate" content="{{ a }}">
+{%- endfor %}
+{%- if page.og_image %}
+<meta property="og:image" content="{{ page.og_image }}">
+{%- endif %}
+<meta name="theme-color" content="#0e1835">
+<link rel="icon" href="{{ asset('img/favicon.ico') }}">
+<link rel="preload" href="{{ asset('fonts/ibm-plex-sans-latin.woff2', bust=False) }}" as="font" type="font/woff2" crossorigin>
+{%- if L in ("ru", "kk") %}
+<link rel="preload" href="{{ asset('fonts/ibm-plex-sans-cyrillic.woff2', bust=False) }}" as="font" type="font/woff2" crossorigin>
+{%- endif %}
+{%- if L == "kk" %}
+<link rel="preload" href="{{ asset('fonts/ibm-plex-sans-cyrillic-ext.woff2', bust=False) }}" as="font" type="font/woff2" crossorigin>
+{%- endif %}
+{%- if page.preload_image %}
+<link rel="preload" as="image" href="{{ page.preload_image }}" fetchpriority="high">
+{%- endif %}
+<link rel="stylesheet" href="{{ asset('css/site.css') }}">
+<script src="{{ asset('js/site.js') }}" defer></script>
+{%- if analytics_id %}
+{# existing Universal Analytics property from the live site, kept unchanged (only emitted in production builds) #}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', '{{ analytics_id }}', 'auto');
+  ga('send', 'pageview');
+</script>
+{%- endif %}
+</head>
+<body class="page-{{ page.type }}">
+<a class="skip-link" href="#main">{{ t.skip }}</a>
+{% include "header.html" %}
+<main id="main" tabindex="-1" data-inert-when-menu>
+{% block content %}{% endblock %}
+</main>
+{% include "footer.html" %}
+<script type="application/json" id="ui-strings">{{ ui_json }}</script>
+</body>
+</html>

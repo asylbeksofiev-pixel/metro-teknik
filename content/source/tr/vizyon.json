@@ -1,0 +1,38 @@
+{
+ "id": "vizyon",
+ "type": "company",
+ "lang": "tr",
+ "path": "/page/vizyon",
+ "html_lang": "tr",
+ "title": "Vizyon",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Kurumsal"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vizyon"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Misyon"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "Başkanın Mesajı"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Kalite ve Çevre Politikamız"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "İş Bitirme Belgelerimiz"
+  }
+ ],
+ "heading": "Vizyon",
+ "body_html": "<p>Temeli insana ve doğaya saygı olan, bireyin doğallığıyla bağını koparmadan modernlik, mimari ve teknolojiden üst düzeyde faydalanmasını sağlamak ve bu sayede Yaşam Mimarlığı felsefemizi, tüm dünyaya örnek oluşturacağımızı gözden kaçırmadan yaşam pratiğine aktarmak.</p>",
+ "gallery": []
+}

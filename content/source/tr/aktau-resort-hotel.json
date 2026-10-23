@@ -1,0 +1,48 @@
+{
+ "id": "aktau-resort-hotel",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/aktau-resort-hotel",
+ "html_lang": "tr",
+ "title": "Aktau Resort Hotel",
+ "description": "",
+ "pagehead": null,
+ "heading": "Aktau Resort Hotel",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Aktau / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "61.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2020"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, BUHAR, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/AKTAU-RESORT-HOTEL-metro-teknik-net.jpg",
+   "alt": "Aktau Resort Hotel",
+   "width": "1280",
+   "height": "768"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

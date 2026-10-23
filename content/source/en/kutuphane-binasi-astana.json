@@ -1,0 +1,67 @@
+{
+ "id": "kutuphane-binasi-astana",
+ "type": "project",
+ "lang": "en",
+ "path": "/page/kutuphane-binasi-astana-en",
+ "html_lang": "en",
+ "title": "Completed Project / Library Building",
+ "description": "",
+ "pagehead": "Completed Project / Library Building",
+ "heading": "Library Building",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Location",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "Employer/Investor",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Closed Construction Area",
+   "value": "34.457 m2"
+  },
+  {
+   "key": "date",
+   "label": "Date",
+   "value": "2013"
+  },
+  {
+   "key": "budget",
+   "label": "",
+   "value": "$600.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "<p><strong>Project Budget</strong></p>",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/12/main/12-201707260247000530818700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/12/691/12-201707260247000530818700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/12/main/12-201707260247000400325900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/12/691/12-201707260247000400325900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/12/main/12-201707260246590369831500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/12/691/12-201707260246590369831500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/12/main/12-201707260246590246914600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/12/691/12-201707260246590246914600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/12/main/12-201707260246590118950000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/12/691/12-201707260246590118950000.jpg",
+   "alt": ""
+  }
+ ]
+}

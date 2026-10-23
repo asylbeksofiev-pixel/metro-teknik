@@ -1,0 +1,97 @@
+{
+ "id": "piramit-santiyesi-mekanik-iscilik-astana",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/primat-santiyesi-mekanik-iscilik-astana-ru",
+ "html_lang": "ru",
+ "title": "ГККП «ДВОРЕЦ МИРА И СОГЛАСИЯ» («Пирамида»)",
+ "description": "",
+ "pagehead": "ГККП «ДВОРЕЦ МИРА И СОГЛАСИЯ» («Пирамида»)",
+ "heading": "ГККП «ДВОРЕЦ МИРА И СОГЛАСИЯ» («Пирамида»)",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "СЕМБОЛ/АЛТЕС"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "28.721 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2006"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": ""
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$870.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001531036353600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001531036353600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001520973554300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001520973554300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001520861232200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001520861232200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001520748206100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001520748206100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001520611958500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001520611958500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001510599945400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001510599945400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001510478538600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001510478538600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001510375307500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001510375307500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001510263496800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001510263496800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/20/main/20-201707281001510135491900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/20/691/20-201707281001510135491900.jpg",
+   "alt": ""
+  }
+ ]
+}

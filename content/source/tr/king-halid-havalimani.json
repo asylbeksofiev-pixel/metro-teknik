@@ -1,0 +1,52 @@
+{
+ "id": "king-halid-havalimani",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/king-halid-havalimani",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / King Halid Havalimanı",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / King Halid Havalimanı",
+ "heading": "King Halid Havalimanı",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Riyad"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "TAV"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "90.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2014"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "HAVALANDIRMA MONTAJ+MALZEME"
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$1.500.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/32/main/32-201710231123100171746000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/32/691/32-201710231123100171746000.jpg",
+   "alt": ""
+  }
+ ]
+}

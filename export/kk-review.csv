@@ -1,0 +1,378 @@
+﻿page,type,url_tr,url_kk,field,tr,kk
+home,home,/,/page/ana-sayfa-kk,title,Ana Sayfa,Басты бет
+home,home,/,/page/ana-sayfa-kk,meta_description,"Metro Teknik mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.","Metro Teknik механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету қызметтерін нормативтік талаптарға сай, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып көрсетеді."
+home,home,/,/page/ana-sayfa-kk,intro,"Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.","Жылыту мен салқындату, желдету және ауа баптау, өрттен қорғау, сумен жабдықтау және су бұру, ғимараттың механикалық жүйелерін автоматтандыру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеміз."
+home,home,/,/page/ana-sayfa-kk,action_heading,Tamamlanması Gereken Bir İş Varsa İşi Bize Bırakın,"Аяқталуы тиіс жұмыс болса, оны бізге сеніп тапсырыңыз"
+home,home,/,/page/ana-sayfa-kk,projects_heading,Projelerimiz,Жобалар
+iletisim,contact,/page/iletisim,/page/iletisim-kk,title,İletişim,Байланыс
+iletisim,contact,/page/iletisim,/page/iletisim-kk,heading,,Байланыс
+iletisim,contact,/page/iletisim,/page/iletisim-kk,office.0.name,METRO-TEKNİK İSTANBUL OFİS,METRO-TEKNİK Стамбұл кеңсесі
+iletisim,contact,/page/iletisim,/page/iletisim-kk,office.1.name,METRO-TEKNİK ADANA OFİS,METRO-TEKNİK Адана кеңсесі
+kurumsal,company,/page/kurumsal,/page/kurumsal-kk,title,Kurumsal,Компания туралы
+kurumsal,company,/page/kurumsal,/page/kurumsal-kk,heading,Kurumsal,Компания туралы
+kurumsal,company,/page/kurumsal,/page/kurumsal-kk,meta_description,,"Metro Teknik — 2013 жылы Түркияның Адана қаласында құрылған, климаттық және механикалық инженерлік жүйелер саласында жобалау және мердігерлік қызметтер көрсететін компания."
+kurumsal,company,/page/kurumsal,/page/kurumsal-kk,body_html,"<p>15 yıllık iş deneyimimizi 2013 yılında Türkiye Adana' da kurduğumuz Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. Şirketimizle profosyonel anlamda ve çağın teknik ve teknolojisini kullanarak iklimlendirme ve mekanik tesisat alanlarında proje ve taahhüt hizmeti vermek üzere kurulan firmamız, deneyimli ve uzman kadrosu ile sektöründe kaliteden ödün vermeden önemli işlere imza atmıştır.</p>
+<p>Isıtma-Soğutma, Havalandırma, Yangın Tesisatı, Sıhhi Tesisat, ..vb mekanik sistemleri, fizibilite ,danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir. Çalışmaların tüm aşamalarında; sistem seçimlerini, işverenin istekleri doğrultusunda ve optimum yatırım ve işletme maliyetlerini dikkate alarak yapmayı hedefleyen METRO TEKNİK, yatırımcıların çözüm ortağı olarak sektördeki yerini almıştır.</p>
+<p>Amacımız istenilen hizmeti, etkin bir çevre ve enerji bilinci ile gelişen teknolojiyi takip ederek, verimli sistemler kurmaktır.</p>
+<p>Uluslararası projelerin yapımında bulunmanın verdiği tecrübe birikimiyle en doğru tasarım ve kaliteli imalata dayalı müşteri menmuniyetini temel hedef edinmiştir.<br>Firmamızın amacı Türkiye, Kazakistan, Türki Cumhuriyetler, Rusya, Ortadoğu Ülkelerinde standartlara uygun, doğaya saygılı, yaşam alanlarının sağlıklı konfor şartlarını sağlayan, endüstriyel, konut ve sosyal hizmet yapılarının iklimlendirme ve mekanik tesisat uygulamalarını gerçekleştirmektir.</p>
+<p>Yapımını bitirdiğimiz projelerde kurulu tüm iklimlendirme ve mekanik tesisat sistemlerinin işletme şartları performans testleri düzenli bir şekilde kontrol edilmektedir. Tesislerin dizayn şartlarında tavsiye edilen set değerleri ve öngörülen enerji tüketim maliyetlerine uygun olarak, sistemlerin en verimli şekilde çalışması sağlanmaktadır. Ayrıca işverenin isteğine bağlı olarak belirtilen işletme personeline gerekli eğitimler verilmektedir.</p>","<p>15 жылдық тәжірибемізді 2013 жылы Түркияның Адана қаласында құрылған Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. компаниясында жалғастырдық. Климаттық жабдықтар мен механикалық инженерлік жүйелер саласында заманауи техника мен технологияларды қолдана отырып, жобалау және мердігерлік қызметтерді кәсіби деңгейде көрсету үшін құрылған компаниямыз тәжірибелі әрі білікті мамандарының арқасында сапаға нұқсан келтірмей, салада маңызды жобаларды жүзеге асырды.</p>
+<p>Компания жылыту мен салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеді. Жұмыстың барлық кезеңдерінде жүйелерді тапсырыс берушінің талаптарына сай, инвестиция мен пайдалану шығындарының оңтайлы деңгейін ескере отырып таңдауды мақсат тұтқан METRO TEKNİK салада инвесторлар үшін шешім ұсынатын серіктес ретінде өз орнын алды.</p>
+<p>Біздің мақсатымыз — қоршаған орта мен энергияны тиімді пайдалануға жауапкершілікпен қарап, дамып келе жатқан технологияларды басшылыққа ала отырып, қажетті қызметті көрсету және тиімді жүйелер орнату.</p>
+<p>Халықаралық жобаларға қатысу арқылы жинақталған тәжірибеміздің арқасында дұрыс жобалық шешімдер мен сапалы орындалған жұмысқа негізделген тапсырыс берушілердің қанағаттануын басты мақсат етіп қойдық.</p>
+<p>Компаниямыздың мақсаты — Түркияда, Қазақстанда, түркі республикаларында, Ресейде және Таяу Шығыс елдерінде өнеркәсіптік, тұрғын үй және әлеуметтік нысандарда стандарттарға сай, табиғатқа ұқыпты қарайтын, тіршілік ортасында денсаулыққа қолайлы жайлы жағдай жасайтын климаттық және механикалық инженерлік жүйелерді орнату.</p>
+<p>Біз аяқтаған жобаларда орнатылған барлық климаттық және механикалық инженерлік жүйелердің пайдалану жағдайлары мен өнімділік сынақтары тұрақты түрде тексеріледі. Жүйелердің жобалық шарттарда ұсынылған баптау мәндеріне және болжанған энергия шығынына сәйкес барынша тиімді жұмыс істеуі қамтамасыз етіледі. Сонымен қатар тапсырыс берушінің қалауы бойынша оның пайдалану қызметкерлеріне қажетті оқыту жүргізіледі.</p>"
+havalandirma-sistemleri,service,/page/havalandirma-sistemleri,/page/havalandirma-sistemleri-kk,title,Havalandırma Sistemleri,Желдету жүйелері
+havalandirma-sistemleri,service,/page/havalandirma-sistemleri,/page/havalandirma-sistemleri-kk,heading,Havalandırma Sistemleri,Желдету жүйелері
+havalandirma-sistemleri,service,/page/havalandirma-sistemleri,/page/havalandirma-sistemleri-kk,meta_description,,"Ауа арналарын дайындау, ауа баптау қондырғыларын, желдеткіштерді, рекуператорларды және гигиеналық желдету жүйелерін монтаждау, сынау және іске қосу."
+havalandirma-sistemleri,service,/page/havalandirma-sistemleri,/page/havalandirma-sistemleri-kk,body_html,"<p>Merkezi ve lokal havalandırmaya yönelik, galvaniz, siyah, paslanmaz, dikdörtgen ve yuvarlak kanal imalatları, her türlü klima santrali, egzost, duman, basınçlandırma fanları, ısı geri kazanım cihazları, hijyenik havalandırma sistemleri, otopark, mutfak, çamaşırhane vb. özel mahal uygulamalarının yerel standartlarda montaj, izolasyon, test ve devreye alınması.</p>
+<figure><img src=""https://metro-teknik.net/uploads/IMG-20161115-WA0035.jpg"" alt="""" width=""600"" height=""450""></figure>","<p>Орталықтандырылған және жергілікті желдетуге арналған мырышталған, қара болаттан және тот баспайтын болаттан жасалған тікбұрышты және дөңгелек ауа арналарын дайындау; барлық түрдегі ауа баптау қондырғыларын, сорғыш, түтін шығаратын және ауа қысымын жасайтын желдеткіштерді, жылу рекуператорларын, гигиеналық желдету жүйелерін, сондай-ақ автотұрақ, ас үй, кір жуу орны сияқты арнайы үй-жайлардағы жүйелерді жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p>"
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,title,Tamamlanan Proje / Forum AVM Şantiyesi,«Forum Almaty» сауда-ойын-сауық орталығы
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,heading,Forum AVM,«Forum Almaty» сауда-ойын-сауық орталығы
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,card_name,,«Forum Almaty» СОО
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,fact.location,Almata / Kazakistan,"Алматы, Қазақстан"
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,fact.client,ATASTROY,ATASTROY
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,fact.area,163.961 m2,163 961 м²
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,fact.date,2015,2015
+forum-avm-santiyesi-almata,project,/page/forum-avm-santiyesi-almata,/page/forum-avm-santiyesi-almata-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,title,Tamamlanan Proje / Tienshan Konutları,«Tien Shan Gardens» тұрғын үй кешені
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,heading,Tienshan Konutları,«Tien Shan Gardens» тұрғын үй кешені
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,card_name,,«Tien Shan Gardens» тұрғын үй кешені
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,fact.location,ALMATA,Алматы
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,fact.client,A-TA STROY,A-TA STROY
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,fact.area,10.000 m2,10 000 м²
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,fact.date,2015,2015
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+tienshan-konutlari-astana,project,/page/tienshan-konutlari-astana,/page/tienshan-konutlari-astana-kk,fact.budget,"$3.024.000,00","$3 024 000,00"
+uygulama-ornekleri,gallery,/page/uygulama-ornekleri,/page/uygulama-ornekleri-kk,title,Uygulama Örnekleri,Орындалған жұмыстар
+uygulama-ornekleri,gallery,/page/uygulama-ornekleri,/page/uygulama-ornekleri-kk,heading,UYGULAMA ÖRNEKLERİ,Орындалған жұмыстар
+uygulama-ornekleri,gallery,/page/uygulama-ornekleri,/page/uygulama-ornekleri-kk,body_html,"<p>Kaliteli hizmette öncü firma olmamız tesadüf değil, başarımızdır çünkü; her zaman en iyisi için çalışıyoruz. Kalitemizi aşağıdaki galerimizden inceleyebilirsiniz.</p>
+<p><a href=""/page/tienshan-konutlari-astana"">DEVAM EDEN PROJELERİMİZ</a>BİTEN PROJELERİMİZ</p>","<p>Сапалы қызмет көрсетуде алдыңғы қатарлы компания болуымыз — кездейсоқтық емес, біздің жетістігіміз, өйткені біз әрдайым ең үздік нәтиже үшін жұмыс істейміз. Жұмысымыздың сапасымен төмендегі галерея арқылы таныса аласыз.</p>"
+uygulama-ornekleri,gallery,/page/uygulama-ornekleri,/page/uygulama-ornekleri-kk,subheading,Hizmet Kalitemiz,Қызмет сапамыз
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,title,Tamamlanan Proje / EXPO 2017 Kongre Merkezi,«EXPO-2017» конгресс-орталығы
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,heading,EXPO 2017 Kongre Merkezi,«EXPO-2017» конгресс-орталығы
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,card_name,,«EXPO-2017» конгресс-орталығы
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,fact.area,48.000 m2,48 000 м²
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,fact.date,2016,2016
+expo-2017-kongre-merkezi-astana,project,/page/expo-2017-kongre-merkezi-astana,/page/expo-2017-kongre-merkezi-astana-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+vizyon,company,/page/vizyon,/page/vizyon-kk,title,Vizyon,Болашаққа көзқарас
+vizyon,company,/page/vizyon,/page/vizyon-kk,heading,Vizyon,Болашаққа көзқарас
+vizyon,company,/page/vizyon,/page/vizyon-kk,meta_description,,Metro Teknik компаниясының болашаққа көзқарасы: адам мен табиғатқа құрмет және «Өмір сәулеті» философиясы.
+vizyon,company,/page/vizyon,/page/vizyon-kk,body_html,"<p>Temeli insana ve doğaya saygı olan, bireyin doğallığıyla bağını koparmadan modernlik, mimari ve teknolojiden üst düzeyde faydalanmasını sağlamak ve bu sayede Yaşam Mimarlığı felsefemizi, tüm dünyaya örnek oluşturacağımızı gözden kaçırmadan yaşam pratiğine aktarmak.</p>","<p>Адамға және табиғатқа құрметке негізделген, адамның табиғатпен байланысын үзбей, заманауилықтың, сәулет өнері мен технологияның мүмкіндіктерін барынша пайдалануын қамтамасыз ету және осылайша бүкіл әлемге үлгі боларымызды естен шығармай, «Өмір сәулеті» философиямызды күнделікті өмірде жүзеге асыру.</p>"
+misyon,company,/page/misyon,/page/misyon-kk,title,Misyon,Миссия
+misyon,company,/page/misyon,/page/misyon-kk,heading,Misyon,Миссия
+misyon,company,/page/misyon,/page/misyon-kk,meta_description,"İnsanın ilk çağlardan beri süregelen yuva ihtiyacını, ona doğal ve modern olanaklarla çevrelenmiş olarak sunmak.",Адамның ежелден келе жатқан баспанаға деген қажеттілігін табиғи және заманауи мүмкіндіктермен үйлестіре отырып қамтамасыз ету.
+misyon,company,/page/misyon,/page/misyon-kk,body_html,"<ul><li>İnsanın ilk çağlardan beri süregelen yuva ihtiyacını, ona doğal ve modern olanaklarla çevrelenmiş olarak sunmak.</li><li>Öncelikle sosyal, sportif ve kültürel aktivitelerle bağını eksiksiz kurarak, doğal yuva ihtiyacını sağlam bir zemine oturtmak.</li><li>Sonra modernlik, mimari mükemmellik ve teknolojinin akıllı kullanımıyla insanı geleceğe taşımak ve böylelikle yüceltmek.</li></ul>","<ul><li>Адамның ежелден келе жатқан баспанаға деген қажеттілігін табиғи және заманауи мүмкіндіктермен үйлестіре отырып қамтамасыз ету.</li><li>Ең алдымен әлеуметтік, спорттық және мәдени қызметпен байланысын толық орната отырып, баспанаға деген табиғи қажеттілікті берік негізге қою.</li><li>Содан кейін заманауилық, сәулеттік кемелдік және технологияларды ұтымды пайдалану арқылы адамды болашаққа жетелеу және осылайша оны асқақтату.</li></ul>"
+baskanin-mesaji,company,/page/baskanin-mesaji,/page/baskanin-mesaji-kk,title,Başkanın Mesajı,Төрағаның үндеуі
+baskanin-mesaji,company,/page/baskanin-mesaji,/page/baskanin-mesaji-kk,heading,Başkanın Mesajı,Төрағаның үндеуі
+baskanin-mesaji,company,/page/baskanin-mesaji,/page/baskanin-mesaji-kk,meta_description,,Metro Teknik директорлар кеңесінің төрағасы Hüseyin Türkan-ның үндеуі.
+baskanin-mesaji,company,/page/baskanin-mesaji,/page/baskanin-mesaji-kk,body_html,"<p>Biz Metro Teknik Ltd. Şti. olarak yüksek kalitede tasarlanmış mimari eserlerin havalandırma ve mekanik tesisat işlerinde en son teknolojik gelişmeleri kullanarak yeniliklere açık modern çağın gereksinimlerini karşılayan mimarlık ve mühendislik normlarını tam olarak yansıtmanın gayreti içindeyiz.</p>
+<p>Şirketimiz Türki Cumhuriyetler, Rusya ve Ortadoğu ülkelerinde yaptığı işlerle ekonomiye önemli derecede katkıda bulunmuştur. Ülkemizin refahı ve ekonomik gücümüzü artırmanın yanı sıra personel kadromuz ve istihdam alanlarımızla da her gün büyüyen ve yeni iş kolalarını canlandıran bir yapıya sahibiz.</p>
+<p>Üstlendiğimiz işlerde ticaretin ana kuralı olan karlılık prensibini ikinci plana iterek ortaya çıkardığımız ürünlerin ekonomik ve kullanışlı olmasının yanı sıra, can ve mal emniyetini dikkate almaktayız.</p>
+<p>Hizmet, kalite ve teknolojik imkanların hep birlikte sunulduğu şirketimizde çözüm odaklı, genç ve deneyimli kadromuz ile mekanik ve havalandırmada yaptığımız işlerin altına imzamızı gururla atıyoruz. Biz güçlü, başarılı ve geçmişin başarısını geleceğin teknolojik imkanlarıyla buluşturan kocaman bir aileyiz.</p>
+<p><strong>HÜSEYİN TÜRKAN</strong><br><strong>YÖNETİM KURUL BAŞKANI</strong></p>","<p>Metro Teknik Ltd. Şti. ретінде біз жоғары сапамен жобаланған сәулет нысандарының желдету және механикалық инженерлік жүйелері бойынша жұмыстарда соңғы технологиялық жетістіктерді қолдана отырып, жаңалыққа ашық заманауи кезеңнің талаптарына сай сәулет және инженерия нормаларын толық көрсетуге ұмтыламыз.</p>
+<p>Компаниямыз түркі республикаларында, Ресейде және Таяу Шығыс елдерінде атқарған жұмыстары арқылы экономикаға елеулі үлес қосты. Еліміздің әл-ауқаты мен экономикалық әлеуетін арттырумен қатар, қызметкерлер құрамы мен жұмыс орындары күн сайын өсіп, жаңа бизнес бағыттарын дамытатын құрылымға иеміз.</p>
+<p>Өзімізге алған жұмыстарда сауданың басты қағидасы — пайдалылық принципін екінші орынға қойып, біз жасаған нәтиженің үнемді әрі ыңғайлы болуымен қатар, адам өмірі мен мүліктің қауіпсіздігін де басты назарда ұстаймыз.</p>
+<p>Қызмет, сапа және технологиялық мүмкіндіктер бірге ұсынылатын компаниямызда шешімге бағытталған, жас әрі тәжірибелі ұжымымызбен механикалық жүйелер мен желдету саласында атқарған жұмыстарымызға мақтанышпен қол қоямыз. Біз — өткеннің жетістіктерін болашақтың технологиялық мүмкіндіктерімен ұштастыратын қуатты, табысты, үлкен отбасымыз.</p>
+<p><strong>HÜSEYİN TÜRKAN</strong><br><strong>Директорлар кеңесінің төрағасы</strong></p>"
+kalite-ve-cevre-politikamiz,company,/page/kalite-ve-cevre-politikamiz,/page/kalite-ve-cevre-politikamiz-kk,title,Kalite ve Çevre Politikamız,Сапа және экологиялық саясат
+kalite-ve-cevre-politikamiz,company,/page/kalite-ve-cevre-politikamiz,/page/kalite-ve-cevre-politikamiz-kk,heading,Kalite ve Çevre Politikamız,Сапа және экологиялық саясат
+kalite-ve-cevre-politikamiz,company,/page/kalite-ve-cevre-politikamiz,/page/kalite-ve-cevre-politikamiz-kk,meta_description,,"Metro Teknik сапа және экологиялық менеджмент саясаты: стандарттарды сақтау, ISO 9001-14001 талаптарын орындау және қоршаған ортаны қорғау."
+kalite-ve-cevre-politikamiz,company,/page/kalite-ve-cevre-politikamiz,/page/kalite-ve-cevre-politikamiz-kk,body_html,"<p>METROTEKNİK ve TEKNİK2011 olarak faaliyet gösterdiğimiz, Alt Yapı, Üst Yapı İnşaat ve Taahhüt<br>İşleri'nde,</p>
+<ul><li>İlgili tüm yasa ve yönetmeliklerle belirlenen standartları sağlamak.</li><li>Müşteri yasal mevzuat şartları ve kalite yönetim sistemi şartlarına uyulması, hiç bir koşulda kaliteden ödün vermemek</li><li>Doğal kaynak kullanımını azaltmak ve mümkün olduğunca tekrar kullanılabilir ve geri dönüştürülebilir materyallerin tüketimine yönelmek.</li><li>Hizmet esnasında ve diğer faaliyetlerimizden kaynaklanan atıkları,</li><li>Yatırım kararları alınırken, çevresel kıstasları dikkate almak.</li><li>Tüm faaliyetlerimizde, bunların çevreye olabilecek etkileri konusunda tedbirli ve dikkatli davranmak.</li><li>Bir kalite ve çevre yönetim sistemi geliştirip, bu sistemin etkin olmasını ve güncel tutulmasını sağlamak.</li><li>Acil Durum Riskleri'ni azaltmak.</li><li>Çevrenin korunması ile ilgili olarak tüm personelin eğitilmesini sağlamak.</li><li>""ISO 9001-14001 Kalite ve Çevre Yönetim Sistemi""nin tüm gereklerini yerine getirmek</li><li>İşlerinizle ilgili üçüncü şahıslara, şirketimize mal ve hizmet veren teslimatçılarımıza ve taşeronlarımıza da sistemimize benzer çevresel standartları uygulamaları konusunda tavsiye ve telkinde bulunmak.</li><li>Sektörümüzde kalitede ve çevrede lider olabilmek ve müşterilerimizin ihtiyaç ve beklentilerini karşılayabilmek için; kalite ve çevre yönetim sistemi şartlarına uymak,</li><li>Kalite ve Çevre Yönetim Sistemimizi Sürekli İyileştirmek, çevrede yol açtığımız kirlenmeyi önlemek,</li></ul>
+<p>YÖNETİM SİSTEMİ POLİTİKAMIZDIR ...</p>","<p>METROTEKNİK және TEKNİK2011 ретінде жүзеге асыратын инфрақұрылым нысандарын, ғимараттар мен құрылыстар салу және мердігерлік жұмыстарымызда:</p>
+<ul><li>Тиісті барлық заңдар мен нормативтік актілерде белгіленген стандарттарды сақтау.</li><li>Тапсырыс беруші талаптарын, заңнама талаптарын және сапа менеджменті жүйесінің талаптарын орындау, ешбір жағдайда сапаға нұқсан келтірмеу.</li><li>Табиғи ресурстарды пайдалануды азайту және мүмкіндігінше қайта пайдалануға және қайта өңдеуге болатын материалдарды таңдау.</li><li>Қызмет көрсету барысында және басқа да қызметімізден туындайтын қалдықтарды ескеру.</li><li>Инвестициялық шешімдер қабылдау кезінде экологиялық өлшемдерді ескеру.</li><li>Барлық қызметімізде оның қоршаған ортаға ықтимал әсеріне қатысты сақ әрі мұқият болу.</li><li>Сапа және экологиялық менеджмент жүйесін әзірлеп, оның тиімділігі мен өзектілігін қамтамасыз ету.</li><li>Төтенше жағдай қатерлерін азайту.</li><li>Барлық қызметкерлерді қоршаған ортаны қорғау мәселелері бойынша оқытуды қамтамасыз ету.</li><li>«ISO 9001-14001 сапа және экологиялық менеджмент жүйесінің» барлық талаптарын орындау.</li><li>Жұмыстарымызға қатысы бар үшінші тұлғаларға, компаниямызға тауар жеткізетін және қызмет көрсететін жеткізушілер мен қосалқы мердігерлерге біздің жүйемізге ұқсас экологиялық стандарттарды енгізу жөнінде кеңес беру және ұсыныс жасау.</li><li>Салада сапа мен экология бойынша көшбасшы болу және тапсырыс берушілеріміздің қажеттіліктері мен күтулерін қанағаттандыру үшін сапа және экологиялық менеджмент жүйесінің талаптарын сақтау.</li><li>Сапа және экологиялық менеджмент жүйемізді үздіксіз жетілдіру, қоршаған ортаның ластануына жол бермеу.</li></ul>
+<p>Бұл — біздің менеджмент жүйеміздің саясаты.</p>"
+is-bitirme-belgelerimiz,certificates,/page/is-bitirme-belgelerimiz,/page/is-bitirme-belgelerimiz-kk,title,İş Bitirme Belgelerimiz,Жұмыстың аяқталғаны туралы сертификаттар
+is-bitirme-belgelerimiz,certificates,/page/is-bitirme-belgelerimiz,/page/is-bitirme-belgelerimiz-kk,heading,İş Bitirme Belgelerimiz,Жұмыстың аяқталғаны туралы сертификаттар
+is-bitirme-belgelerimiz,certificates,/page/is-bitirme-belgelerimiz,/page/is-bitirme-belgelerimiz-kk,meta_description,,Metro Teknik жұмыстарының аяқталғаны туралы сертификаттар.
+isitma-sogutma,service,/page/isitma-sogutma,/page/isitma-sogutma-kk,title,Isıtma Soğutma,Жылыту және салқындату
+isitma-sogutma,service,/page/isitma-sogutma,/page/isitma-sogutma-kk,heading,Isıtma - Soğutma,Жылыту және салқындату
+isitma-sogutma,service,/page/isitma-sogutma,/page/isitma-sogutma-kk,meta_description,,"Қазандықтар, сорғылар, чиллерлер, фанкойлдар, VRV жүйелері, радиаторлар және еден астынан жылыту жүйелерін жеткізу, монтаждау, сынау және іске қосу."
+isitma-sogutma,service,/page/isitma-sogutma,/page/isitma-sogutma-kk,body_html,"<p>Kazan, pompa, eşanjör, chiller, soğutma kuleleri, fancoil, vrv, radyatör, döşemeden ısıtma ..vb. sistemlerin cihaz armatür tesisat kapsamında temini, yerel standartlarda uygulaması, izolasyon, test ve devreye alınması.</p>
+<figure><img src=""https://metro-teknik.net/uploads/all-services/ISITMA-SOGUTMA-0047.jpg"" alt=""Metro Teknik Isıtma ve Soğutma Hizmeti"" width=""602"" height=""455""></figure>","<p>Қазандықтар, сорғылар, жылу алмастырғыштар, чиллерлер, салқындату мұнаралары, фанкойлдар, VRV жүйелері, радиаторлар, еден астынан жылыту және т.б. жүйелер бойынша жабдықтарды, арматура мен құбыр желілерін жеткізу, оларды жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p>"
+sihhi-tesisat,service,/page/sihhi-tesisat,/page/sihhi-tesisat-kk,title,Sıhhi Tesisat,Сумен жабдықтау және су бұру жүйелері
+sihhi-tesisat,service,/page/sihhi-tesisat,/page/sihhi-tesisat-kk,heading,Sıhhi Tesisat,Сумен жабдықтау және су бұру жүйелері
+sihhi-tesisat,service,/page/sihhi-tesisat,/page/sihhi-tesisat-kk,meta_description,,"Таза су, ағынды су, дренаж, суды жұмсарту және жаңбыр суын бұру жүйелерін дайындау, монтаждау, сынау және іске қосу."
+sihhi-tesisat,service,/page/sihhi-tesisat,/page/sihhi-tesisat-kk,body_html,"<p>Tüm temiz su, atık su, drenaj, su yumuşatma, basınçlı pis su, yağmur vb. sistemlerin imalatı, cihaz ekipman temini, yerel standartlarda uygulaması,izolasyon test ve devreye alınması.</p>
+<figure><img src=""https://metro-teknik.net/uploads/all-services/SIHHI-TESISAT-0053.jpg"" alt=""Metro Teknik Havalandrma Hizmeti"" width=""602"" height=""455""></figure>","<p>Таза су, ағынды су, дренаж, суды жұмсарту, қысыммен жұмыс істейтін кәріз, жаңбыр суын бұру және т.б. жүйелерді дайындау, жабдықтар мен құрылғыларды жеткізу, оларды жергілікті стандарттарға сәйкес монтаждау, оқшаулау, сынау және іске қосу.</p>"
+yangin,service,/page/yangin,/page/yangin-kk,title,Yangın,Өрттен қорғау жүйелері
+yangin,service,/page/yangin,/page/yangin-kk,heading,Yangın,Өрттен қорғау жүйелері
+yangin,service,/page/yangin,/page/yangin-kk,meta_description,,"Спринклерлік және дренчерлік жүйелерді, өрт шкафтары мен гидрант желілерін жергілікті стандарттарға сәйкес монтаждау, сынау және іске қосу."
+yangin,service,/page/yangin,/page/yangin-kk,body_html,"<p>Sulu ve kuru sistem olarak sprinkler, yangın dolabı, drencher, hidrant hatları ve bunlarla ilgili teknik oda uygulamaları dahil yerel standartlarda imalatın yapılması, izolasyon test ve devreye alınması.</p>
+<figure><img src=""https://metro-teknik.net/uploads/all-services/YANGIN-0055.jpg"" alt=""Metro Teknik Yangın Hizmeti"" width=""602"" height=""404""></figure>","<p>Сулы және құрғақ спринклерлік жүйелерді, өрт шкафтарын, дренчерлік жүйелерді, гидрант желілерін, сондай-ақ оларға қатысты техникалық үй-жайлардағы жұмыстарды қоса алғанда, жергілікті стандарттарға сәйкес дайындау, оқшаулау, сынау және іске қосу.</p>"
+mekanik-otomasyon,service,/page/mekanik-otomasyon,/page/mekanik-otomasyon-kk,title,Mekanik Otomasyon,Механикалық жүйелерді автоматтандыру
+mekanik-otomasyon,service,/page/mekanik-otomasyon,/page/mekanik-otomasyon-kk,heading,Mekanik otomasyon,Механикалық жүйелерді автоматтандыру
+mekanik-otomasyon,service,/page/mekanik-otomasyon,/page/mekanik-otomasyon-kk,meta_description,,"HVAC жүйесінің механикалық құрылғыларын бір орталықтан басқару, бақылау және есеп беру."
+mekanik-otomasyon,service,/page/mekanik-otomasyon,/page/mekanik-otomasyon-kk,body_html,"<p>Mekanik Otomasyon Sistemleri dahilinde; Klima Santralleri, Sirkülasyon – Isıtma – Soğutma Pompaları, Pis Su Pompaları, Yangın Pompaları, Kanal Tipi ve Hücreli Tip Fanlar, Merdiven Basınçlandırma Fanları, Su Depoları, Jet Fanlar, Hidroforlar, Boyler, Kazan, Eşanjörler, Soğutma (Chiller) Grupları gibi HVAC (Heating, Ventilating and Air Conditioning) sistemine ait mekanik cihazların tek bir merkezden kontrolü, izlenmesi ve raporlanması sağlanmaktadır.</p>
+<figure><img src=""https://metro-teknik.net/uploads/all-services/mekanik-otomasyon.jpg"" alt=""Metro Teknik Mekanik Otomasyon Hizmeti"" width=""1012"" height=""720""></figure>","<p>Механикалық жүйелерді автоматтандыру аясында ауа баптау қондырғылары, айналым, жылыту және салқындату сорғылары, кәріз сорғылары, өрт сорғылары, арналық және секциялық желдеткіштер, баспалдақтарда ауа қысымын жасайтын желдеткіштер, су қоймалары, жет-желдеткіштер, гидрофорлар, бойлерлер, қазандықтар, жылу алмастырғыштар, салқындату (чиллер) агрегаттары сияқты HVAC (жылыту, желдету және ауа баптау) жүйесінің механикалық құрылғыларын бір орталықтан басқару, бақылау және есеп беру қамтамасыз етіледі.</p>"
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,title,Tamamlanan Proje / Mega 2 Alışveriş Merkezi,Mega 2 сауда-ойын-сауық орталығы
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,heading,Mega 2 Alışveriş Merkezi,Mega 2 сауда-ойын-сауық орталығы
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,card_name,,Mega 2 сауда орталығы
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,fact.location,Almaata / Kazakistan,"Алматы, Қазақстан"
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,fact.client,A-TA STROY,A-TA STROY
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,fact.area,105.000 m2,105 000 м²
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,fact.date,2013,2013
+mega-2-alisveris-merkezi-almaata,project,/page/mega-2-alisveris-merkezi-almaata,/page/mega-2-alisveris-merkezi-almaata-kk,fact.scope,"HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME","Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,title,Tamamlanan Proje / Kütüphane Binası,Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,heading,Kütüphane Binası,Қазақстан Республикасының Тұңғыш Президенті – Елбасы кітапханасы
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,card_name,,Тұңғыш Президент кітапханасы
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,fact.area,34.457 m2,34 457 м²
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,fact.date,2013,2013
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+kutuphane-binasi-astana,project,/page/kutuphane-binasi-astana,/page/kutuphane-binasi-astana-kk,fact.budget,"$600.000,00","$600 000,00"
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,title,Tamamlanan Proje / Mega 3 Alışveriş Merkezi,Mega 3 сауда-ойын-сауық орталығы
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,heading,Mega 3 Alışveriş Merkezi,Mega 3 сауда-ойын-сауық орталығы
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,card_name,,Mega 3 сауда орталығы
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,fact.location,Almaata / Kazakistan,"Алматы, Қазақстан"
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,fact.client,A-TA STROY,A-TA STROY
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,fact.area,104.000 m2,104 000 м²
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,fact.date,2013,2013
+mega-3-alisveris-merkezi-almaata,project,/page/mega-3-alisveris-merkezi-almaata,/page/mega-3-alisveris-merkezi-almaata-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,title,Tamamlanan Proje / Akademi A6 Blok,"Ұлттық қорғаныс университеті, A6 блогы"
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,heading,Akademi A6 Blok,"Ұлттық қорғаныс университеті, A6 блогы"
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,card_name,,"Ұлттық қорғаныс университеті, A6 блогы"
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,fact.date,2013,2013
+akademi-a6-blok-astana,project,/page/akademi-a6-blok-astana,/page/akademi-a6-blok-astana-kk,fact.budget,"₸2.250.000,00","2 250 000,00 ₸"
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,title,Tamamlanan Proje / Akademi A11 Blok,"Ұлттық қорғаныс университеті, A11 блогы"
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,heading,Akademi A11 Blok,"Ұлттық қорғаныс университеті, A11 блогы"
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,card_name,,"Ұлттық қорғаныс университеті, A11 блогы"
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,fact.date,2013,2013
+akademi-a11-blok-astana,project,/page/akademi-a11-blok-astana,/page/akademi-a11-blok-astana-kk,fact.budget,"₸4.550.000,00","4 550 000,00 ₸"
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,title,Tamamlanan Proje / Rixos Otel Borovoe,«Rixos Borovoe» қонақүйі
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,heading,Rixos Otel Borovoe,«Rixos Borovoe» қонақүйі
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,card_name,,«Rixos Borovoe» қонақүйі
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,fact.location,Astana,Астана
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,fact.client,A-TA STROY,A-TA STROY
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,fact.area,33.000 m2,33 000 м²
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,fact.date,2012,2012
+rixos-otel-borovoe,project,/page/rixos-otel-borovoe,/page/rixos-otel-borovoe-kk,fact.scope,"HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME","Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,title,Tamamlanan Proje / Han Cadır Mekanik İşçilik,«Хан Шатыр» сауда-ойын-сауық орталығы
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,heading,Han Cadır Mekanik İşçilik,«Хан Шатыр» сауда-ойын-сауық орталығы
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,card_name,,«Хан Шатыр» СОО
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,fact.client,SEMBOL / ALTES,SEMBOL / ALTES
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,fact.area,140.000 m2,140 000 м²
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,fact.date,2008,2008
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+han-cadir-mekanik-iscilik-astana,project,/page/han-cadir-mekanik-iscilik-astana,/page/han-cadir-mekanik-iscilik-astana-kk,fact.budget,"$4.150.000,00","$4 150 000,00"
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,title,Tamamlanan Proje / Stadyum Mekanik İşçilik,«Астана Арена» стадионы
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,heading,Stadyum Mekanik İşçilik,«Астана Арена» стадионы
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,card_name,,«Астана Арена» стадионы
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,fact.client,SEMBOL / ALTES,SEMBOL / ALTES
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,fact.date,2008,2008
+stadyum-mekanik-iscilik-astana,project,/page/stadyum-mekanik-iscilik-astana,/page/stadyum-mekanik-iscilik-astana-kk,fact.budget,"$1.150.000,00","$1 150 000,00"
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,title,Tamamlanan Proje / Çocuk Hastanesi Mekanik İşçilik,«Республикалық балалар оңалту орталығы» АҚ
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,heading,Çocuk Hastanesi Mekanik İşçilik,«Республикалық балалар оңалту орталығы» АҚ
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,card_name,,Республикалық балалар оңалту орталығы
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,fact.client,BAYTUR / GEMTAŞ,BAYTUR / GEMTAŞ
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,fact.date,2007,2007
+cocuk-hastanesi-mekanik-iscilik-astana,project,/page/cocuk-hastanesi-mekanik-iscilik-astana,/page/cocuk-hastanesi-mekanik-iscilik-astana-kk,fact.budget,"$1.270.080,00","$1 270 080,00"
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,title,Tamamlanan Proje / Sarıarka Alışveriş Merkezi,«Сарыарқа» сауда-ойын-сауық орталығы
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,heading,Sarıarka Alışveriş Merkezi,«Сарыарқа» сауда-ойын-сауық орталығы
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,card_name,,«Сарыарқа» СОО
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,fact.client,BAYTUR / GEMTAŞ,BAYTUR / GEMTAŞ
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,fact.area,42.000 m2,42 000 м²
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,fact.date,2006,2006
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+sariarka-alisveris-merkezi-astana,project,/page/sariarka-alisveris-merkezi-astana,/page/sariarka-alisveris-merkezi-astana-kk,fact.budget,"$925.000,00","$925 000,00"
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,title,Tamamlanan Proje / Nöroloji Hastanesi Mekanik İşçilik,«Ұлттық нейрохирургия орталығы» АҚ
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,heading,Nöroloji Hastanesi Mekanik İşçilik,«Ұлттық нейрохирургия орталығы» АҚ
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,card_name,,Ұлттық нейрохирургия орталығы
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,fact.client,BAYTUR / GEMTAŞ,BAYTUR / GEMTAŞ
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,fact.date,2006,2006
+noroloji-hastanesi-mekanik-iscilik-astana,project,/page/noroloji-hastanesi-mekanik-iscilik-astana,/page/noroloji-hastanesi-mekanik-iscilik-astana-kk,fact.budget,"$1.360.800,00","$1 360 800,00"
+metro-teknik-devam-eden-projeler,list,/page/metro-teknik-devam-eden-projeler,/page/metro-teknik-devam-eden-projeler-kk,title,Metro Teknik Devam Eden Projeler,Іске асырылып жатқан жобалар
+metro-teknik-devam-eden-projeler,list,/page/metro-teknik-devam-eden-projeler,/page/metro-teknik-devam-eden-projeler-kk,heading,Metro Teknik Devam Eden Projeler,Іске асырылып жатқан жобалар
+metro-teknik-biten-projeleri,list,/page/metro-teknik-biten-projeleri,/page/metro-teknik-biten-projeleri-kk,title,Metro Teknik Biten Projeleri,Аяқталған жобалар
+metro-teknik-biten-projeleri,list,/page/metro-teknik-biten-projeleri,/page/metro-teknik-biten-projeleri-kk,heading,Metro Teknik Biten Projeler,Аяқталған жобалар
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,title,Kokshetau Hospital,Көкшетау ауруханасы
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,heading,Kokshetau Hospital,Көкшетау ауруханасы
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,card_name,,Көкшетау ауруханасы
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,fact.location,Kokshetau/Kazakistan,"Көкшетау, Қазақстан"
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,fact.client,RÖNESANS HOLDİNG A.Ş.,RÖNESANS HOLDİNG A.Ş.
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,fact.area,110.000 m2 (630 Yataklı),110 000 м² (630 төсек-орын)
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,fact.date,2025,2025
+kokshetau-hospital,project,/page/kokshetau-hospital,/page/kokshetau-hospital-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,title,Türkistan Şehir Hastanesi,Түркістан қалалық ауруханасы
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,heading,Türkistan Şehir Hastanesi,Түркістан қалалық ауруханасы
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,card_name,,Түркістан қалалық ауруханасы
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,fact.location,Türkistan/Kazakistan,"Түркістан, Қазақстан"
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,fact.client,YDA Group,YDA Group
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,fact.area,79.200m2,79 200 м²
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,fact.date,2021,2021
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+turkistan-sehir-hastanesi,project,/page/turkistan-sehir-hastanesi,/page/turkistan-sehir-hastanesi-kk,fact.budget,12.166.000$,12 166 000 $
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,title,Karaganda Lastik Fabrikası,Қарағанды шина зауыты
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,heading,Karaganda Lastik Fabrikası,Қарағанды шина зауыты
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,card_name,,Қарағанды шина зауыты
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,fact.location,Karaganda/Kazakistan,"Қарағанды, Қазақстан"
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,fact.client,BI GROUP,BI GROUP
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,fact.area,80.000 m2,80 000 м²
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,fact.date,2022,2022
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,fact.scope,"Havalandırma, Isıtma, Soğutma, Yangın, Sıhhi Tesisat Malzeme + Montaj.","Желдету, жылыту, салқындату, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+karaganda-lastik-fabrikasi,project,/page/karaganda-lastik-fabrikasi,/page/karaganda-lastik-fabrikasi-kk,fact.note,İmalat görselleri proje medya kısıtlamasından dolayı paylaşılamıyor.,Монтаж жұмыстарының фотосуреттері жобаның медиа шектеулеріне байланысты жарияланбайды.
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,title,Kervansaray,«Керуенсарай» кешені
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,heading,Kervansaray,«Керуенсарай» кешені
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,card_name,,«Керуенсарай» кешені
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,fact.location,Türkistan/Kazakistan,"Түркістан, Қазақстан"
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,fact.area,56.000 m2,56 000 м²
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,fact.date,2020,2020
+kervansaray,project,/page/kervansaray,/page/kervansaray-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+tema-park,project,/page/tema-park,/page/tema-park-kk,title,TEMA PARK,Tema Park
+tema-park,project,/page/tema-park,/page/tema-park-kk,heading,Tema Park,Tema Park
+tema-park,project,/page/tema-park,/page/tema-park-kk,card_name,,Tema Park
+tema-park,project,/page/tema-park,/page/tema-park-kk,fact.location,Aktau/Kazakistan,"Ақтау, Қазақстан"
+tema-park,project,/page/tema-park,/page/tema-park-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+tema-park,project,/page/tema-park,/page/tema-park-kk,fact.area,14.000 m2,14 000 м²
+tema-park,project,/page/tema-park,/page/tema-park-kk,fact.date,2021,2021
+tema-park,project,/page/tema-park,/page/tema-park-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+town-center,project,/page/town-center,/page/town-center-kk,title,TOWN CENTER,Town Center
+town-center,project,/page/town-center,/page/town-center-kk,heading,Town Center,Town Center
+town-center,project,/page/town-center,/page/town-center-kk,card_name,,Town Center
+town-center,project,/page/town-center,/page/town-center-kk,fact.location,Aktau/Kazakistan,"Ақтау, Қазақстан"
+town-center,project,/page/town-center,/page/town-center-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+town-center,project,/page/town-center,/page/town-center-kk,fact.area,48.500 m2,48 500 м²
+town-center,project,/page/town-center,/page/town-center-kk,fact.date,2021,2021
+town-center,project,/page/town-center,/page/town-center-kk,fact.scope,"Isıtma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,title,Aktau Resort Hotel,Aktau Resort Hotel
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,heading,Aktau Resort Hotel,Aktau Resort Hotel
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,card_name,,Aktau Resort Hotel
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,fact.location,Aktau / Kazakistan,"Ақтау, Қазақстан"
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,fact.area,61.000 m2,61 000 м²
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,fact.date,2020,2020
+aktau-resort-hotel,project,/page/aktau-resort-hotel,/page/aktau-resort-hotel-kk,fact.scope,"ISITMA, SOĞUTMA, BUHAR, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, бу жүйелері, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,title,Nazarbayev Merkezi İdari Binası,Назарбаев орталығының әкімшілік ғимараты
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,heading,Nazarbayev Merkezi İdari Binası,Назарбаев орталығының әкімшілік ғимараты
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,card_name,,Назарбаев орталығының әкімшілік ғимараты
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,fact.location,Astana,Астана
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,fact.area,39.857 m2,39 857 м²
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,fact.date,2019,2019
+nazarbayev-merkezi-idari-binasi,project,/page/nazarbayev-merkezi-idari-binasi,/page/nazarbayev-merkezi-idari-binasi-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,title,NAZARBAYEV ÜNİVERSİTESİ,Назарбаев Университеті
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,heading,Nazarbayev Üniversitesi,Назарбаев Университеті
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,card_name,,Назарбаев Университеті
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,fact.location,Astana,Астана
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,fact.area,228.500 m2,228 500 м²
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,fact.date,2013-2017,2013–2017
+nazarbayev-universitesi,project,/page/nazarbayev-universitesi,/page/nazarbayev-universitesi-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,title,Kızılorda (Korkut Ata) Havalimanı Terminal Binası,Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,heading,Kızılorda (Korkut Ata) Havalimanı Terminal Binası,Қызылорда (Қорқыт Ата) әуежайының терминал ғимараты
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,card_name,,Қызылорда (Қорқыт Ата) әуежайының терминалы
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,fact.location,Kızılorda/Kazakistan,"Қызылорда, Қазақстан"
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,fact.client,Elite Construction,Elite Construction
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,fact.area,10.000 m2,10 000 м²
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,fact.date,2023,2023
+kizilorda-korkut-ata-havalimani-terminal-binasi,project,/page/kizilorda-korkut-ata-havalimani-terminal-binasi,/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,title,Tamamlanan Proje / Akademi A6-A11 Blok,"Ұлттық қорғаныс университеті, A6–A11 блоктары"
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,heading,HARP AKADEMİLERİ A6-A11 BLOKLAR,"Ұлттық қорғаныс университеті, A6–A11 блоктары"
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,card_name,,"Ұлттық қорғаныс университеті, A6–A11 блоктары"
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,fact.location,ASTANA,Астана
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,fact.area,33.000 m2,33 000 м²
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,fact.date,2013,2013
+akademi-a6-a11-blok-astana,project,/page/akademi-a6-a11-blok-astana,/page/akademi-a6-a11-blok-astana-kk,fact.scope,"HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME","Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,title,Astana Kongre Merkezi (Komple Renovasyon),Астана конгресс-орталығы (толық реконструкция)
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,heading,Astana Kongre Merkezi (Komple Renovasyon),Астана конгресс-орталығы (толық реконструкция)
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,card_name,,Астана конгресс-орталығы (толық реконструкция)
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,fact.location,Astana/Kazakistan,"Астана, Қазақстан"
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,fact.client,Sembol İnşaat,Sembol İnşaat
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,fact.area,44.000 m2,44 000 м²
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,fact.date,2023,2023
+astana-kongre-merkezi-komple-renovasyon,project,/page/astana-kongre-merkezi-komple-renovasyon,/page/astana-kongre-merkezi-komple-renovasyon-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,title,Tamamlanan Proje / Piramit Şantyesi Mekanik İşçilik,«Бейбітшілік және келісім сарайы» («Пирамида»)
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,heading,Piramit Şantiyesi Mekanik İşçilik,«Бейбітшілік және келісім сарайы» («Пирамида»)
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,card_name,,Бейбітшілік және келісім сарайы
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,fact.client,SEMBOL / ALTES,SEMBOL / ALTES
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,fact.area,28.721 m2,28 721 м²
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,fact.date,2006,2006
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,fact.scope,"HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME","Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"
+piramit-santiyesi-mekanik-iscilik-astana,project,/page/piramit-santiyesi-mekanik-iscilik-astana,/page/piramit-santiyesi-mekanik-iscilik-astana-kk,fact.budget,"$870.000,00","$870 000,00"
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,title,Tamamlanan Proje / Nazarbayev Üni. 1.Etap,"Назарбаев Университеті, 1-кезең"
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,heading,Nazarbayev Üniversitesi 1.Etap,"Назарбаев Университеті, 1-кезең"
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,card_name,,"Назарбаев Университеті, 1-кезең"
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,fact.client,SEMBOL,SEMBOL
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,fact.area,60.000 m2,60 000 м²
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,fact.date,2007,2007
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+nazarbayev-universitesi-1-etap,project,/page/nazarbayev-universitesi-1-etap,/page/nazarbayev-universitesi-1-etap-kk,fact.budget,"$850.000,00","$850 000,00"
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,title,Tamamlanan Proje / Cumhurbaşkanlığı Hastanesi,Президенттік аурухана
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,heading,Cumhurbaşkanlığı Hastanesi,Президенттік аурухана
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,card_name,,Президенттік аурухана
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,fact.client,GMT ENGINEERING,GMT ENGINEERING
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,fact.area,95.000 m2,95 000 м²
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,fact.date,2010,2010
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+cumhurbaskanligi-hastanesi,project,/page/cumhurbaskanligi-hastanesi,/page/cumhurbaskanligi-hastanesi-kk,fact.budget,"$4.850.000,00","$4 850 000,00"
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,title,Tamamlanan Proje / Akbozat Restoran,«Ақбозат» мейрамханасы
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,heading,Akbozat Restoran,«Ақбозат» мейрамханасы
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,card_name,,«Ақбозат» мейрамханасы
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,fact.location,Astana / Kazakistan,"Астана, Қазақстан"
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,fact.client,GMT ENGINEERING,GMT ENGINEERING
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,fact.area,3.500 m2,3 500 м²
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,fact.date,2010,2010
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,fact.scope,"ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME","Жылыту, салқындату, желдету, түтін шығару, ауа қысымын жасау, өрттен қорғау, сумен жабдықтау және су бұру; монтаж және материалдар"
+akbozat-restoran,project,/page/akbozat-restoran,/page/akbozat-restoran-kk,fact.budget,"$400.000,00","$400 000,00"
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,title,Tamamlanan Proje / Buğday Depoları,Бидай қоймалары
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,heading,Buğday Depoları,Бидай қоймалары
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,card_name,,Бидай қоймалары
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,fact.location,Öskemen,Өскемен
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,fact.client,SEMBOL İNŞAAT,SEMBOL İNŞAAT
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,fact.area,33.000 m2,33 000 м²
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,fact.date,2011,2011
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,fact.scope,HAVALANDIRMA MONTAJ+MALZEME,Желдету; монтаж және материалдар
+bugday-depolari,project,/page/bugday-depolari,/page/bugday-depolari-kk,fact.budget,"$550.000,00","$550 000,00"
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,title,Tamamlanan Proje / Astana Motors Bmw Otosalon,Astana Motors BMW автосалоны
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,heading,Astana Motors Bmw Otosalon,Astana Motors BMW автосалоны
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,card_name,,Astana Motors BMW автосалоны
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,fact.location,Astana,Астана
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,fact.client,ATASTROY,ATASTROY
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,fact.area,7.400 m2,7 400 м²
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,fact.date,2012,2012
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,fact.scope,"HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME","Желдету, түтін шығару, ауа қысымын жасау; монтаж және материалдар"
+astana-motors-bmw-otosalon,project,/page/astana-motors-bmw-otosalon,/page/astana-motors-bmw-otosalon-kk,fact.budget,"$600.000,00","$600 000,00"
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,title,Tamamlanan Proje / King Halid Havalimanı,Король Халид әуежайы
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,heading,King Halid Havalimanı,Король Халид әуежайы
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,card_name,,Король Халид әуежайы
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,fact.location,Riyad,Эр-Рияд
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,fact.client,TAV,TAV
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,fact.area,90.000 m2,90 000 м²
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,fact.date,2014,2014
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,fact.scope,HAVALANDIRMA MONTAJ+MALZEME,Желдету; монтаж және материалдар
+king-halid-havalimani,project,/page/king-halid-havalimani,/page/king-halid-havalimani-kk,fact.budget,"$1.500.000,00","$1 500 000,00"
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,title,Almata Hilton,"Hilton қонақүйі, Алматы"
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,heading,Almata Hilton,"Hilton қонақүйі, Алматы"
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,card_name,,"Hilton қонақүйі, Алматы"
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,fact.location,Almata/Kazakistan,"Алматы, Қазақстан"
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,fact.client,ARTEMIDA LTD.,ARTEMIDA LTD.
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,fact.area,40.000 m2,40 000 м²
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,fact.date,2025,2025
+almata-hilton,project,/page/almata-hilton,/page/almata-hilton-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,title,Tersane-İstanbul SPA Merkezi+Villa,Tersane İstanbul: SPA орталығы және вилла
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,heading,Tersane-İstanbul SPA Merkezi+Villa,Tersane İstanbul: SPA орталығы және вилла
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,card_name,,Tersane İstanbul: SPA орталығы және вилла
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,fact.location,İstanbul/Türkiye,"Стамбұл, Түркия"
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,fact.client,Sembol İnşaat,Sembol İnşaat
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,fact.area,24.000 m2,24 000 м²
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,fact.date,2024,2024
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,fact.scope,"Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj.","Жылыту, салқындату, желдету, өрттен қорғау, сумен жабдықтау және су бұру; материалдар және монтаж"
+tersane-istanbul-spa-merkezi-villa,project,/page/tersane-istanbul-spa-merkezi-villa,/page/tersane-istanbul-spa-merkezi-villa-kk,fact.budget,-,—
+_chrome,chrome,,,footer_about,"Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.","Жылыту мен салқындату, желдету және ауа баптау, өрттен қорғау, сумен жабдықтау және су бұру, ғимараттың механикалық жүйелерін автоматтандыру сияқты механикалық жүйелер бойынша техникалық-экономикалық негіздеме, кеңес беру, материалдар жеткізу, монтаждау, пайдалану және техникалық қызмет көрсету салаларында нормативтік талаптарға сәйкес, халықаралық стандарттар мен технологиялық жетістіктерді басшылыққа ала отырып, жоғары сапалы әрі тиімді қызмет көрсетеміз."

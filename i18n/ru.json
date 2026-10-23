@@ -1,0 +1,150 @@
+{
+  "_lang": {
+    "code": "ru",
+    "name": "Русский",
+    "locale": "ru_RU",
+    "legacy": "ru_ru",
+    "hreflang": "ru"
+  },
+  "site_name": "Metro Teknik",
+  "title_suffix": "Metro Teknik",
+  "skip": "Перейти к содержимому",
+  "nav": {
+    "label": "Основное меню",
+    "home": "Главная страница",
+    "company": "О компании",
+    "services": "Сфера деятельности",
+    "projects": "Наши проекты",
+    "ongoing": "Текущие проекты",
+    "completed": "Завершённые проекты",
+    "gallery": "Осуществлённые работы",
+    "contact": "Контакты",
+    "menu": "Меню",
+    "close": "Закрыть меню",
+    "open_submenu": "Подменю «{label}»",
+    "overview": "Обзор"
+  },
+  "lang": {
+    "label": "Язык",
+    "current": "Текущий язык: {name}",
+    "choose": "Выберите язык",
+    "missing": "Эта страница недоступна на языке «{name}»; откроется соответствующий раздел.",
+    "missing_short": "раздел"
+  },
+  "header": {
+    "phone": "Телефон",
+    "email": "E-mail",
+    "catalog": "Каталог PDF",
+    "contact_link": "Контакты"
+  },
+  "catalog": {
+    "download": "Скачать каталог",
+    "meta": "PDF · {size} · на турецком и русском языках",
+    "doc_lang_note": "Каталог подготовлен на турецком и русском языках."
+  },
+  "breadcrumb": {
+    "label": "Навигационная цепочка",
+    "home": "Главная страница"
+  },
+  "section_nav": {
+    "label": "В этом разделе",
+    "toggle": "Страницы раздела"
+  },
+  "home": {
+    "eyebrow": "METRO TEKNİK",
+    "hero_title": "Системы кондиционирования и инженерные сети",
+    "hero_lead": "Проектирование и подрядные работы: отопление, охлаждение, вентиляция, пожарные системы, водоснабжение и канализация.",
+    "cta_projects": "Наши проекты",
+    "cta_services": "Сфера деятельности",
+    "services_title": "Сфера деятельности",
+    "services_lead": "Поставка, монтаж, диагностика и ввод в эксплуатацию инженерных систем.",
+    "about_title": "О компании",
+    "projects_title": "Наши проекты",
+    "projects_lead": "Избранные текущие и завершённые проекты.",
+    "all_ongoing": "Текущие проекты",
+    "all_completed": "Завершённые проекты",
+    "contact_cta": "Связаться с нами"
+  },
+  "common": {
+    "read_more": "Подробнее",
+    "view_project": "Посмотреть проект",
+    "view_service": "Подробнее",
+    "back_to_list": "Вернуться к списку проектов",
+    "other_services": "Другие направления",
+    "related_projects": "Другие проекты",
+    "opens_new_tab": "(откроется в новой вкладке)",
+    "external": "внешняя ссылка"
+  },
+  "status": {
+    "ongoing": "В работе",
+    "completed": "Завершён"
+  },
+  "projects": {
+    "tabs_label": "Статус проекта",
+    "count": "Проектов: {n}",
+    "earlier_title": "Ранее завершённые проекты",
+    "earlier_lead": "Предыдущие проекты, на которых мы выполняли монтажные работы и поставку материалов.",
+    "facts_title": "Сведения о проекте",
+    "gallery_title": "Фотографии проекта",
+    "empty": "В этой категории пока нет проектов."
+  },
+  "facts": {
+    "location": "Место",
+    "client": "Заказчик",
+    "area": "Закрытая строительная площадь",
+    "date": "Дата",
+    "scope": "Объём работ",
+    "budget": "Стоимость проекта",
+    "note": "Примечание"
+  },
+  "gallery": {
+    "title": "Фотогалерея",
+    "count": "Фотографий: {n}",
+    "open": "Увеличить фото {n} из {total}",
+    "dialog": "Просмотр фотографий",
+    "prev": "Предыдущее фото",
+    "next": "Следующее фото",
+    "close": "Закрыть",
+    "position": "{n} / {total}",
+    "certificates_title": "Сертификаты о завершении работ",
+    "certificate_alt": "Сертификат о завершении работ {n}",
+    "photo_alt": "{name} — фото {n}"
+  },
+  "contact": {
+    "offices_title": "Наши офисы",
+    "address": "Адрес",
+    "phone": "Телефон",
+    "fax": "Факс",
+    "email": "E-mail",
+    "map_title": "{office} на карте — Google Карты",
+    "map_open": "Открыть в Google Картах",
+    "general_title": "Общие контакты",
+    "catalog_title": "Каталог компании"
+  },
+  "footer": {
+    "about": "О нас",
+    "pages": "Разделы",
+    "contact": "Контакты",
+    "follow": "Мы в соцсетях",
+    "catalog": "Каталог PDF",
+    "rights": "Metro-Teknik © {year} All Rights Reserved.",
+    "attribution": "Ayaner Bilişim Teknolojileri"
+  },
+  "social": {
+    "facebook": "Metro Teknik в Facebook",
+    "instagram": "Metro Teknik в Instagram"
+  },
+  "notfound": {
+    "title": "Страница не найдена",
+    "text": "Возможно, страница была перемещена или удалена.",
+    "home": "Вернуться на главную"
+  },
+  "meta": {
+    "project": "{name} — {location}. Объём работ: {scope}.",
+    "list_ongoing": "Текущие проекты Metro Teknik по инженерным сетям и системам кондиционирования.",
+    "list_completed": "Завершённые проекты Metro Teknik по инженерным сетям и системам кондиционирования.",
+    "gallery": "Осуществлённые работы Metro Teknik: фотографии монтажа инженерных сетей и систем вентиляции.",
+    "contact": "Адреса, телефоны и e-mail офисов Metro Teknik в Стамбуле и Адане.",
+    "certificates": "Сертификаты Metro Teknik о завершении работ."
+  }
+}

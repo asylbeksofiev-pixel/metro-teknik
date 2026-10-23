@@ -1,0 +1,1088 @@
+{
+ "pages": {
+  "home": {
+   "tr": "/",
+   "en": "/page/main-page",
+   "ru": "/page/ana-sayfa-ru",
+   "kk": "/page/ana-sayfa-kk"
+  },
+  "iletisim": {
+   "tr": "/page/iletisim",
+   "en": "/page/contact",
+   "ru": "/page/iletisim-ru",
+   "kk": "/page/iletisim-kk"
+  },
+  "kurumsal": {
+   "tr": "/page/kurumsal",
+   "en": "/page/corporate",
+   "ru": "/page/kurumsal-ru",
+   "kk": "/page/kurumsal-kk"
+  },
+  "havalandirma-sistemleri": {
+   "tr": "/page/havalandirma-sistemleri",
+   "en": "/page/ventilation-systems",
+   "ru": "/page/havalandirma-sistemleri-ru",
+   "kk": "/page/havalandirma-sistemleri-kk"
+  },
+  "forum-avm-santiyesi-almata": {
+   "tr": "/page/forum-avm-santiyesi-almata",
+   "en": "/page/forum-avm-santiyesi-almata-en",
+   "ru": "/page/forum-avm-santiyesi-almata-ru",
+   "kk": "/page/forum-avm-santiyesi-almata-kk"
+  },
+  "tienshan-konutlari-astana": {
+   "tr": "/page/tienshan-konutlari-astana",
+   "en": "/page/tienshan-konutlari-astana-en",
+   "ru": "/page/tienshan-konutlari-astana-ru",
+   "kk": "/page/tienshan-konutlari-astana-kk"
+  },
+  "uygulama-ornekleri": {
+   "tr": "/page/uygulama-ornekleri",
+   "en": "/page/application-examples",
+   "ru": "/page/uygulama-ornekleri-ru",
+   "kk": "/page/uygulama-ornekleri-kk"
+  },
+  "expo-2017-kongre-merkezi-astana": {
+   "tr": "/page/expo-2017-kongre-merkezi-astana",
+   "en": "/page/expo-2017-kongre-merkezi-astana-en",
+   "ru": "/page/expo-2017-kongre-merkezi-astana-ru",
+   "kk": "/page/expo-2017-kongre-merkezi-astana-kk"
+  },
+  "vizyon": {
+   "tr": "/page/vizyon",
+   "en": "/page/vision",
+   "ru": "/page/vizyon-ru",
+   "kk": "/page/vizyon-kk"
+  },
+  "misyon": {
+   "tr": "/page/misyon",
+   "en": "/page/mission",
+   "ru": "/page/misyon-ru",
+   "kk": "/page/misyon-kk"
+  },
+  "baskanin-mesaji": {
+   "tr": "/page/baskanin-mesaji",
+   "en": "/page/president-s-message",
+   "ru": "/page/baskanin-mesaji-ru",
+   "kk": "/page/baskanin-mesaji-kk"
+  },
+  "kalite-ve-cevre-politikamiz": {
+   "tr": "/page/kalite-ve-cevre-politikamiz",
+   "en": "/page/our-quality-and-environment-policy",
+   "ru": "/page/kalite-ve-cevre-politikamiz-ru",
+   "kk": "/page/kalite-ve-cevre-politikamiz-kk"
+  },
+  "is-bitirme-belgelerimiz": {
+   "tr": "/page/is-bitirme-belgelerimiz",
+   "en": "/page/our-certificates-of-completion",
+   "ru": "/page/is-bitirme-belgelerimiz-ru",
+   "kk": "/page/is-bitirme-belgelerimiz-kk"
+  },
+  "isitma-sogutma": {
+   "tr": "/page/isitma-sogutma",
+   "en": "/page/heating-and-cooling",
+   "ru": "/page/isitma-sogutma-ru",
+   "kk": "/page/isitma-sogutma-kk"
+  },
+  "sihhi-tesisat": {
+   "tr": "/page/sihhi-tesisat",
+   "en": "/page/plumbing",
+   "ru": "/page/sihhi-tesisat-ru",
+   "kk": "/page/sihhi-tesisat-kk"
+  },
+  "yangin": {
+   "tr": "/page/yangin",
+   "en": "/page/fire",
+   "ru": "/page/yangin-ru",
+   "kk": "/page/yangin-kk"
+  },
+  "mekanik-otomasyon": {
+   "tr": "/page/mekanik-otomasyon",
+   "en": "/page/mechanical-automation",
+   "ru": "/page/mekanik-otomasyon-ru",
+   "kk": "/page/mekanik-otomasyon-kk"
+  },
+  "mega-2-alisveris-merkezi-almaata": {
+   "tr": "/page/mega-2-alisveris-merkezi-almaata",
+   "en": "/page/mega-2-alisveris-merkezi-almaata-en",
+   "ru": "/page/mega-2-alisveris-merkezi-almaata-ru",
+   "kk": "/page/mega-2-alisveris-merkezi-almaata-kk"
+  },
+  "kutuphane-binasi-astana": {
+   "tr": "/page/kutuphane-binasi-astana",
+   "en": "/page/kutuphane-binasi-astana-en",
+   "ru": "/page/kutuphane-binasi-astana-ru",
+   "kk": "/page/kutuphane-binasi-astana-kk"
+  },
+  "mega-3-alisveris-merkezi-almaata": {
+   "tr": "/page/mega-3-alisveris-merkezi-almaata",
+   "en": "/page/mega-3-alisveris-merkezi-almaata-en",
+   "ru": "/page/mega-3-alisveris-merkezi-almaata-ru",
+   "kk": "/page/mega-3-alisveris-merkezi-almaata-kk"
+  },
+  "akademi-a6-blok-astana": {
+   "tr": "/page/akademi-a6-blok-astana",
+   "kk": "/page/akademi-a6-blok-astana-kk"
+  },
+  "akademi-a11-blok-astana": {
+   "tr": "/page/akademi-a11-blok-astana",
+   "kk": "/page/akademi-a11-blok-astana-kk"
+  },
+  "rixos-otel-borovoe": {
+   "tr": "/page/rixos-otel-borovoe",
+   "en": "/page/rixos-otel-borovoe-en",
+   "ru": "/page/rixos-otel-borovoe-ru",
+   "kk": "/page/rixos-otel-borovoe-kk"
+  },
+  "han-cadir-mekanik-iscilik-astana": {
+   "tr": "/page/han-cadir-mekanik-iscilik-astana",
+   "ru": "/page/han-cadir-mekanik-iscilik-astana-ru",
+   "kk": "/page/han-cadir-mekanik-iscilik-astana-kk"
+  },
+  "stadyum-mekanik-iscilik-astana": {
+   "tr": "/page/stadyum-mekanik-iscilik-astana",
+   "ru": "/page/stadyum-mekanik-iscilik-astana-ru",
+   "kk": "/page/stadyum-mekanik-iscilik-astana-kk"
+  },
+  "cocuk-hastanesi-mekanik-iscilik-astana": {
+   "tr": "/page/cocuk-hastanesi-mekanik-iscilik-astana",
+   "ru": "/page/cocuk-hastanesi-mekanik-iscilik-astana-ru",
+   "kk": "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk"
+  },
+  "sariarka-alisveris-merkezi-astana": {
+   "tr": "/page/sariarka-alisveris-merkezi-astana",
+   "ru": "/page/sariarka-alisveris-merkezi-astana-ru",
+   "kk": "/page/sariarka-alisveris-merkezi-astana-kk"
+  },
+  "noroloji-hastanesi-mekanik-iscilik-astana": {
+   "tr": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+   "ru": "/page/noroloji-hastanesi-mekanik-iscilik-astana-ru",
+   "kk": "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk"
+  },
+  "metro-teknik-devam-eden-projeler": {
+   "tr": "/page/metro-teknik-devam-eden-projeler",
+   "en": "/page/metro-teknik-ongoing-projects",
+   "ru": "/page/metro-teknik-devam-eden-projeler-ru",
+   "kk": "/page/metro-teknik-devam-eden-projeler-kk"
+  },
+  "metro-teknik-biten-projeleri": {
+   "tr": "/page/metro-teknik-biten-projeleri",
+   "en": "/page/metro-teknik-completed-projects",
+   "ru": "/page/metro-teknik-biten-projeleri-ru",
+   "kk": "/page/metro-teknik-biten-projeleri-kk"
+  },
+  "kokshetau-hospital": {
+   "tr": "/page/kokshetau-hospital",
+   "en": "/page/kokshetau-hospital-en",
+   "ru": "/page/kokshetau-hospital-ru",
+   "kk": "/page/kokshetau-hospital-kk"
+  },
+  "turkistan-sehir-hastanesi": {
+   "tr": "/page/turkistan-sehir-hastanesi",
+   "kk": "/page/turkistan-sehir-hastanesi-kk"
+  },
+  "karaganda-lastik-fabrikasi": {
+   "tr": "/page/karaganda-lastik-fabrikasi",
+   "en": "/page/karaganda-lastik-fabrikasi-en",
+   "ru": "/page/karaganda-lastik-fabrikasi-ru",
+   "kk": "/page/karaganda-lastik-fabrikasi-kk"
+  },
+  "kervansaray": {
+   "tr": "/page/kervansaray",
+   "en": "/page/kervansaray-en",
+   "ru": "/page/kervansaray-ru",
+   "kk": "/page/kervansaray-kk"
+  },
+  "tema-park": {
+   "tr": "/page/tema-park",
+   "en": "/page/tema-park-en",
+   "ru": "/page/tema-park-ru",
+   "kk": "/page/tema-park-kk"
+  },
+  "town-center": {
+   "tr": "/page/town-center",
+   "en": "/page/town-center-en",
+   "ru": "/page/town-center-ru",
+   "kk": "/page/town-center-kk"
+  },
+  "aktau-resort-hotel": {
+   "tr": "/page/aktau-resort-hotel",
+   "en": "/page/aktau-resort-hotel-en",
+   "ru": "/page/aktau-resort-hotel-ru",
+   "kk": "/page/aktau-resort-hotel-kk"
+  },
+  "nazarbayev-merkezi-idari-binasi": {
+   "tr": "/page/nazarbayev-merkezi-idari-binasi",
+   "en": "/page/nazarbayev-merkezi-idari-binasi-en",
+   "ru": "/page/nazarbayev-merkezi-idari-binasi-ru",
+   "kk": "/page/nazarbayev-merkezi-idari-binasi-kk"
+  },
+  "nazarbayev-universitesi": {
+   "tr": "/page/nazarbayev-universitesi",
+   "en": "/page/nazarbayev-universitesi-en",
+   "ru": "/page/nazarbayev-universitesi-ru",
+   "kk": "/page/nazarbayev-universitesi-kk"
+  },
+  "kizilorda-korkut-ata-havalimani-terminal-binasi": {
+   "tr": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "en": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-en",
+   "ru": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-ru",
+   "kk": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk"
+  },
+  "akademi-a6-a11-blok-astana": {
+   "tr": "/page/akademi-a6-a11-blok-astana",
+   "en": "/page/akademi-a6-a11-blok-astana-en",
+   "ru": "/page/akademi-a6-a11-blok-astana-ru",
+   "kk": "/page/akademi-a6-a11-blok-astana-kk"
+  },
+  "astana-kongre-merkezi-komple-renovasyon": {
+   "tr": "/page/astana-kongre-merkezi-komple-renovasyon",
+   "en": "/page/astana-kongre-merkezi-komple-renovasyon-en",
+   "ru": "/page/astana-kongre-merkezi-komple-renovasyon-ru",
+   "kk": "/page/astana-kongre-merkezi-komple-renovasyon-kk"
+  },
+  "piramit-santiyesi-mekanik-iscilik-astana": {
+   "tr": "/page/piramit-santiyesi-mekanik-iscilik-astana",
+   "ru": "/page/primat-santiyesi-mekanik-iscilik-astana-ru",
+   "kk": "/page/piramit-santiyesi-mekanik-iscilik-astana-kk"
+  },
+  "nazarbayev-universitesi-1-etap": {
+   "tr": "/page/nazarbayev-universitesi-1-etap",
+   "ru": "/page/nazarbayev-universitesi-1-etap-ru",
+   "kk": "/page/nazarbayev-universitesi-1-etap-kk"
+  },
+  "cumhurbaskanligi-hastanesi": {
+   "tr": "/page/cumhurbaskanligi-hastanesi",
+   "ru": "/page/cumhurbaskanligi-hastanesi-ru",
+   "kk": "/page/cumhurbaskanligi-hastanesi-kk"
+  },
+  "akbozat-restoran": {
+   "tr": "/page/akbozat-restoran",
+   "ru": "/page/akbozat-restoran-ru",
+   "kk": "/page/akbozat-restoran-kk"
+  },
+  "bugday-depolari": {
+   "tr": "/page/bugday-depolari",
+   "ru": "/page/bugday-depolari-ru",
+   "kk": "/page/bugday-depolari-kk"
+  },
+  "astana-motors-bmw-otosalon": {
+   "tr": "/page/astana-motors-bmw-otosalon",
+   "ru": "/page/astana-motors-bmw-otosalon-ru",
+   "kk": "/page/astana-motors-bmw-otosalon-kk"
+  },
+  "king-halid-havalimani": {
+   "tr": "/page/king-halid-havalimani",
+   "ru": "/page/king-halid-havalimani-ru",
+   "kk": "/page/king-halid-havalimani-kk"
+  },
+  "almata-hilton": {
+   "tr": "/page/almata-hilton",
+   "en": "/page/almata-hilton-en",
+   "ru": "/page/almata-hilton-ru",
+   "kk": "/page/almata-hilton-kk"
+  },
+  "tersane-istanbul-spa-merkezi-villa": {
+   "tr": "/page/tersane-istanbul-spa-merkezi-villa",
+   "kk": "/page/tersane-istanbul-spa-merkezi-villa-kk"
+  }
+ },
+ "url_index": {
+  "/": [
+   "home",
+   "tr"
+  ],
+  "/page/iletisim": [
+   "iletisim",
+   "tr"
+  ],
+  "/page/kurumsal": [
+   "kurumsal",
+   "tr"
+  ],
+  "/page/havalandirma-sistemleri": [
+   "havalandirma-sistemleri",
+   "tr"
+  ],
+  "/page/forum-avm-santiyesi-almata": [
+   "forum-avm-santiyesi-almata",
+   "tr"
+  ],
+  "/page/tienshan-konutlari-astana": [
+   "tienshan-konutlari-astana",
+   "tr"
+  ],
+  "/page/uygulama-ornekleri": [
+   "uygulama-ornekleri",
+   "tr"
+  ],
+  "/page/expo-2017-kongre-merkezi-astana": [
+   "expo-2017-kongre-merkezi-astana",
+   "tr"
+  ],
+  "/page/vizyon": [
+   "vizyon",
+   "tr"
+  ],
+  "/page/misyon": [
+   "misyon",
+   "tr"
+  ],
+  "/page/baskanin-mesaji": [
+   "baskanin-mesaji",
+   "tr"
+  ],
+  "/page/kalite-ve-cevre-politikamiz": [
+   "kalite-ve-cevre-politikamiz",
+   "tr"
+  ],
+  "/page/is-bitirme-belgelerimiz": [
+   "is-bitirme-belgelerimiz",
+   "tr"
+  ],
+  "/page/isitma-sogutma": [
+   "isitma-sogutma",
+   "tr"
+  ],
+  "/page/sihhi-tesisat": [
+   "sihhi-tesisat",
+   "tr"
+  ],
+  "/page/yangin": [
+   "yangin",
+   "tr"
+  ],
+  "/page/mekanik-otomasyon": [
+   "mekanik-otomasyon",
+   "tr"
+  ],
+  "/page/mega-2-alisveris-merkezi-almaata": [
+   "mega-2-alisveris-merkezi-almaata",
+   "tr"
+  ],
+  "/page/kutuphane-binasi-astana": [
+   "kutuphane-binasi-astana",
+   "tr"
+  ],
+  "/page/mega-3-alisveris-merkezi-almaata": [
+   "mega-3-alisveris-merkezi-almaata",
+   "tr"
+  ],
+  "/page/akademi-a6-blok-astana": [
+   "akademi-a6-blok-astana",
+   "tr"
+  ],
+  "/page/akademi-a11-blok-astana": [
+   "akademi-a11-blok-astana",
+   "tr"
+  ],
+  "/page/rixos-otel-borovoe": [
+   "rixos-otel-borovoe",
+   "tr"
+  ],
+  "/page/han-cadir-mekanik-iscilik-astana": [
+   "han-cadir-mekanik-iscilik-astana",
+   "tr"
+  ],
+  "/page/stadyum-mekanik-iscilik-astana": [
+   "stadyum-mekanik-iscilik-astana",
+   "tr"
+  ],
+  "/page/cocuk-hastanesi-mekanik-iscilik-astana": [
+   "cocuk-hastanesi-mekanik-iscilik-astana",
+   "tr"
+  ],
+  "/page/sariarka-alisveris-merkezi-astana": [
+   "sariarka-alisveris-merkezi-astana",
+   "tr"
+  ],
+  "/page/noroloji-hastanesi-mekanik-iscilik-astana": [
+   "noroloji-hastanesi-mekanik-iscilik-astana",
+   "tr"
+  ],
+  "/page/metro-teknik-devam-eden-projeler": [
+   "metro-teknik-devam-eden-projeler",
+   "tr"
+  ],
+  "/page/metro-teknik-biten-projeleri": [
+   "metro-teknik-biten-projeleri",
+   "tr"
+  ],
+  "/page/kokshetau-hospital": [
+   "kokshetau-hospital",
+   "tr"
+  ],
+  "/page/turkistan-sehir-hastanesi": [
+   "turkistan-sehir-hastanesi",
+   "tr"
+  ],
+  "/page/karaganda-lastik-fabrikasi": [
+   "karaganda-lastik-fabrikasi",
+   "tr"
+  ],
+  "/page/kervansaray": [
+   "kervansaray",
+   "tr"
+  ],
+  "/page/tema-park": [
+   "tema-park",
+   "tr"
+  ],
+  "/page/town-center": [
+   "town-center",
+   "tr"
+  ],
+  "/page/aktau-resort-hotel": [
+   "aktau-resort-hotel",
+   "tr"
+  ],
+  "/page/nazarbayev-merkezi-idari-binasi": [
+   "nazarbayev-merkezi-idari-binasi",
+   "tr"
+  ],
+  "/page/nazarbayev-universitesi": [
+   "nazarbayev-universitesi",
+   "tr"
+  ],
+  "/page/kizilorda-korkut-ata-havalimani-terminal-binasi": [
+   "kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "tr"
+  ],
+  "/page/akademi-a6-a11-blok-astana": [
+   "akademi-a6-a11-blok-astana",
+   "tr"
+  ],
+  "/page/astana-kongre-merkezi-komple-renovasyon": [
+   "astana-kongre-merkezi-komple-renovasyon",
+   "tr"
+  ],
+  "/page/piramit-santiyesi-mekanik-iscilik-astana": [
+   "piramit-santiyesi-mekanik-iscilik-astana",
+   "tr"
+  ],
+  "/page/nazarbayev-universitesi-1-etap": [
+   "nazarbayev-universitesi-1-etap",
+   "tr"
+  ],
+  "/page/cumhurbaskanligi-hastanesi": [
+   "cumhurbaskanligi-hastanesi",
+   "tr"
+  ],
+  "/page/akbozat-restoran": [
+   "akbozat-restoran",
+   "tr"
+  ],
+  "/page/bugday-depolari": [
+   "bugday-depolari",
+   "tr"
+  ],
+  "/page/astana-motors-bmw-otosalon": [
+   "astana-motors-bmw-otosalon",
+   "tr"
+  ],
+  "/page/king-halid-havalimani": [
+   "king-halid-havalimani",
+   "tr"
+  ],
+  "/page/almata-hilton": [
+   "almata-hilton",
+   "tr"
+  ],
+  "/page/tersane-istanbul-spa-merkezi-villa": [
+   "tersane-istanbul-spa-merkezi-villa",
+   "tr"
+  ],
+  "/page/main-page": [
+   "home",
+   "en"
+  ],
+  "/page/contact": [
+   "iletisim",
+   "en"
+  ],
+  "/page/corporate": [
+   "kurumsal",
+   "en"
+  ],
+  "/page/ventilation-systems": [
+   "havalandirma-sistemleri",
+   "en"
+  ],
+  "/page/forum-avm-santiyesi-almata-en": [
+   "forum-avm-santiyesi-almata",
+   "en"
+  ],
+  "/page/tienshan-konutlari-astana-en": [
+   "tienshan-konutlari-astana",
+   "en"
+  ],
+  "/page/application-examples": [
+   "uygulama-ornekleri",
+   "en"
+  ],
+  "/page/expo-2017-kongre-merkezi-astana-en": [
+   "expo-2017-kongre-merkezi-astana",
+   "en"
+  ],
+  "/page/vision": [
+   "vizyon",
+   "en"
+  ],
+  "/page/mission": [
+   "misyon",
+   "en"
+  ],
+  "/page/president-s-message": [
+   "baskanin-mesaji",
+   "en"
+  ],
+  "/page/our-quality-and-environment-policy": [
+   "kalite-ve-cevre-politikamiz",
+   "en"
+  ],
+  "/page/our-certificates-of-completion": [
+   "is-bitirme-belgelerimiz",
+   "en"
+  ],
+  "/page/heating-and-cooling": [
+   "isitma-sogutma",
+   "en"
+  ],
+  "/page/plumbing": [
+   "sihhi-tesisat",
+   "en"
+  ],
+  "/page/fire": [
+   "yangin",
+   "en"
+  ],
+  "/page/mechanical-automation": [
+   "mekanik-otomasyon",
+   "en"
+  ],
+  "/page/mega-2-alisveris-merkezi-almaata-en": [
+   "mega-2-alisveris-merkezi-almaata",
+   "en"
+  ],
+  "/page/kutuphane-binasi-astana-en": [
+   "kutuphane-binasi-astana",
+   "en"
+  ],
+  "/page/mega-3-alisveris-merkezi-almaata-en": [
+   "mega-3-alisveris-merkezi-almaata",
+   "en"
+  ],
+  "/page/rixos-otel-borovoe-en": [
+   "rixos-otel-borovoe",
+   "en"
+  ],
+  "/page/metro-teknik-ongoing-projects": [
+   "metro-teknik-devam-eden-projeler",
+   "en"
+  ],
+  "/page/metro-teknik-completed-projects": [
+   "metro-teknik-biten-projeleri",
+   "en"
+  ],
+  "/page/kokshetau-hospital-en": [
+   "kokshetau-hospital",
+   "en"
+  ],
+  "/page/karaganda-lastik-fabrikasi-en": [
+   "karaganda-lastik-fabrikasi",
+   "en"
+  ],
+  "/page/kervansaray-en": [
+   "kervansaray",
+   "en"
+  ],
+  "/page/tema-park-en": [
+   "tema-park",
+   "en"
+  ],
+  "/page/town-center-en": [
+   "town-center",
+   "en"
+  ],
+  "/page/aktau-resort-hotel-en": [
+   "aktau-resort-hotel",
+   "en"
+  ],
+  "/page/nazarbayev-merkezi-idari-binasi-en": [
+   "nazarbayev-merkezi-idari-binasi",
+   "en"
+  ],
+  "/page/nazarbayev-universitesi-en": [
+   "nazarbayev-universitesi",
+   "en"
+  ],
+  "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-en": [
+   "kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "en"
+  ],
+  "/page/akademi-a6-a11-blok-astana-en": [
+   "akademi-a6-a11-blok-astana",
+   "en"
+  ],
+  "/page/astana-kongre-merkezi-komple-renovasyon-en": [
+   "astana-kongre-merkezi-komple-renovasyon",
+   "en"
+  ],
+  "/page/almata-hilton-en": [
+   "almata-hilton",
+   "en"
+  ],
+  "/page/ana-sayfa-ru": [
+   "home",
+   "ru"
+  ],
+  "/page/iletisim-ru": [
+   "iletisim",
+   "ru"
+  ],
+  "/page/kurumsal-ru": [
+   "kurumsal",
+   "ru"
+  ],
+  "/page/havalandirma-sistemleri-ru": [
+   "havalandirma-sistemleri",
+   "ru"
+  ],
+  "/page/forum-avm-santiyesi-almata-ru": [
+   "forum-avm-santiyesi-almata",
+   "ru"
+  ],
+  "/page/tienshan-konutlari-astana-ru": [
+   "tienshan-konutlari-astana",
+   "ru"
+  ],
+  "/page/uygulama-ornekleri-ru": [
+   "uygulama-ornekleri",
+   "ru"
+  ],
+  "/page/expo-2017-kongre-merkezi-astana-ru": [
+   "expo-2017-kongre-merkezi-astana",
+   "ru"
+  ],
+  "/page/vizyon-ru": [
+   "vizyon",
+   "ru"
+  ],
+  "/page/misyon-ru": [
+   "misyon",
+   "ru"
+  ],
+  "/page/baskanin-mesaji-ru": [
+   "baskanin-mesaji",
+   "ru"
+  ],
+  "/page/kalite-ve-cevre-politikamiz-ru": [
+   "kalite-ve-cevre-politikamiz",
+   "ru"
+  ],
+  "/page/is-bitirme-belgelerimiz-ru": [
+   "is-bitirme-belgelerimiz",
+   "ru"
+  ],
+  "/page/isitma-sogutma-ru": [
+   "isitma-sogutma",
+   "ru"
+  ],
+  "/page/sihhi-tesisat-ru": [
+   "sihhi-tesisat",
+   "ru"
+  ],
+  "/page/yangin-ru": [
+   "yangin",
+   "ru"
+  ],
+  "/page/mekanik-otomasyon-ru": [
+   "mekanik-otomasyon",
+   "ru"
+  ],
+  "/page/mega-2-alisveris-merkezi-almaata-ru": [
+   "mega-2-alisveris-merkezi-almaata",
+   "ru"
+  ],
+  "/page/kutuphane-binasi-astana-ru": [
+   "kutuphane-binasi-astana",
+   "ru"
+  ],
+  "/page/mega-3-alisveris-merkezi-almaata-ru": [
+   "mega-3-alisveris-merkezi-almaata",
+   "ru"
+  ],
+  "/page/rixos-otel-borovoe-ru": [
+   "rixos-otel-borovoe",
+   "ru"
+  ],
+  "/page/han-cadir-mekanik-iscilik-astana-ru": [
+   "han-cadir-mekanik-iscilik-astana",
+   "ru"
+  ],
+  "/page/stadyum-mekanik-iscilik-astana-ru": [
+   "stadyum-mekanik-iscilik-astana",
+   "ru"
+  ],
+  "/page/cocuk-hastanesi-mekanik-iscilik-astana-ru": [
+   "cocuk-hastanesi-mekanik-iscilik-astana",
+   "ru"
+  ],
+  "/page/sariarka-alisveris-merkezi-astana-ru": [
+   "sariarka-alisveris-merkezi-astana",
+   "ru"
+  ],
+  "/page/noroloji-hastanesi-mekanik-iscilik-astana-ru": [
+   "noroloji-hastanesi-mekanik-iscilik-astana",
+   "ru"
+  ],
+  "/page/metro-teknik-devam-eden-projeler-ru": [
+   "metro-teknik-devam-eden-projeler",
+   "ru"
+  ],
+  "/page/metro-teknik-biten-projeleri-ru": [
+   "metro-teknik-biten-projeleri",
+   "ru"
+  ],
+  "/page/kokshetau-hospital-ru": [
+   "kokshetau-hospital",
+   "ru"
+  ],
+  "/page/karaganda-lastik-fabrikasi-ru": [
+   "karaganda-lastik-fabrikasi",
+   "ru"
+  ],
+  "/page/kervansaray-ru": [
+   "kervansaray",
+   "ru"
+  ],
+  "/page/tema-park-ru": [
+   "tema-park",
+   "ru"
+  ],
+  "/page/town-center-ru": [
+   "town-center",
+   "ru"
+  ],
+  "/page/aktau-resort-hotel-ru": [
+   "aktau-resort-hotel",
+   "ru"
+  ],
+  "/page/nazarbayev-merkezi-idari-binasi-ru": [
+   "nazarbayev-merkezi-idari-binasi",
+   "ru"
+  ],
+  "/page/nazarbayev-universitesi-ru": [
+   "nazarbayev-universitesi",
+   "ru"
+  ],
+  "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-ru": [
+   "kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "ru"
+  ],
+  "/page/akademi-a6-a11-blok-astana-ru": [
+   "akademi-a6-a11-blok-astana",
+   "ru"
+  ],
+  "/page/astana-kongre-merkezi-komple-renovasyon-ru": [
+   "astana-kongre-merkezi-komple-renovasyon",
+   "ru"
+  ],
+  "/page/primat-santiyesi-mekanik-iscilik-astana-ru": [
+   "piramit-santiyesi-mekanik-iscilik-astana",
+   "ru"
+  ],
+  "/page/nazarbayev-universitesi-1-etap-ru": [
+   "nazarbayev-universitesi-1-etap",
+   "ru"
+  ],
+  "/page/cumhurbaskanligi-hastanesi-ru": [
+   "cumhurbaskanligi-hastanesi",
+   "ru"
+  ],
+  "/page/akbozat-restoran-ru": [
+   "akbozat-restoran",
+   "ru"
+  ],
+  "/page/bugday-depolari-ru": [
+   "bugday-depolari",
+   "ru"
+  ],
+  "/page/astana-motors-bmw-otosalon-ru": [
+   "astana-motors-bmw-otosalon",
+   "ru"
+  ],
+  "/page/king-halid-havalimani-ru": [
+   "king-halid-havalimani",
+   "ru"
+  ],
+  "/page/almata-hilton-ru": [
+   "almata-hilton",
+   "ru"
+  ],
+  "/page/ana-sayfa-kk": [
+   "home",
+   "kk"
+  ],
+  "/page/iletisim-kk": [
+   "iletisim",
+   "kk"
+  ],
+  "/page/kurumsal-kk": [
+   "kurumsal",
+   "kk"
+  ],
+  "/page/havalandirma-sistemleri-kk": [
+   "havalandirma-sistemleri",
+   "kk"
+  ],
+  "/page/forum-avm-santiyesi-almata-kk": [
+   "forum-avm-santiyesi-almata",
+   "kk"
+  ],
+  "/page/tienshan-konutlari-astana-kk": [
+   "tienshan-konutlari-astana",
+   "kk"
+  ],
+  "/page/uygulama-ornekleri-kk": [
+   "uygulama-ornekleri",
+   "kk"
+  ],
+  "/page/expo-2017-kongre-merkezi-astana-kk": [
+   "expo-2017-kongre-merkezi-astana",
+   "kk"
+  ],
+  "/page/vizyon-kk": [
+   "vizyon",
+   "kk"
+  ],
+  "/page/misyon-kk": [
+   "misyon",
+   "kk"
+  ],
+  "/page/baskanin-mesaji-kk": [
+   "baskanin-mesaji",
+   "kk"
+  ],
+  "/page/kalite-ve-cevre-politikamiz-kk": [
+   "kalite-ve-cevre-politikamiz",
+   "kk"
+  ],
+  "/page/is-bitirme-belgelerimiz-kk": [
+   "is-bitirme-belgelerimiz",
+   "kk"
+  ],
+  "/page/isitma-sogutma-kk": [
+   "isitma-sogutma",
+   "kk"
+  ],
+  "/page/sihhi-tesisat-kk": [
+   "sihhi-tesisat",
+   "kk"
+  ],
+  "/page/yangin-kk": [
+   "yangin",
+   "kk"
+  ],
+  "/page/mekanik-otomasyon-kk": [
+   "mekanik-otomasyon",
+   "kk"
+  ],
+  "/page/mega-2-alisveris-merkezi-almaata-kk": [
+   "mega-2-alisveris-merkezi-almaata",
+   "kk"
+  ],
+  "/page/kutuphane-binasi-astana-kk": [
+   "kutuphane-binasi-astana",
+   "kk"
+  ],
+  "/page/mega-3-alisveris-merkezi-almaata-kk": [
+   "mega-3-alisveris-merkezi-almaata",
+   "kk"
+  ],
+  "/page/akademi-a6-blok-astana-kk": [
+   "akademi-a6-blok-astana",
+   "kk"
+  ],
+  "/page/akademi-a11-blok-astana-kk": [
+   "akademi-a11-blok-astana",
+   "kk"
+  ],
+  "/page/rixos-otel-borovoe-kk": [
+   "rixos-otel-borovoe",
+   "kk"
+  ],
+  "/page/han-cadir-mekanik-iscilik-astana-kk": [
+   "han-cadir-mekanik-iscilik-astana",
+   "kk"
+  ],
+  "/page/stadyum-mekanik-iscilik-astana-kk": [
+   "stadyum-mekanik-iscilik-astana",
+   "kk"
+  ],
+  "/page/cocuk-hastanesi-mekanik-iscilik-astana-kk": [
+   "cocuk-hastanesi-mekanik-iscilik-astana",
+   "kk"
+  ],
+  "/page/sariarka-alisveris-merkezi-astana-kk": [
+   "sariarka-alisveris-merkezi-astana",
+   "kk"
+  ],
+  "/page/noroloji-hastanesi-mekanik-iscilik-astana-kk": [
+   "noroloji-hastanesi-mekanik-iscilik-astana",
+   "kk"
+  ],
+  "/page/metro-teknik-devam-eden-projeler-kk": [
+   "metro-teknik-devam-eden-projeler",
+   "kk"
+  ],
+  "/page/metro-teknik-biten-projeleri-kk": [
+   "metro-teknik-biten-projeleri",
+   "kk"
+  ],
+  "/page/kokshetau-hospital-kk": [
+   "kokshetau-hospital",
+   "kk"
+  ],
+  "/page/turkistan-sehir-hastanesi-kk": [
+   "turkistan-sehir-hastanesi",
+   "kk"
+  ],
+  "/page/karaganda-lastik-fabrikasi-kk": [
+   "karaganda-lastik-fabrikasi",
+   "kk"
+  ],
+  "/page/kervansaray-kk": [
+   "kervansaray",
+   "kk"
+  ],
+  "/page/tema-park-kk": [
+   "tema-park",
+   "kk"
+  ],
+  "/page/town-center-kk": [
+   "town-center",
+   "kk"
+  ],
+  "/page/aktau-resort-hotel-kk": [
+   "aktau-resort-hotel",
+   "kk"
+  ],
+  "/page/nazarbayev-merkezi-idari-binasi-kk": [
+   "nazarbayev-merkezi-idari-binasi",
+   "kk"
+  ],
+  "/page/nazarbayev-universitesi-kk": [
+   "nazarbayev-universitesi",
+   "kk"
+  ],
+  "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-kk": [
+   "kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "kk"
+  ],
+  "/page/akademi-a6-a11-blok-astana-kk": [
+   "akademi-a6-a11-blok-astana",
+   "kk"
+  ],
+  "/page/astana-kongre-merkezi-komple-renovasyon-kk": [
+   "astana-kongre-merkezi-komple-renovasyon",
+   "kk"
+  ],
+  "/page/piramit-santiyesi-mekanik-iscilik-astana-kk": [
+   "piramit-santiyesi-mekanik-iscilik-astana",
+   "kk"
+  ],
+  "/page/nazarbayev-universitesi-1-etap-kk": [
+   "nazarbayev-universitesi-1-etap",
+   "kk"
+  ],
+  "/page/cumhurbaskanligi-hastanesi-kk": [
+   "cumhurbaskanligi-hastanesi",
+   "kk"
+  ],
+  "/page/akbozat-restoran-kk": [
+   "akbozat-restoran",
+   "kk"
+  ],
+  "/page/bugday-depolari-kk": [
+   "bugday-depolari",
+   "kk"
+  ],
+  "/page/astana-motors-bmw-otosalon-kk": [
+   "astana-motors-bmw-otosalon",
+   "kk"
+  ],
+  "/page/king-halid-havalimani-kk": [
+   "king-halid-havalimani",
+   "kk"
+  ],
+  "/page/almata-hilton-kk": [
+   "almata-hilton",
+   "kk"
+  ],
+  "/page/tersane-istanbul-spa-merkezi-villa-kk": [
+   "tersane-istanbul-spa-merkezi-villa",
+   "kk"
+  ]
+ },
+ "aliases": {
+  "/page/ana-sayfa": "/"
+ },
+ "broken": {
+  "/page/35-blok-spor-salonu-astana": "metro-teknik-biten-projeleri",
+  "/page/nazarbayev-uni-24-25-ogrenci-yurt-bloklari": "metro-teknik-biten-projeleri",
+  "/page/nazarbayev-universitesi-44-45-bloklar-astana": "metro-teknik-biten-projeleri",
+  "/page/nazarbayev-universitesi-astana": "metro-teknik-biten-projeleri",
+  "/page/pk-6-laboratuvar-blogu-astana": "metro-teknik-biten-projeleri",
+  "/page/pk-8-bilimsel-egitim-kompleksi-astana": "metro-teknik-biten-projeleri",
+  "/page/primat-santiyesi-mekanik-iscilik-astana": "metro-teknik-biten-projeleri",
+  "/page/teknopark-astana": "metro-teknik-biten-projeleri"
+ },
+ "status": {
+  "forum-avm-santiyesi-almata": "completed",
+  "tienshan-konutlari-astana": "completed",
+  "expo-2017-kongre-merkezi-astana": "completed",
+  "mega-2-alisveris-merkezi-almaata": "completed",
+  "kutuphane-binasi-astana": "completed",
+  "mega-3-alisveris-merkezi-almaata": "completed",
+  "akademi-a6-blok-astana": "completed",
+  "akademi-a11-blok-astana": "completed",
+  "rixos-otel-borovoe": "completed",
+  "han-cadir-mekanik-iscilik-astana": "completed",
+  "stadyum-mekanik-iscilik-astana": "completed",
+  "cocuk-hastanesi-mekanik-iscilik-astana": "completed",
+  "sariarka-alisveris-merkezi-astana": "completed",
+  "noroloji-hastanesi-mekanik-iscilik-astana": "completed",
+  "kokshetau-hospital": "ongoing",
+  "turkistan-sehir-hastanesi": "ongoing",
+  "karaganda-lastik-fabrikasi": "completed",
+  "kervansaray": "completed",
+  "tema-park": "completed",
+  "town-center": "completed",
+  "aktau-resort-hotel": "completed",
+  "nazarbayev-merkezi-idari-binasi": "completed",
+  "nazarbayev-universitesi": "completed",
+  "kizilorda-korkut-ata-havalimani-terminal-binasi": "completed",
+  "akademi-a6-a11-blok-astana": "completed",
+  "astana-kongre-merkezi-komple-renovasyon": "completed",
+  "piramit-santiyesi-mekanik-iscilik-astana": "completed",
+  "nazarbayev-universitesi-1-etap": "completed",
+  "cumhurbaskanligi-hastanesi": "completed",
+  "akbozat-restoran": "completed",
+  "bugday-depolari": "completed",
+  "astana-motors-bmw-otosalon": "completed",
+  "king-halid-havalimani": "completed",
+  "almata-hilton": "ongoing",
+  "tersane-istanbul-spa-merkezi-villa": "ongoing"
+ },
+ "lists": {
+  "ongoing": "metro-teknik-devam-eden-projeler",
+  "completed": "metro-teknik-biten-projeleri"
+ },
+ "legacy_codes": {
+  "tr_tr": "tr",
+  "en_us": "en",
+  "ru_ru": "ru",
+  "kk_kz": "kk"
+ }
+}

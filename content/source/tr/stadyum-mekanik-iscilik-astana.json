@@ -1,0 +1,87 @@
+{
+ "id": "stadyum-mekanik-iscilik-astana",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/stadyum-mekanik-iscilik-astana",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Stadyum Mekanik İşçilik",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Stadyum Mekanik İşçilik",
+ "heading": "Stadyum Mekanik İşçilik",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL / ALTES"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": ""
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2008"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": ""
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$1.150.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958170827207000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958170827207000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958160766425300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958160766425300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958160633911900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958160633911900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958160503019500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958160503019500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958150472631900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958150472631900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958150333755200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958150333755200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958150205085600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958150205085600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/19/main/19-201707280958140176003400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/19/691/19-201707280958140176003400.jpg",
+   "alt": ""
+  }
+ ]
+}

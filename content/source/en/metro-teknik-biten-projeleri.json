@@ -1,0 +1,102 @@
+{
+ "id": "metro-teknik-biten-projeleri",
+ "type": "list",
+ "lang": "en",
+ "path": "/page/metro-teknik-completed-projects",
+ "html_lang": "en",
+ "title": "Metro Teknik Completed Projects",
+ "description": "",
+ "heading": "Metro Teknik Completed Projects",
+ "items": [
+  {
+   "href": "/page/karaganda-lastik-fabrikasi",
+   "name": "Karaganda Lastik Fabrikasi",
+   "location": "Karaganda/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/32.jpg"
+  },
+  {
+   "href": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi",
+   "name": "Kızılorda (Korkut Ata) Havalimanı Terminal Binası",
+   "location": "Kızılorda/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/33.jpg"
+  },
+  {
+   "href": "/page/town-center",
+   "name": "TOWN CENTER",
+   "location": "Aktau/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/29.jpg"
+  },
+  {
+   "href": "/page/tema-park",
+   "name": "TEMA PARK",
+   "location": "Aktau/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/28.jpg"
+  },
+  {
+   "href": "/page/kervansaray",
+   "name": "KERVANSARAY",
+   "location": "Türkistan/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/25.jpg"
+  },
+  {
+   "href": "/page/aktau-resort-hotel",
+   "name": "AKTAU RESORT HOTEL",
+   "location": "Aktau / Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/24.jpg"
+  },
+  {
+   "href": "/page/nazarbayev-merkezi-idari-binasi",
+   "name": "NAZARBAYEV - MERKEZİ İDARİ BİNASI",
+   "location": "Astana",
+   "thumb": "https://metro-teknik.net/img/staff/500/21.jpg"
+  },
+  {
+   "href": "/page/expo-2017-kongre-merkezi-astana",
+   "name": "EXPO 2017 - Kongre Merkezi",
+   "location": "Astana",
+   "thumb": "https://metro-teknik.net/img/staff/500/20.jpg"
+  },
+  {
+   "href": "/page/forum-avm-santiyesi-almata",
+   "name": "Forum AVM - Şantiye",
+   "location": "Almaata",
+   "thumb": "https://metro-teknik.net/img/staff/500/17.jpg"
+  },
+  {
+   "href": "/page/nazarbayev-universitesi",
+   "name": "NAZARBAYEV ÜNİVERSİTESİ",
+   "location": "Astana",
+   "thumb": "https://metro-teknik.net/img/staff/500/35.jpg"
+  },
+  {
+   "href": "/page/akademi-a6-a11-blok-astana",
+   "name": "Harp Akademileri - A6-A11 Bloklar",
+   "location": "Astana",
+   "thumb": "https://metro-teknik.net/img/staff/500/11.jpg"
+  },
+  {
+   "href": "/page/mega-3-alisveris-merkezi-almaata",
+   "name": "Mega 3 Alışveriş Merkezi",
+   "location": "Almaata",
+   "thumb": "https://metro-teknik.net/img/staff/500/12.jpg"
+  },
+  {
+   "href": "/page/mega-2-alisveris-merkezi-almaata",
+   "name": "Mega 2 Alışveriş Merkezi",
+   "location": "Almaata",
+   "thumb": "https://metro-teknik.net/img/staff/500/9.jpg"
+  },
+  {
+   "href": "/page/rixos-otel-borovoe",
+   "name": "Rixos Hotel - Borovoe",
+   "location": "Astana",
+   "thumb": "https://metro-teknik.net/img/staff/500/8.jpg"
+  },
+  {
+   "href": "/page/astana-kongre-merkezi-komple-renovasyon",
+   "name": "Astana Kongre Merkezi (Komple Renovasyon)",
+   "location": "Astana/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/34.jpg"
+  }
+ ]
+}

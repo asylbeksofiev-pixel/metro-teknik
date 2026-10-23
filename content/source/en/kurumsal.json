@@ -1,0 +1,38 @@
+{
+ "id": "kurumsal",
+ "type": "company",
+ "lang": "en",
+ "path": "/page/corporate",
+ "html_lang": "en",
+ "title": "Corporate",
+ "description": "Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. has achieved significant projects without sacrificing quality in the industry with its experienced and expert staff.",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Corporate"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vision"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Mission"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "President's Message"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Quality and Environment Policy"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "Our Certificates of Completion"
+  }
+ ],
+ "heading": "Corporate",
+ "body_html": "<p>Having been established in Adana, Turkey in 2013 with 15 years of business experience to provide services in areas of air-conditioning and mechanical installation projects and contracts by using the contemporary techniques and technology in a professional sense, Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. has achieved significant projects without sacrificing quality in the industry with its experienced and expert staff.</p>\n<p>We provide high quality and productive services by keeping a tab on the international standards and technology and in compliance with the mechanical systems, feasibility, consultancy, material supply, application, operating and management regulations on Heating-Cooling, Ventilation and Air Conditioning, Fire Fighting, Plumbing, Building Mechanical Automation and so on. Aiming to make the system choices in line with the employer's wishes and taking into account the optimum investment and operating costs in all stages of the business activities, METRO TEKNİK has taken its place in the industry as a solution partner of investors.</p>\n<p>Our aim is to establish efficient systems by following the developing technology with the desired service, effective environment and energy awareness.</p>\n<p>Thanks to the experience of achieving international projects, its main objective is to provide customer satisfaction on the basis of the right design and high-quality manufacture.</p>\n<p>Our Company seeks to carry out air-conditioning and mechanical installation activities of industrial, residential and social service buildings that are environment-friendly, provide a healthy comfort to the living spaces and are in compliance with the standards in Turkey, Kazakhstan, Turkic Republics, Russia, Middle Eastern countries.</p>\n<p>In all of the projects we have completed, the operational conditions of all air conditioning and mechanical installation systems have been checked regularly. The most efficient operation of the systems is provided in accordance with the recommended set values and the envisaged energy consumption costs of the facilities. In addition, according to the employer's request, the necessary training is provided to the operating personnel mentioned.</p>",
+ "gallery": []
+}

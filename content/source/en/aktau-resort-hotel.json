@@ -1,0 +1,159 @@
+{
+ "id": "aktau-resort-hotel",
+ "type": "project",
+ "lang": "en",
+ "path": "/page/aktau-resort-hotel-en",
+ "html_lang": "en",
+ "title": "Aktau Resort Hotel",
+ "description": "",
+ "pagehead": null,
+ "heading": "Aktau Resort Hotel",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Location",
+   "value": "Aktau / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "Employer/Investor",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Closed Construction Area",
+   "value": "61.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Date",
+   "value": "2020"
+  },
+  {
+   "key": "scope",
+   "label": "Scope of Project",
+   "value": "ISITMA, SOĞUTMA, BUHAR, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/AKTAU-RESORT-HOTEL-metro-teknik-net.jpg",
+   "alt": "Aktau Resort Hotel",
+   "width": "1280",
+   "height": "768"
+  }
+ ],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116420234440500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116420234440500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116410176791500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116410176791500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116300817304800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116300817304800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116290760728600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116290760728600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116290605114000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116290605114000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116280548261800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116280548261800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116270489485100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116270489485100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116270340110600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116270340110600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116260284157700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116260284157700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116260126123700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116260126123700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116060903020500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116060903020500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116050847442600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116050847442600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116040789632300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116040789632300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116040633533100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116040633533100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116030581688400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116030581688400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116030425069900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116030425069900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116020349961200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116020349961200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116010291825400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116010291825400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202007170116010126619100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202007170116010126619100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202002260935030328200200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202002260935030328200200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202002260935020216773500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202002260935020216773500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/36/main/36-202002260935010155540400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/36/691/36-202002260935010155540400.jpg",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "rixos-otel-borovoe",
+ "type": "project",
+ "lang": "en",
+ "path": "/page/rixos-otel-borovoe-en",
+ "html_lang": "en",
+ "title": "Rixos Otel Borovoe",
+ "description": "",
+ "pagehead": null,
+ "heading": "Rixos Otel Borovoe",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Location",
+   "value": "Astana"
+  },
+  {
+   "key": "client",
+   "label": "Employer/Investor",
+   "value": "A-TA STROY"
+  },
+  {
+   "key": "area",
+   "label": "Closed Construction Area",
+   "value": "33.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Date",
+   "value": "2012"
+  },
+  {
+   "key": "scope",
+   "label": "Scope of Project",
+   "value": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117090406637500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117090406637500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117080377254100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117080377254100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117080255448100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117080255448100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117080123440300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117080123440300.jpg",
+   "alt": ""
+  }
+ ]
+}

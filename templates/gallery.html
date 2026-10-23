@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(breadcrumb, t) }}
+    {%- if page.subheading %}<p class="eyebrow">{{ page.subheading }}</p>{% endif %}
+    <h1 class="page-head__title mt-3">{{ page.heading }}</h1>
+    {%- if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+    <div class="btn-row mt-5">
+      <a class="btn btn--secondary" href="{{ page.links.ongoing }}">{{ t.nav.ongoing }}</a>
+      <a class="btn btn--secondary" href="{{ page.links.completed }}">{{ t.nav.completed }}</a>
+    </div>
+  </div>
+</div>
+<section class="container section pt-7" aria-labelledby="gallery-title">
+  <div class="section-head section-head--row mb-5">
+    <h2 id="gallery-title">{{ t.gallery.title }}</h2>
+    <p class="card__meta">{{ t.gallery.count|replace("{n}", page.gallery|length) }}</p>
+  </div>
+  {{ m.gallery(page.gallery, "examples", t, "photo", page.heading) }}
+</section>
+{% endblock %}

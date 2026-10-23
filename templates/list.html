@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(breadcrumb, t) }}
+    <h1 class="page-head__title">{{ page.heading }}</h1>
+    <p class="lead">{{ page.description }}</p>
+  </div>
+</div>
+<div class="container section pt-7">
+  <div class="toolbar">
+    <nav class="tabs" aria-label="{{ t.projects.tabs_label }}">
+      {%- for tab in page.tabs %}
+      <a href="{{ tab.url }}"{% if tab.current %} aria-current="page"{% endif %}>{{ tab.label }} <span class="tabs__count">{{ tab.count }}</span></a>
+      {%- endfor %}
+    </nav>
+    <p class="card__meta">{{ t.projects.count|replace("{n}", page.total) }}</p>
+  </div>
+
+  <section class="list-section" aria-labelledby="list-main">
+    <h2 id="list-main" class="visually-hidden">{{ page.heading }}</h2>
+    {%- if page.cards %}
+    <div class="grid grid--3" data-reveal-group>
+      {%- for p in page.cards %}
+      {{ m.project_card(p, t) }}
+      {%- endfor %}
+    </div>
+    {%- else %}
+    <p>{{ t.projects.empty }}</p>
+    {%- endif %}
+  </section>
+
+  {%- if page.earlier %}
+  <section class="list-section" aria-labelledby="list-earlier">
+    <div class="list-section__head" data-reveal>
+      <h2 id="list-earlier">{{ t.projects.earlier_title }}</h2>
+      <p class="card__text">{{ t.projects.earlier_lead }}</p>
+    </div>
+    <div class="grid grid--3" data-reveal-group>
+      {%- for p in page.earlier %}
+      {{ m.project_card(p, t) }}
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif %}
+</div>
+{% endblock %}

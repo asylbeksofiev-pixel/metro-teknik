@@ -1,0 +1,263 @@
+<!DOCTYPE html>	
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel='dns-prefetch' href='//fonts.googleapis.com'>
+<link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic"><link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700&subset=latin,latin-ext" rel="stylesheet" type="text/css"><link media="all" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300|Indie+Flower:regular|Playfair+Display:regular,italic,700,900&amp;subset=latin,latin-ext" id="ls-google-fonts-css" rel="stylesheet"><link rel="stylesheet" type="text/css" media="all" href="/css/aio-style.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/colors/color_denge.css"><style type="text/css">
+/*<![CDATA[*/
+h1 {font-family: "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;}h2 {font-family: "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;}h3 {font-family: "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;}body {font-family: "Open Sans",sans-serif}.w-nav-title {font-family: "Roboto Slab"}.l-main .a {font-family: "Roboto Slab"}
+/*]]>*/
+</style><script type="text/javascript" src="/js/aio-jquery-1-9-1.js"></script>
+<title>Ayaner Kontrol Panelli Web Sitesi (CMS) - Error</title>
+</head>
+<body class="l-body" data-smooth-scrolling="1"><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93769726-1', 'auto');
+  ga('send', 'pageview');
+
+</script><div class="l-canvas type_wide col_cont headerpos_fixed headertype_extended"><div class="l-canvas-h"><div class="l-header">
+			<div class="l-header-h">
+
+				<div class="l-subheader at_top">
+					<div class="l-subheader-h i-cf">
+					
+						<div class="w-contacts">
+							<div class="w-contacts-h">
+								<div class="w-contacts-list">
+									<div class="w-contacts-item for_phone"><i class="fa fa-map-marker"></i><span class="w-contacts-item-name">fa-map-marker:</span><span class="w-contacts-item-value"><a href="/page/iletisim" target="_self">Bize Ulaşın</a></span></div><div class="w-contacts-item for_phone"><i class="fa fa-phone"></i><span class="w-contacts-item-name">fa-phone:</span><span class="w-contacts-item-value"><a href="tel:0902163451116" target="_blank">Telefon | 0216 345 1116</a></span></div><div class="w-contacts-item for_phone"><i class="fa fa-envelope-o"></i><span class="w-contacts-item-name">fa-envelope-o:</span><span class="w-contacts-item-value"><a href="mailto:info@metro-teknik.net" target="_self">E-Mail | info@metro-teknik.net</a></span></div><div class="w-contacts-item for_phone"><i class="fa fa-book"></i><span class="w-contacts-item-name">fa-book:</span><span class="w-contacts-item-value"><a href="https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf" target="_blank">Katalog</a></span></div>								</div>
+							</div>
+						</div>
+						<div class="w-lang layout_dropdown show_onclick has_title">
+							<div class="w-lang-h">
+								<div class="w-lang-list">
+									<form id="language" method="POST" action="/site/clang"><input type="hidden" value="" id="lng" name="lng"><input type="hidden" value="" id="refurl" name="refurl"><a href="javascript:void(0);" onclick="javascript:$('#lng').val('tr_tr'); $('#language').submit();" class="w-lang-item">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">Türkçe</span>
+									</a><a href="javascript:void(0);" onclick="javascript:$('#lng').val('en_us'); $('#language').submit();" class="w-lang-item">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">İngilizce</span>
+									</a><a href="javascript:void(0);" onclick="javascript:$('#lng').val('ru_ru'); $('#language').submit();" class="w-lang-item">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">Русский</span>
+									</a> 
+									</form>
+								</div>
+								<div class="w-lang-current">
+									<span class="w-lang-item">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">Türkçe</span>
+									</span>
+								</div>
+							</div>
+						</div>					
+						<div class="w-socials">
+							<div class="w-socials-h">
+								<div class="w-socials-list">
+								<div class="w-socials-item facebook">
+										<a href="https://www.facebook.com/metroteknik01/?fref=ts" target="_blank" class="w-socials-item-link">
+											<i class="fa fa-facebook"></i>
+										</a>
+										<div class="w-socials-item-popup">
+											<div class="w-socials-item-popup-h">
+												<span class="w-socials-item-popup-text">Facebook</span>
+											</div>
+										</div>
+				</div><div class="w-socials-item instagram">
+										<a href="https://www.instagram.com/metroteknik/" target="_blank" class="w-socials-item-link">
+											<i class="fa fa-instagram"></i>
+										</a>
+										<div class="w-socials-item-popup">
+											<div class="w-socials-item-popup-h">
+												<span class="w-socials-item-popup-text">Instagram</span>
+											</div>
+										</div>
+				</div>								
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="l-subheader at_middle" style="">
+					<div class="l-subheader-h i-cf">
+						<div class="w-logo">
+							<div class="w-logo-h">
+								<a href="http://metro-teknik.net/" class="w-logo-link">
+									<img alt="metro-teknik.net" src="/img/metroteknik-weblogo.jpg" class="w-logo-img">
+									<span class="w-logo-title">
+										<span class="w-logo-title-h">metro-teknik.net</span>
+									</span>
+								</a>
+							</div>
+						</div>
+						
+						<nav class="w-nav">
+				<div class="w-nav-h">
+					<div class="w-nav-control">
+						<i class="fa fa-bars"></i>
+					</div>
+					<div class="w-nav-list layout_hor width_auto float_right level_1">
+						<div class="w-nav-list-h">
+						<div class="w-nav-item level_1  " >
+					<div class="w-nav-item-h">
+							<a href="/page/kurumsal" class="w-nav-anchor level_1">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">Kurumsal</span>
+							<span class="w-nav-hint"></span></a>
+					
+						
+					</div>
+				</div><div class="w-nav-item level_1  " >
+					<div class="w-nav-item-h">
+							<a href="/page/havalandirma-sistemleri" class="w-nav-anchor level_1">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">Faaliyet Alanları</span>
+							<span class="w-nav-hint"></span></a>
+					
+						
+					</div>
+				</div><div class="w-nav-item level_1 with_sublevel " >
+					<div class="w-nav-item-h">
+							<a href="#" class="w-nav-anchor level_1">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">Projelerimiz</span>
+							<span class="w-nav-hint"></span></a>
+					<div class="w-nav-list place_down show_onhover level_2  ">
+							<div class="w-nav-list-h"><div class="w-nav-item level_2  " >
+					<div class="w-nav-item-h">
+							<a href="/page/metro-teknik-devam-eden-projeler" class="w-nav-anchor level_2">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">Devam Eden Projelerimiz</span>
+							<span class="w-nav-hint"></span></a>
+					
+						
+					</div>
+				</div><div class="w-nav-item level_2  " >
+					<div class="w-nav-item-h">
+							<a href="/page/metro-teknik-biten-projeleri" class="w-nav-anchor level_2">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">Biten Projelerimiz</span>
+							<span class="w-nav-hint"></span></a>
+					
+						
+					</div>
+				</div></div></div>
+						
+					</div>
+				</div><div class="w-nav-item level_1  " >
+					<div class="w-nav-item-h">
+							<a href="/page/uygulama-ornekleri" class="w-nav-anchor level_1">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">Uygulama Örnekleri</span>
+							<span class="w-nav-hint"></span></a>
+					
+						
+					</div>
+				</div><div class="w-nav-item level_1  " >
+					<div class="w-nav-item-h">
+							<a href="/page/iletisim" class="w-nav-anchor level_1">
+							<span class="w-nav-icon"><i class="fa fa-star"></i></span>
+							<span class="w-nav-title">İletişim</span>
+							<span class="w-nav-hint"></span></a>
+					
+						
+					</div>
+				</div>
+						</div>
+					</div>
+				</div>
+			  </nav>
+					</div>
+				</div>
+
+			</div>
+</div><div class="l-main"><div class="l-main-h"><div class="l-submain for_pagehead"><div class="l-submain-h g-html i-cf"><div class="w-pagehead"><h1>Ayaner Kontrol Panelli Web Sitesi (CMS) - Error</h1><div class="g-breadcrumbs">
+<a href="/">Anasayfa</a> <span class="g-breadcrumbs-separator">&raquo;</span><span class="g-breadcrumbs-item">Error</span></div></div></div></div><div class="modal"></div>
+
+		<div class="l-submain"><div class="l-submain-h g-html i-cf"> 
+<h2>Error 404</h2>
+
+<div class="error">
+<center><img src='/img/_error.png' alt='error'></center>Unable to resolve the request &quot;favicon.ico&quot;.</div>
+</div></div>
+</div></div></div></div>
+
+
+
+<div class="l-footer">
+	<div class="l-footer-h">
+		<div class="l-subfooter at_top">
+			<div class="l-subfooter-h g-cols">
+				<div class="one-third">
+					<div class="widget">
+						<h4>İletişim Bilgileri</h4>
+						<div class="w-contacts">
+							<div class="w-contacts-h">
+								<div class="w-contacts-list">
+									<div class="w-contacts-item for_address">
+										<i class="fa fa-location"></i>
+										<span class="w-contacts-item-name">Adres</span>
+										<span class="w-contacts-item-value">Zühtü Paşa Mah.Kolej Sokak.Kardesler Apt B Blok Daire:1 Kızıltoprak Kadıköy / İstanbul / Türkiye</span>
+					</div><div class="w-contacts-item for_phone">
+										<i class="fa fa-mobile"></i>
+										<span class="w-contacts-item-name">Telefon</span>
+										<span class="w-contacts-item-value">0216 345 1161</span>
+									</div>
+					<div class="w-contacts-item for_phone">
+										<i class="fa fa-mobile"></i>
+										<span class="w-contacts-item-name">fax</span>
+										<span class="w-contacts-item-value">0216 345 1161</span>
+									</div>
+					<div class="w-contacts-item for_email">
+										<i class="fa fa-mail"></i>
+										<span class="w-contacts-item-name">E-Mail</span>
+										<span class="w-contacts-item-value"><a href="mailto:info@metro-teknik.net">info@metro-teknik.net</a></span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				<div class="two-thirds">
+					<div class="widget">
+						<p><strong>HAKKIMIZDA</strong></p>
+<p>Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda y&ouml;netmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, y&uuml;ksek kalite ve verimlilikte hizmet vermektedir.</p>
+<p><a href="/page/iletisim">Bize Buradan Ulaşın</a></p>
+<p><a href="https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf" target="_blank">KATALOĞUMUZU BURADAN İNDİREBİLİRSİNİZ</a></p>					</div>
+				</div>
+				
+				
+
+			</div>
+		</div>
+		<div class="l-subfooter at_bottom">
+			<div class="l-subfooter-h i-cf">
+				<div class="w-copyright">Metro-Teknik © 2026 Her Hakkı Saklıdır.</div>
+				<nav class="w-nav">
+					<div class="w-nav-h">
+						<div class="w-nav-list layout_hor width_auto float_right level_1">
+							<div class="w-nav-list-h">
+								<div class="w-nav-item level_1 active">
+									<div class="w-nav-item-h">
+										<a href="http://www.ayaner.com" class="w-nav-anchor level_1" target="_blank">Ayaner Bilişim Teknolojileri</a> &nbsp;
+									</div>
+								</div>
+							
+							</div>
+						</div>
+					</div>
+				</nav> 
+
+			</div>
+		</div>
+	</div>
+</div><a class="w-toplink" href="#"><i class="fa fa-angle-up"></i></a>
+	   </body>
+	   </html>

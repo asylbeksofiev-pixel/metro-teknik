@@ -1,0 +1,48 @@
+{
+ "id": "rixos-otel-borovoe",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/rixos-otel-borovoe",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Rixos Otel Borovoe",
+ "description": "",
+ "pagehead": null,
+ "heading": "Rixos Otel Borovoe",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "A-TA STROY"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "33.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2012"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/img/staff/500/8.jpg",
+   "alt": "",
+   "width": "669",
+   "height": "500"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

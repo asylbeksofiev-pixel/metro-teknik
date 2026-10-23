@@ -1,0 +1,150 @@
+{
+  "_lang": {
+    "code": "en",
+    "name": "English",
+    "locale": "en_US",
+    "legacy": "en_us",
+    "hreflang": "en"
+  },
+  "site_name": "Metro Teknik",
+  "title_suffix": "Metro Teknik",
+  "skip": "Skip to content",
+  "nav": {
+    "label": "Main navigation",
+    "home": "Main Page",
+    "company": "Corporate",
+    "services": "Fields of Activity",
+    "projects": "Our Projects",
+    "ongoing": "Ongoing Projects",
+    "completed": "Completed Projects",
+    "gallery": "Application Examples",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close menu",
+    "open_submenu": "{label} submenu",
+    "overview": "Overview"
+  },
+  "lang": {
+    "label": "Language",
+    "current": "Current language: {name}",
+    "choose": "Choose language",
+    "missing": "This page is not available in {name}; you will be taken to the related section.",
+    "missing_short": "section page"
+  },
+  "header": {
+    "phone": "Telephone",
+    "email": "E-mail",
+    "catalog": "Catalog",
+    "contact_link": "Contact Us"
+  },
+  "catalog": {
+    "download": "Download catalog",
+    "meta": "PDF · {size} · Turkish / Russian",
+    "doc_lang_note": "The catalog is available in Turkish and Russian."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Main Page"
+  },
+  "section_nav": {
+    "label": "In this section",
+    "toggle": "Pages in this section"
+  },
+  "home": {
+    "eyebrow": "METRO TEKNİK",
+    "hero_title": "HVAC and mechanical installation systems",
+    "hero_lead": "Project and contracting services for heating, cooling, ventilation, fire fighting and plumbing systems.",
+    "cta_projects": "Our Projects",
+    "cta_services": "Fields of Activity",
+    "services_title": "Fields of Activity",
+    "services_lead": "Supply, installation, testing and commissioning of mechanical systems.",
+    "about_title": "Corporate",
+    "projects_title": "Our Projects",
+    "projects_lead": "A selection of our ongoing and completed projects.",
+    "all_ongoing": "Ongoing projects",
+    "all_completed": "Completed projects",
+    "contact_cta": "Contact us"
+  },
+  "common": {
+    "read_more": "Read more",
+    "view_project": "View project",
+    "view_service": "Details",
+    "back_to_list": "Back to project list",
+    "other_services": "Other fields of activity",
+    "related_projects": "Other projects",
+    "opens_new_tab": "(opens in a new tab)",
+    "external": "external link"
+  },
+  "status": {
+    "ongoing": "Ongoing",
+    "completed": "Completed"
+  },
+  "projects": {
+    "tabs_label": "Project status",
+    "count": "{n} projects",
+    "earlier_title": "Earlier completed projects",
+    "earlier_lead": "Earlier projects for which we carried out mechanical works and material supply.",
+    "facts_title": "Project details",
+    "gallery_title": "Project photos",
+    "empty": "There are no projects in this category yet."
+  },
+  "facts": {
+    "location": "Location",
+    "client": "Employer / Investor",
+    "area": "Closed construction area",
+    "date": "Date",
+    "scope": "Scope of project",
+    "budget": "Project budget",
+    "note": "Note"
+  },
+  "gallery": {
+    "title": "Photo gallery",
+    "count": "{n} photos",
+    "open": "Enlarge photo {n} of {total}",
+    "dialog": "Photo viewer",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "close": "Close",
+    "position": "{n} / {total}",
+    "certificates_title": "Certificates of completion",
+    "certificate_alt": "Certificate of completion {n}",
+    "photo_alt": "{name} — photo {n}"
+  },
+  "contact": {
+    "offices_title": "Our offices",
+    "address": "Address",
+    "phone": "Telephone",
+    "fax": "Fax",
+    "email": "E-mail",
+    "map_title": "{office} location — Google Maps",
+    "map_open": "Open in Google Maps",
+    "general_title": "General contact",
+    "catalog_title": "Company catalog"
+  },
+  "footer": {
+    "about": "About us",
+    "pages": "Pages",
+    "contact": "Contact Details",
+    "follow": "Follow us",
+    "catalog": "You can download our catalog here",
+    "rights": "Metro-Teknik © {year} All Rights Reserved.",
+    "attribution": "Ayaner Bilişim Teknolojileri"
+  },
+  "social": {
+    "facebook": "Metro Teknik on Facebook",
+    "instagram": "Metro Teknik on Instagram"
+  },
+  "notfound": {
+    "title": "Page not found",
+    "text": "The page you are looking for may have been moved or removed.",
+    "home": "Back to the main page"
+  },
+  "meta": {
+    "project": "{name} — {location}. Scope of project: {scope}.",
+    "list_ongoing": "Ongoing mechanical installation and HVAC projects of Metro Teknik.",
+    "list_completed": "Mechanical installation and HVAC projects completed by Metro Teknik.",
+    "gallery": "Metro Teknik application examples: photos of mechanical installation and ventilation works.",
+    "contact": "Addresses, telephone numbers and e-mail of the Metro Teknik offices in Istanbul and Adana.",
+    "certificates": "Metro Teknik certificates of completion."
+  }
+}

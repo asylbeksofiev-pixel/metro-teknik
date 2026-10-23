@@ -1,0 +1,102 @@
+{
+ "id": "home",
+ "type": "home",
+ "lang": "en",
+ "path": "/page/main-page",
+ "html_lang": "en",
+ "title": "Main Page",
+ "description": "We provide high quality and productive services by keeping a tab on the international standards and technology and in compliance with the mechanical systems...",
+ "slides": [
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/41/600/412025102304235088486000.jpg",
+   "alt": "Kokshetau Hospital",
+   "href": "/page/kokshetau-hospital"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/38/600/382021101412562220395400.jpg",
+   "alt": "Türkistan Şehir Hastanesi",
+   "href": "/page/turkistan-sehir-hastanesi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/40/600/402023070708342212346300.jpg",
+   "alt": "Karaganda Lastik Fabrikasi",
+   "href": "/page/karaganda-lastik-fabrikasi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/32/600/322020090808241521925100.jpg",
+   "alt": "Kervan Saray",
+   "href": "/page/kervansaray"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/35/600/352021032004452588734300.jpg",
+   "alt": "Tema Park",
+   "href": "/page/tema-park"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/36/600/362021032004464218624900.jpg",
+   "alt": "Town Center",
+   "href": "/page/town-center"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/29/600/292020022609400422195700.jpg",
+   "alt": "Aktau Resort Hotel",
+   "href": "/page/aktau-resort-hotel"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/28/600/282019090606083190002700.jpg",
+   "alt": "Nazarbayev Merkezi İdari Binası",
+   "href": "/page/nazarbayev-merkezi-idari-binasi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/18/600/182019090408410943605800.jpg",
+   "alt": "Expo Astana",
+   "href": "/page/expo-2017-kongre-merkezi-astana"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/19/600/192019090408411019164300.jpg",
+   "alt": "Forum Almaty",
+   "href": "/page/forum-avm-santiyesi-almata"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/20/600/202019090408411095870200.jpg",
+   "alt": "Astane Üniversitesi",
+   "href": "/page/nazarbayev-universitesi"
+  }
+ ],
+ "intro_heading": "METRO TEKNİK",
+ "intro": "We provide high quality and productive services by keeping a tab on the international standards and technology and in compliance with the mechanical systems, feasibility, consultancy, material supply, application, operating and management regulations on Heating-Cooling, Ventilation and Air Conditioning, Fire Fighting, Plumbing, Building Mechanical Automation and so on. If there is a work to be completed, let us do it...",
+ "projects_heading": "Our Projects",
+ "featured": [
+  {
+   "name": "Nazarbayev Üniversitesi",
+   "image": null,
+   "href": "/page/pk-8-bilimsel-egitim-kompleksi-astana",
+   "cta": "DETAILS"
+  },
+  {
+   "name": "Expo Astana",
+   "image": null,
+   "href": "/page/expo-2017-kongre-merkezi-astana",
+   "cta": "DETAILS"
+  },
+  {
+   "name": "Forum Almata",
+   "image": null,
+   "href": "/page/forum-avm-santiyesi-almata",
+   "cta": "DETAILS"
+  }
+ ],
+ "action": {
+  "heading": "If there is a work to be completed, let us do it",
+  "buttons": [
+   {
+    "href": "/page/metro-teknik-devam-eden-projeler",
+    "label": "ONGOING PROJECTS"
+   },
+   {
+    "href": "/page/metro-teknik-biten-projeleri",
+    "label": "COMPLETED PROJECTS"
+   }
+  ]
+ }
+}

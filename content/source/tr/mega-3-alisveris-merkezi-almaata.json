@@ -1,0 +1,48 @@
+{
+ "id": "mega-3-alisveris-merkezi-almaata",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/mega-3-alisveris-merkezi-almaata",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Mega 3 Alışveriş Merkezi",
+ "description": "",
+ "pagehead": null,
+ "heading": "Mega 3 Alışveriş Merkezi",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Almaata / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "A-TA STROY"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "104.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2013"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/MEGA_3-metro-teknik-net.jpg",
+   "alt": "Mega 3 Alışveriş Merkezi",
+   "width": "1440",
+   "height": "495"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

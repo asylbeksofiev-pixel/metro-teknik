@@ -1,0 +1,67 @@
+{
+ "id": "tienshan-konutlari-astana",
+ "type": "project",
+ "lang": "en",
+ "path": "/page/tienshan-konutlari-astana-en",
+ "html_lang": "en",
+ "title": "Tienshan Konutları",
+ "description": "",
+ "pagehead": null,
+ "heading": "Tienshan Konutları",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Location",
+   "value": "ALMATA"
+  },
+  {
+   "key": "client",
+   "label": "employer/Investor",
+   "value": "A-TA STROY"
+  },
+  {
+   "key": "area",
+   "label": "Closed Construction Area",
+   "value": "10.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Date",
+   "value": "2015"
+  },
+  {
+   "key": "scope",
+   "label": "Scope of Project",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  },
+  {
+   "key": "budget",
+   "label": "Project Budget",
+   "value": "$3.024.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/9/main/9-201710231124000477672200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/9/691/9-201710231124000477672200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/9/main/9-201710231124000318810500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/9/691/9-201710231124000318810500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/9/main/9-201710231123590263180200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/9/691/9-201710231123590263180200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/9/main/9-201710231123590109060400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/9/691/9-201710231123590109060400.jpg",
+   "alt": ""
+  }
+ ]
+}

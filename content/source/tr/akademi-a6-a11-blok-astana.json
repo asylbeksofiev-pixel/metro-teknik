@@ -1,0 +1,47 @@
+{
+ "id": "akademi-a6-a11-blok-astana",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/akademi-a6-a11-blok-astana",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Akademi A6-A11 Blok",
+ "description": "",
+ "pagehead": null,
+ "heading": "HARP AKADEMİLERİ A6-A11 BLOKLAR",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "ASTANA"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "33.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2013"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/15/main/15-201710231121540191728800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/15/691/15-201710231121540191728800.jpg",
+   "alt": ""
+  }
+ ]
+}

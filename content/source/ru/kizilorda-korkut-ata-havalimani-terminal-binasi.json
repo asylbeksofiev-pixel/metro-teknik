@@ -1,0 +1,48 @@
+{
+ "id": "kizilorda-korkut-ata-havalimani-terminal-binasi",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/kizilorda-korkut-ata-havalimani-terminal-binasi-ru",
+ "html_lang": "ru",
+ "title": "Kızılorda (Korkut Ata) Havalimanı Terminal Binası",
+ "description": "",
+ "pagehead": null,
+ "heading": "Kızılorda (Korkut Ata) Havalimanı Terminal Binası",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Kızılorda/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "Elite Construction"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "10.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2023"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/kizilorda-korkut-ata-havalimani-terminal-binasi.png",
+   "alt": "Kızılorda (Korkut Ata) Havalimanı Terminal Binası",
+   "width": "800",
+   "height": "450"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "baskanin-mesaji",
+ "type": "company",
+ "lang": "tr",
+ "path": "/page/baskanin-mesaji",
+ "html_lang": "tr",
+ "title": "Başkanın Mesajı",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Kurumsal"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vizyon"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Misyon"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "Başkanın Mesajı"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Kalite ve Çevre Politikamız"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "İş Bitirme Belgelerimiz"
+  }
+ ],
+ "heading": "Başkanın Mesajı",
+ "body_html": "<p>Biz Metro Teknik Ltd. Şti. olarak yüksek kalitede tasarlanmış mimari eserlerin havalandırma ve mekanik tesisat işlerinde en son teknolojik gelişmeleri kullanarak yeniliklere açık modern çağın gereksinimlerini karşılayan mimarlık ve mühendislik normlarını tam olarak yansıtmanın gayreti içindeyiz.</p>\n<p>Şirketimiz Türki Cumhuriyetler, Rusya ve Ortadoğu ülkelerinde yaptığı işlerle ekonomiye önemli derecede katkıda bulunmuştur. Ülkemizin refahı ve ekonomik gücümüzü artırmanın yanı sıra personel kadromuz ve istihdam alanlarımızla da her gün büyüyen ve yeni iş kolalarını canlandıran bir yapıya sahibiz.</p>\n<p>Üstlendiğimiz işlerde ticaretin ana kuralı olan karlılık prensibini ikinci plana iterek ortaya çıkardığımız ürünlerin ekonomik ve kullanışlı olmasının yanı sıra, can ve mal emniyetini dikkate almaktayız.</p>\n<p>Hizmet, kalite ve teknolojik imkanların hep birlikte sunulduğu şirketimizde çözüm odaklı, genç ve deneyimli kadromuz ile mekanik ve havalandırmada yaptığımız işlerin altına imzamızı gururla atıyoruz. Biz güçlü, başarılı ve geçmişin başarısını geleceğin teknolojik imkanlarıyla buluşturan kocaman bir aileyiz.</p>\n<p><strong>HÜSEYİN TÜRKAN</strong><br><strong>YÖNETİM KURUL BAŞKANI</strong></p>",
+ "gallery": []
+}

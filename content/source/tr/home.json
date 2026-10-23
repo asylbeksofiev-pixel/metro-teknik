@@ -1,0 +1,102 @@
+{
+ "id": "home",
+ "type": "home",
+ "lang": "tr",
+ "path": "/",
+ "html_lang": "tr",
+ "title": "Ana Sayfa",
+ "description": "Metro Teknik mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.",
+ "slides": [
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/41/600/412025102304235088486000.jpg",
+   "alt": "Kokshetau Hospital",
+   "href": "/page/kokshetau-hospital"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/38/600/382021101412562220395400.jpg",
+   "alt": "Türkistan Şehir Hastanesi",
+   "href": "/page/turkistan-sehir-hastanesi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/40/600/402023070708342212346300.jpg",
+   "alt": "Karaganda Lastik Fabrikasi",
+   "href": "/page/karaganda-lastik-fabrikasi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/32/600/322020090808241521925100.jpg",
+   "alt": "Kervan Saray",
+   "href": "/page/kervansaray"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/35/600/352021032004452588734300.jpg",
+   "alt": "Tema Park",
+   "href": "/page/tema-park"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/36/600/362021032004464218624900.jpg",
+   "alt": "Town Center",
+   "href": "/page/town-center"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/29/600/292020022609400422195700.jpg",
+   "alt": "Aktau Resort Hotel",
+   "href": "/page/aktau-resort-hotel"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/28/600/282019090606083190002700.jpg",
+   "alt": "Nazarbayev Merkezi İdari Binası",
+   "href": "/page/nazarbayev-merkezi-idari-binasi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/18/600/182019090408410943605800.jpg",
+   "alt": "Expo Astana",
+   "href": "/page/expo-2017-kongre-merkezi-astana"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/19/600/192019090408411019164300.jpg",
+   "alt": "Forum Almaty",
+   "href": "/page/forum-avm-santiyesi-almata"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/20/600/202019090408411095870200.jpg",
+   "alt": "Astane Üniversitesi",
+   "href": "/page/nazarbayev-universitesi"
+  }
+ ],
+ "intro_heading": "METRO TEKNİK",
+ "intro": "Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.",
+ "projects_heading": "Projelerimiz",
+ "featured": [
+  {
+   "name": "Türkistan Şehir Hastanesi",
+   "image": "https://metro-teknik.net/uploads/turkistan-sehir-hastanesi-cover.jpg",
+   "href": "/page/turkistan-sehir-hastanesi",
+   "cta": "PROJEYİ GÖRÜN"
+  },
+  {
+   "name": "Tema Park",
+   "image": "https://metro-teknik.net/uploads/projects/tema-park.jpg",
+   "href": "/page/tema-park",
+   "cta": "PROJEYİ GÖRÜN"
+  },
+  {
+   "name": "Aktau Resort Hotel",
+   "image": "https://metro-teknik.net/uploads/AKTAU_OTEL.jpg",
+   "href": "/page/aktau-resort-hotel",
+   "cta": "PROJEYİ GÖRÜN"
+  }
+ ],
+ "action": {
+  "heading": "Tamamlanması Gereken Bir İş Varsa İşi Bize Bırakın",
+  "buttons": [
+   {
+    "href": "/page/metro-teknik-devam-eden-projeler",
+    "label": "DEVAM EDEN PROJELERİMİZ"
+   },
+   {
+    "href": "/page/metro-teknik-biten-projeleri",
+    "label": "BİTEN PROJELERİMİZ"
+   }
+  ]
+ }
+}

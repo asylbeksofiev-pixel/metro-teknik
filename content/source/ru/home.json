@@ -1,0 +1,102 @@
+{
+ "id": "home",
+ "type": "home",
+ "lang": "ru",
+ "path": "/page/ana-sayfa-ru",
+ "html_lang": "ru",
+ "title": "Главная страница",
+ "description": "",
+ "slides": [
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/41/600/412025102304235088486000.jpg",
+   "alt": "Kokshetau Hospital",
+   "href": "/page/kokshetau-hospital"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/38/600/382021101412562220395400.jpg",
+   "alt": "Türkistan Şehir Hastanesi",
+   "href": "/page/turkistan-sehir-hastanesi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/40/600/402023070708342212346300.jpg",
+   "alt": "Karaganda Lastik Fabrikasi",
+   "href": "/page/karaganda-lastik-fabrikasi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/32/600/322020090808241521925100.jpg",
+   "alt": "Kervan Saray",
+   "href": "/page/kervansaray"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/35/600/352021032004452588734300.jpg",
+   "alt": "Tema Park",
+   "href": "/page/tema-park"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/36/600/362021032004464218624900.jpg",
+   "alt": "Town Center",
+   "href": "/page/town-center"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/29/600/292020022609400422195700.jpg",
+   "alt": "Aktau Resort Hotel",
+   "href": "/page/aktau-resort-hotel"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/28/600/282019090606083190002700.jpg",
+   "alt": "Nazarbayev Merkezi İdari Binası",
+   "href": "/page/nazarbayev-merkezi-idari-binasi"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/18/600/182019090408410943605800.jpg",
+   "alt": "Expo Astana",
+   "href": "/page/expo-2017-kongre-merkezi-astana"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/19/600/192019090408411019164300.jpg",
+   "alt": "Forum Almaty",
+   "href": "/page/forum-avm-santiyesi-almata"
+  },
+  {
+   "image": "https://metro-teknik.net/img/fwb/16/20/600/202019090408411095870200.jpg",
+   "alt": "Astane Üniversitesi",
+   "href": "/page/nazarbayev-universitesi"
+  }
+ ],
+ "intro_heading": "METRO TEKNİK",
+ "intro": "Предоставляет высококачественные и продуктивные услуги по системам отопления/охлаждения, кондиционирования и вентиляции, пожарного оборудования, по водопроводному оборудованию, системам автоматизации зданий, в соответствии с руководством по механическим системам, поставке материала, реализации, экплуатации и обслуживанию, следуя рекомендациям, международным стандартам и технологическим достижениям.",
+ "projects_heading": "Наши проекты",
+ "featured": [
+  {
+   "name": "Назарбаев Университет",
+   "image": null,
+   "href": "/page/pk-8-bilimsel-egitim-kompleksi-astana-ru",
+   "cta": "Посмотрите на проект"
+  },
+  {
+   "name": "ЭКСПО-2017, г. Астана",
+   "image": null,
+   "href": "/page/expo-2017-kongre-merkezi-astana-ru",
+   "cta": "Посмотрите на проект"
+  },
+  {
+   "name": "ТРЦ «Forum Almaty»",
+   "image": null,
+   "href": "/page/forum-avm-santiyesi-almata-ru",
+   "cta": "Посмотрите на проект"
+  }
+ ],
+ "action": {
+  "heading": "Если у Вас есть работа, которую нужно завершить, доверьте ее нам!",
+  "buttons": [
+   {
+    "href": "/page/26-27-ogenci-yurt-bloklari-nazarbayev-univ-ru",
+    "label": "ТЕКУЩИЕ ПРОЕКТЫ"
+   },
+   {
+    "href": "/page/noroloji-hastanesi-mekanik-iscilik-astana-ru",
+    "label": "ЗАВЕРШЕННЫЕ ПРОЕКТЫ"
+   }
+  ]
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "nav": [
+  {
+   "label": "Kurumsal",
+   "href": "/page/kurumsal",
+   "children": []
+  },
+  {
+   "label": "Faaliyet Alanları",
+   "href": "/page/havalandirma-sistemleri",
+   "children": []
+  },
+  {
+   "label": "Projelerimiz",
+   "href": "/",
+   "children": [
+    {
+     "label": "Devam Eden Projelerimiz",
+     "href": "/page/metro-teknik-devam-eden-projeler"
+    },
+    {
+     "label": "Biten Projelerimiz",
+     "href": "/page/metro-teknik-biten-projeleri"
+    }
+   ]
+  },
+  {
+   "label": "Uygulama Örnekleri",
+   "href": "/page/uygulama-ornekleri",
+   "children": []
+  },
+  {
+   "label": "İletişim",
+   "href": "/page/iletisim",
+   "children": []
+  }
+ ],
+ "contacts": [
+  {
+   "label": "Bize Ulaşın",
+   "href": "/page/iletisim",
+   "icon": "fa-map-marker"
+  },
+  {
+   "label": "Telefon | 0216 345 1116",
+   "href": "tel:0902163451116",
+   "icon": "fa-phone"
+  },
+  {
+   "label": "E-Mail | info@metro-teknik.net",
+   "href": "mailto:info@metro-teknik.net",
+   "icon": "fa-envelope-o"
+  },
+  {
+   "label": "Katalog",
+   "href": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf",
+   "icon": "fa-book"
+  },
+  {
+   "label": "info@metro-teknik.net",
+   "href": "mailto:info@metro-teknik.net",
+   "icon": "fa-mail"
+  }
+ ],
+ "socials": [
+  {
+   "network": "facebook",
+   "href": "https://www.facebook.com/metroteknik01/?fref=ts"
+  },
+  {
+   "network": "instagram",
+   "href": "https://www.instagram.com/metroteknik/"
+  }
+ ],
+ "footer": {
+  "text": [
+   "İletişim Bilgileri",
+   "Adres",
+   "Zühtü Paşa Mah.Kolej Sokak.Kardesler Apt B Blok Daire:1 Kızıltoprak Kadıköy / İstanbul / Türkiye",
+   "Telefon",
+   "0216 345 1161",
+   "fax",
+   "0216 345 1161",
+   "E-Mail",
+   "info@metro-teknik.net",
+   "HAKKIMIZDA",
+   "Isıtma-Soğutma, Havalandırma ve Klima, Yangın Tesisatı, Sıhhi Tesisat, Bina Mekanik Otomasyon, ..vb mekanik sistemleri, fizibilite, danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir.",
+   "Bize Buradan Ulaşın",
+   "KATALOĞUMUZU BURADAN İNDİREBİLİRSİNİZ",
+   "Metro-Teknik © 2026 Her Hakkı Saklıdır.",
+   "Ayaner Bilişim Teknolojileri"
+  ],
+  "links": [
+   {
+    "href": "mailto:info@metro-teknik.net",
+    "label": "info@metro-teknik.net"
+   },
+   {
+    "href": "/page/iletisim",
+    "label": "Bize Buradan Ulaşın"
+   },
+   {
+    "href": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf",
+    "label": "KATALOĞUMUZU BURADAN İNDİREBİLİRSİNİZ"
+   },
+   {
+    "href": "http://www.ayaner.com",
+    "label": "Ayaner Bilişim Teknolojileri"
+   }
+  ]
+ },
+ "ga": "UA-93769726-1"
+}

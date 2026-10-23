@@ -1,0 +1,62 @@
+{
+ "id": "rixos-otel-borovoe",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/rixos-otel-borovoe-ru",
+ "html_lang": "ru",
+ "title": "ОТЕЛЬ «RIXOS BOROVOE»",
+ "description": "",
+ "pagehead": null,
+ "heading": "ОТЕЛЬ «RIXOS BOROVOE»",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "АТА СТРОЙ"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "33.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2012"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, УСТАНОВКА + МАТЕРИАЛЫ"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117090406637500.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117090406637500.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117080377254100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117080377254100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117080255448100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117080255448100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/17/main/17-201710231117080123440300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/17/691/17-201710231117080123440300.jpg",
+   "alt": ""
+  }
+ ]
+}

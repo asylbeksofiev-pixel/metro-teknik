@@ -1,0 +1,100 @@
+<div class="topbar on-dark" data-inert-when-menu>
+  <div class="container topbar__inner">
+    <div class="topbar__group">
+      {%- if chrome.phone %}
+      <a href="{{ chrome.phone.href }}">{{ m.icon("phone") }}<span class="topbar__label">{{ t.header.phone }}</span> {{ chrome.phone.text }}</a>
+      {%- endif %}
+      <a href="mailto:{{ chrome.email }}">{{ m.icon("mail") }}<span class="visually-hidden">{{ t.header.email }}: </span>{{ chrome.email }}</a>
+    </div>
+    <div class="topbar__group">
+      <a href="{{ chrome.catalog.url }}" target="_blank" rel="noopener" type="application/pdf">{{ m.icon("file") }}{{ t.header.catalog }}<span class="visually-hidden"> — {{ t.catalog.meta|replace("{size}", chrome.catalog.size) }} {{ t.common.opens_new_tab }}</span></a>
+      {{ m.social_links(chrome.socials, t, "social--compact") }}
+    </div>
+  </div>
+</div>
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="{{ home_url }}">
+      <img src="{{ asset('img/metroteknik-weblogo.jpg') }}" alt="Metro Teknik — {{ t.nav.home }}" width="320" height="60">
+    </a>
+    <nav class="nav" aria-label="{{ t.nav.label }}">
+      <ul class="nav__list">
+        {%- for item in nav %}
+        <li class="nav__item"{% if item.children %} data-dropdown{% endif %}>
+          {%- if item.children %}
+          <button type="button" class="nav__link{% if item.active %} is-active{% endif %}" data-dropdown-toggle aria-expanded="false" aria-controls="dd-{{ item.key }}">{{ item.label }}{{ m.icon("chevron-down", "chevron") }}</button>
+          <ul class="dropdown" id="dd-{{ item.key }}">
+            {%- for c in item.children %}
+            <li><a href="{{ c.url }}"{% if c.current %} aria-current="page"{% endif %}>{{ c.label }}</a></li>
+            {%- endfor %}
+          </ul>
+          {%- else %}
+          <a class="nav__link{% if item.active %} is-active{% endif %}" href="{{ item.url }}"{% if item.current %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          {%- endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    <div class="lang lang-desktop" data-dropdown>
+      <button type="button" class="lang__toggle" data-dropdown-toggle aria-expanded="false" aria-controls="dd-lang">
+        <span class="visually-hidden">{{ t.lang.label }}: </span><span class="lang__code" aria-hidden="true">{{ L|upper }}</span><span class="lang__name">{{ t._lang.name }}</span><span class="visually-hidden lang__sr-name">{{ t._lang.name }}</span>{{ m.icon("chevron-down", "chevron") }}
+      </button>
+      <ul class="dropdown dropdown--end" id="dd-lang">
+        {%- for l in langs %}
+        <li><a href="{{ l.url }}" hreflang="{{ l.code }}" lang="{{ l.code }}" data-lang-switch="{{ l.code }}"{% if l.current %} aria-current="true"{% endif %}{% if l.missing %} title="{{ l.missing_text }}"{% endif %}>
+          <span>{{ l.name }}</span>{% if l.missing %}<span class="lang__missing" lang="{{ L }}">{{ t.lang.missing_short }}<span class="visually-hidden"> — {{ l.missing_text }}</span></span>{% endif %}</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <a class="menu-toggle" href="#mobile-menu" data-menu-toggle aria-controls="mobile-menu" aria-expanded="false">
+      <span class="menu-toggle__icon" aria-hidden="true"><span></span><span></span><span></span></span><span data-menu-label>{{ t.nav.menu }}</span>
+    </a>
+  </div>
+
+  <div class="mobile-panel" id="mobile-menu">
+    <div class="container mobile-panel__inner">
+      <nav aria-label="{{ t.nav.label }}">
+        <ul class="mnav">
+          {%- for item in nav %}
+          <li>
+            {%- if item.children %}
+            <button type="button" class="mnav__toggle{% if item.active %} is-active{% endif %}" data-mnav-toggle aria-expanded="{{ 'true' if item.active else 'false' }}" aria-controls="m-{{ item.key }}">{{ item.label }}{{ m.icon("chevron-down", "chevron") }}</button>
+            <div class="mnav__sub{% if item.active %} is-open{% endif %}" id="m-{{ item.key }}">
+              <ul>
+                {%- for c in item.children %}
+                <li><a href="{{ c.url }}"{% if c.current %} aria-current="page"{% endif %}>{{ c.label }}</a></li>
+                {%- endfor %}
+              </ul>
+            </div>
+            {%- else %}
+            <a href="{{ item.url }}"{% if item.current %} aria-current="page"{% endif %}>{{ item.label }}</a>
+            {%- endif %}
+          </li>
+          {%- endfor %}
+        </ul>
+      </nav>
+      <div class="mpanel-block">
+        <p class="mpanel-block__title" id="mlang-title">{{ t.lang.label }}</p>
+        <ul class="mlang" aria-labelledby="mlang-title">
+          {%- for l in langs %}
+          <li><a href="{{ l.url }}" hreflang="{{ l.code }}" lang="{{ l.code }}" data-lang-switch="{{ l.code }}"{% if l.current %} aria-current="true"{% endif %}{% if l.missing %} title="{{ l.missing_text }}"{% endif %}><span class="lang__code" aria-hidden="true">{{ l.code|upper }}</span>{{ l.name }}{% if l.missing %}<span class="visually-hidden" lang="{{ L }}"> — {{ l.missing_text }}</span>{% endif %}</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+      <div class="mpanel-block">
+        <p class="mpanel-block__title">{{ t.footer.contact }}</p>
+        <ul class="mcontact">
+          {%- if chrome.phone %}
+          <li><a href="{{ chrome.phone.href }}">{{ m.icon("phone") }}{{ chrome.phone.text }}</a></li>
+          {%- endif %}
+          <li><a href="mailto:{{ chrome.email }}">{{ m.icon("mail") }}{{ chrome.email }}</a></li>
+          <li><a href="{{ chrome.catalog.url }}" target="_blank" rel="noopener" type="application/pdf">{{ m.icon("file") }}{{ t.catalog.download }}<span class="visually-hidden"> — {{ t.catalog.meta|replace("{size}", chrome.catalog.size) }} {{ t.common.opens_new_tab }}</span></a></li>
+        </ul>
+      </div>
+      <div class="mpanel-block">
+        <p class="mpanel-block__title">{{ t.footer.follow }}</p>
+        {{ m.social_links(chrome.socials, t) }}
+      </div>
+    </div>
+  </div>
+</header>

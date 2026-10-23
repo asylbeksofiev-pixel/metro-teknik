@@ -1,0 +1,57 @@
+{
+ "id": "cumhurbaskanligi-hastanesi",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/cumhurbaskanligi-hastanesi",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Cumhurbaşkanlığı Hastanesi",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Cumhurbaşkanlığı Hastanesi",
+ "heading": "Cumhurbaşkanlığı Hastanesi",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "GMT ENGINEERING"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "95.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2010"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$4.850.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/28/main/28-201710231108270210266400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/28/691/28-201710231108270210266400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/28/main/28-201710231108260174727200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/28/691/28-201710231108260174727200.jpg",
+   "alt": ""
+  }
+ ]
+}

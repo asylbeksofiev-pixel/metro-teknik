@@ -1,0 +1,92 @@
+{
+ "id": "han-cadir-mekanik-iscilik-astana",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/han-cadir-mekanik-iscilik-astana-ru",
+ "html_lang": "ru",
+ "title": "Торгово-развлекательный центр",
+ "description": "",
+ "pagehead": "Торгово-развлекательный центр",
+ "heading": "Торгово-развлекательный центр \"ХАН ШАТЫР\"",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "СЕМБОЛ/АЛТЕС"
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "140.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2008"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$4.150.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953210968012800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953210968012800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953210826113200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953210826113200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953210708040400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953210708040400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953200690270900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953200690270900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953190599604600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953190599604600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953190424187200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953190424187200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953180397125000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953180397125000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953180262192100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953180262192100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/18/main/18-201707280953180135234300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/18/691/18-201707280953180135234300.jpg",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "id": "sariarka-alisveris-merkezi-astana",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/sariarka-alisveris-merkezi-astana",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Sarıarka Alışveriş Merkezi",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Sarıarka Alışveriş Merkezi",
+ "heading": "Sarıarka Alışveriş Merkezi",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "BAYTUR / GEMTAŞ"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "42.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2006"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, BASINÇLANDIRMA, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$925.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337520128640200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337520128640200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337370982825700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337370982825700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337370850112800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337370850112800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337370719624800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337370719624800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337360673987800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337360673987800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337350530113000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337350530113000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337350416077600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337350416077600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337340302898700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337340302898700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337320282244100.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337320282244100.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/22/main/22-201707280337320166391600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/22/691/22-201707280337320166391600.jpg",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "nav": [
+  {
+   "label": "О компании",
+   "href": "/page/kurumsal-ru",
+   "children": []
+  },
+  {
+   "label": "Сфера деятельности",
+   "href": "/page/havalandirma-sistemleri-ru",
+   "children": []
+  },
+  {
+   "label": "Наши проекты",
+   "href": "/",
+   "children": [
+    {
+     "label": "ТЕКУЩИЕ ПРОЕКТЫ",
+     "href": "/page/metro-teknik-devam-eden-projeler-ru"
+    },
+    {
+     "label": "ЗАВЕРШЕННЫЕ ПРОЕКТЫ",
+     "href": "/page/metro-teknik-biten-projeleri-ru"
+    }
+   ]
+  },
+  {
+   "label": "Осуществленные работы",
+   "href": "/page/uygulama-ornekleri-ru",
+   "children": []
+  },
+  {
+   "label": "Контакты",
+   "href": "/page/iletisim-ru",
+   "children": []
+  }
+ ],
+ "contacts": [
+  {
+   "label": "E-Mail | info@metro-teknik.net",
+   "href": "mailto:info@metro-teknik.net",
+   "icon": "fa-envelope-o"
+  },
+  {
+   "label": "Контакты",
+   "href": "/page/iletisim-ru",
+   "icon": "fa-map-marker"
+  },
+  {
+   "label": "КАТАЛОГ PDF",
+   "href": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf",
+   "icon": "fa-book"
+  },
+  {
+   "label": "info@metro-teknik.net",
+   "href": "mailto:info@metro-teknik.net",
+   "icon": "fa-mail"
+  }
+ ],
+ "socials": [
+  {
+   "network": "facebook",
+   "href": "https://www.facebook.com/metroteknik01/?fref=ts"
+  },
+  {
+   "network": "instagram",
+   "href": "https://www.instagram.com/metroteknik/"
+  }
+ ],
+ "footer": {
+  "text": [
+   "Контакты",
+   "АДРЕС",
+   "Zühtü Paşa Mah.Kolej Sokak.Kardesler Apt B Blok Daire:1 Kızıltoprak Kadıköy / İstanbul / Türkiye",
+   "Телефон",
+   "0216 345 1161",
+   "fax",
+   "0216 345 1161",
+   "E-Mail",
+   "info@metro-teknik.net",
+   "О НАС",
+   "Предоставляет высококачественные и продуктивные услуги по системам отопления/охлаждения, кондиционирования и вентиляции, пожарного оборудования, по водопроводному оборудованию, системам автоматизации зданий, в соответствии с руководством по механическим системам, поставке материала, реализации, экплуатации и обслуживанию, следуя рекомендациям, международным стандартам и технологическим достижениям.",
+   "Контакты",
+   "КАТАЛОГ PDF",
+   "Metro-Teknik © 2026 All Rights Reserved.",
+   "Ayaner Bilişim Teknolojileri"
+  ],
+  "links": [
+   {
+    "href": "mailto:info@metro-teknik.net",
+    "label": "info@metro-teknik.net"
+   },
+   {
+    "href": "/page/iletisim-ru",
+    "label": "Контакты"
+   },
+   {
+    "href": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf",
+    "label": "КАТАЛОГ PDF"
+   },
+   {
+    "href": "http://www.ayaner.com",
+    "label": "Ayaner Bilişim Teknolojileri"
+   }
+  ]
+ },
+ "ga": "UA-93769726-1"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "karaganda-lastik-fabrikasi",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/karaganda-lastik-fabrikasi",
+ "html_lang": "tr",
+ "title": "Karaganda Lastik Fabrikası",
+ "description": "",
+ "pagehead": null,
+ "heading": "Karaganda Lastik Fabrikası",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Karaganda/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "BI GROUP"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "80.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2022"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Havalandırma, Isıtma, Soğutma, Yangın, Sıhhi Tesisat Malzeme + Montaj."
+  },
+  {
+   "key": "note",
+   "label": "Not",
+   "value": "İmalat görselleri proje medya kısıtlamasından dolayı paylaşılamıyor."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/img/Karaganda-Lastik-Fabrikasi-metro-teknik-net.jpg",
+   "alt": "LASTİK FABRİKASI KAMA-TYRES",
+   "width": "1600",
+   "height": "900"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

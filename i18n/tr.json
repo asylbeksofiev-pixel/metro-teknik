@@ -1,0 +1,150 @@
+{
+  "_lang": {
+    "code": "tr",
+    "name": "Türkçe",
+    "locale": "tr_TR",
+    "legacy": "tr_tr",
+    "hreflang": "tr"
+  },
+  "site_name": "Metro Teknik",
+  "title_suffix": "Metro Teknik",
+  "skip": "İçeriğe geç",
+  "nav": {
+    "label": "Ana menü",
+    "home": "Ana Sayfa",
+    "company": "Kurumsal",
+    "services": "Faaliyet Alanları",
+    "projects": "Projelerimiz",
+    "ongoing": "Devam Eden Projelerimiz",
+    "completed": "Biten Projelerimiz",
+    "gallery": "Uygulama Örnekleri",
+    "contact": "İletişim",
+    "menu": "Menü",
+    "close": "Menüyü kapat",
+    "open_submenu": "{label} alt menüsü",
+    "overview": "Genel bakış"
+  },
+  "lang": {
+    "label": "Dil",
+    "current": "Geçerli dil: {name}",
+    "choose": "Dil seçin",
+    "missing": "Bu sayfanın {name} sürümü bulunmuyor; ilgili bölüme yönlendirilirsiniz.",
+    "missing_short": "bölüm sayfası"
+  },
+  "header": {
+    "phone": "Telefon",
+    "email": "E-posta",
+    "catalog": "Katalog",
+    "contact_link": "Bize Ulaşın"
+  },
+  "catalog": {
+    "download": "Kataloğu indir",
+    "meta": "PDF · {size} · Türkçe / Rusça",
+    "doc_lang_note": "Katalog Türkçe ve Rusça olarak hazırlanmıştır."
+  },
+  "breadcrumb": {
+    "label": "Sayfa konumu",
+    "home": "Ana Sayfa"
+  },
+  "section_nav": {
+    "label": "Bu bölümde",
+    "toggle": "Bu bölümdeki sayfalar"
+  },
+  "home": {
+    "eyebrow": "METRO TEKNİK",
+    "hero_title": "İklimlendirme ve mekanik tesisat sistemleri",
+    "hero_lead": "Isıtma, soğutma, havalandırma, yangın ve sıhhi tesisat alanlarında proje ve taahhüt hizmetleri.",
+    "cta_projects": "Projelerimiz",
+    "cta_services": "Faaliyet Alanları",
+    "services_title": "Faaliyet Alanları",
+    "services_lead": "Mekanik sistemlerin temini, uygulaması, test ve devreye alınması.",
+    "about_title": "Kurumsal",
+    "projects_title": "Projelerimiz",
+    "projects_lead": "Devam eden ve tamamlanan projelerimizden seçmeler.",
+    "all_ongoing": "Devam eden projeler",
+    "all_completed": "Biten projeler",
+    "contact_cta": "İletişime geçin"
+  },
+  "common": {
+    "read_more": "Devamını oku",
+    "view_project": "Projeyi görün",
+    "view_service": "Ayrıntılar",
+    "back_to_list": "Proje listesine dön",
+    "other_services": "Diğer faaliyet alanları",
+    "related_projects": "Diğer projeler",
+    "opens_new_tab": "(yeni sekmede açılır)",
+    "external": "harici bağlantı"
+  },
+  "status": {
+    "ongoing": "Devam ediyor",
+    "completed": "Tamamlandı"
+  },
+  "projects": {
+    "tabs_label": "Proje durumu",
+    "count": "{n} proje",
+    "earlier_title": "Önceki tamamlanan projeler",
+    "earlier_lead": "Mekanik işçilik ve malzeme temini yaptığımız önceki projeler.",
+    "facts_title": "Proje bilgileri",
+    "gallery_title": "Proje fotoğrafları",
+    "empty": "Bu kategoride henüz proje bulunmuyor."
+  },
+  "facts": {
+    "location": "Yer",
+    "client": "İşveren / Yatırımcı",
+    "area": "Kapalı inşaat alanı",
+    "date": "Tarih",
+    "scope": "Proje kapsamı",
+    "budget": "Proje bütçesi",
+    "note": "Not"
+  },
+  "gallery": {
+    "title": "Fotoğraf galerisi",
+    "count": "{n} fotoğraf",
+    "open": "Fotoğrafı büyüt: {n} / {total}",
+    "dialog": "Fotoğraf görüntüleyici",
+    "prev": "Önceki fotoğraf",
+    "next": "Sonraki fotoğraf",
+    "close": "Kapat",
+    "position": "{n} / {total}",
+    "certificates_title": "İş bitirme belgeleri",
+    "certificate_alt": "İş bitirme belgesi {n}",
+    "photo_alt": "{name} — fotoğraf {n}"
+  },
+  "contact": {
+    "offices_title": "Ofislerimiz",
+    "address": "Adres",
+    "phone": "Telefon",
+    "fax": "Faks",
+    "email": "E-posta",
+    "map_title": "{office} konumu — Google Haritalar",
+    "map_open": "Google Haritalar'da aç",
+    "general_title": "Genel iletişim",
+    "catalog_title": "Kurumsal katalog"
+  },
+  "footer": {
+    "about": "Hakkımızda",
+    "pages": "Sayfalar",
+    "contact": "İletişim Bilgileri",
+    "follow": "Bizi takip edin",
+    "catalog": "Kataloğumuzu indirebilirsiniz",
+    "rights": "Metro-Teknik © {year} Her Hakkı Saklıdır.",
+    "attribution": "Ayaner Bilişim Teknolojileri"
+  },
+  "social": {
+    "facebook": "Metro Teknik Facebook sayfası",
+    "instagram": "Metro Teknik Instagram hesabı"
+  },
+  "notfound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa taşınmış veya kaldırılmış olabilir.",
+    "home": "Ana sayfaya dön"
+  },
+  "meta": {
+    "project": "{name} — {location}. Proje kapsamı: {scope}.",
+    "list_ongoing": "Metro Teknik'in devam eden mekanik tesisat ve iklimlendirme projeleri.",
+    "list_completed": "Metro Teknik'in tamamladığı mekanik tesisat ve iklimlendirme projeleri.",
+    "gallery": "Metro Teknik uygulama örnekleri: mekanik tesisat ve havalandırma uygulamalarından fotoğraflar.",
+    "contact": "Metro Teknik İstanbul ve Adana ofislerinin adres, telefon ve e-posta bilgileri.",
+    "certificates": "Metro Teknik iş bitirme belgeleri."
+  }
+}

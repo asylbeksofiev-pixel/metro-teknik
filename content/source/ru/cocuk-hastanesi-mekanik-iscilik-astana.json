@@ -1,0 +1,72 @@
+{
+ "id": "cocuk-hastanesi-mekanik-iscilik-astana",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/cocuk-hastanesi-mekanik-iscilik-astana-ru",
+ "html_lang": "ru",
+ "title": "Tamamlanan Proje / Çocuk Hastanesi Mekanik İşçilik",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Çocuk Hastanesi Mekanik İşçilik",
+ "heading": "АО «Республиканский детский реабилитационный центр»",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "БАЙТУР/ГЕМТАШ"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "45.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2007"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$1.270.080,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/21/main/21-201707260243050500930700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/21/691/21-201707260243050500930700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/21/main/21-201707260243030477744700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/21/691/21-201707260243030477744700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/21/main/21-201707260243030344323200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/21/691/21-201707260243030344323200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/21/main/21-201707260243030237869300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/21/691/21-201707260243030237869300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/21/main/21-201707260243020196365300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/21/691/21-201707260243020196365300.jpg",
+   "alt": ""
+  }
+ ]
+}

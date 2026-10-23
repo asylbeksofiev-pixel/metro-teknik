@@ -1,0 +1,62 @@
+{
+ "id": "akbozat-restoran",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/akbozat-restoran-ru",
+ "html_lang": "ru",
+ "title": "РЕСТОРАН АКБОЗАТ",
+ "description": "",
+ "pagehead": "РЕСТОРАН АКБОЗАТ",
+ "heading": "РЕСТОРАН АКБОЗАТ",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Место",
+   "value": "АСТАНА"
+  },
+  {
+   "key": "client",
+   "label": "Заказчик",
+   "value": "ГМТ ЕИГ."
+  },
+  {
+   "key": "area",
+   "label": "Закрытая строительная площадка",
+   "value": "3.500 m2"
+  },
+  {
+   "key": "date",
+   "label": "Дата",
+   "value": "2010"
+  },
+  {
+   "key": "scope",
+   "label": "В рамках проекта",
+   "value": "ОТОПЛЕНИЕ, ОХЛАЖДЕНИЕ, ВЕНТИЛЯЦИЯ, ДЫМОУДАЛЕНИЕ, АВТОМАТИЧЕСКАЯ СИСТЕМА ПОЖАРОТУШЕНИЯ, ВОДОПРОВОДА, КАНАЛИЗАЦИИ, УСТАНОВКА + МАТЕРИАЛЫ"
+  },
+  {
+   "key": "budget",
+   "label": "Стоимость проекта",
+   "value": "$400.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/29/main/29-201710231109120300970700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/29/691/29-201710231109120300970700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/29/main/29-201710231109110220468200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/29/691/29-201710231109110220468200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/29/main/29-201710231109100137307200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/29/691/29-201710231109100137307200.jpg",
+   "alt": ""
+  }
+ ]
+}

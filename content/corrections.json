@@ -1,0 +1,6 @@
+{
+  "_note": "Minimal, explicit corrections applied on top of the extracted live content. Every entry is an obvious typo in a heading of an existing translation; meaning is unchanged. Listed in docs/AUDIT.md.",
+  "ru": {
+    "isitma-sogutma": {"heading": "Отопление/Охлаждение", "_was": "топление/Охлаждение (first letter missing)"}
+  }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "iletisim",
+ "type": "contact",
+ "lang": "tr",
+ "path": "/page/iletisim",
+ "html_lang": "tr",
+ "title": "İletişim",
+ "description": "",
+ "offices": [
+  {
+   "name": "METRO-TEKNİK İSTANBUL OFİS",
+   "fields": [
+    {
+     "label": "Adres",
+     "lines": [
+      "Zühtü Paşa Mah.Kolej Sokak.Kardesler Apt B Blok Daire:1 Kızıltoprak",
+      "Kadıköy / İstanbul / Türkiye"
+     ]
+    },
+    {
+     "label": "Telefon",
+     "lines": [
+      "0216 345 11 61"
+     ]
+    }
+   ],
+   "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d837.0762624052875!2d29.038148683791974!3d40.984613574798736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDDCsDU5JzA0LjYiTiAyOcKwMDInMTguMiJF!5e0!3m2!1sen!2str!4v1714480404125!5m2!1sen!2str"
+  },
+  {
+   "name": "METRO-TEKNİK ADANA OFİS",
+   "fields": [
+    {
+     "label": "Adres",
+     "lines": [
+      "Çınarlı Mah. İnönü Cad. Günep Kuruköprü",
+      "İş Merk. No:42-101 K:7 No:704 Seyhan-Adana"
+     ]
+    },
+    {
+     "label": "Telefon",
+     "lines": [
+      "0551 233 10 49"
+     ]
+    }
+   ],
+   "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6373.693373152232!2d35.319509!3d36.9895926!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc79d49f54dfb50d9!2zR8O8bmVwIEt1cnVrw7ZwcsO8IMSwxZ8gTWVya2V6aQ!5e0!3m2!1sen!2str!4v1488927721964"
+  }
+ ]
+}

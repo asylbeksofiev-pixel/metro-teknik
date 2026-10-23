@@ -1,0 +1,36 @@
+{
+ "id": "metro-teknik-devam-eden-projeler",
+ "type": "list",
+ "lang": "ru",
+ "path": "/page/metro-teknik-devam-eden-projeler-ru",
+ "html_lang": "ru",
+ "title": "Metro Teknik Ongoing Projects",
+ "description": "",
+ "heading": "Metro Teknik Ongoing Projects",
+ "items": [
+  {
+   "href": "/page/kokshetau-hospital",
+   "name": "Kokshetau Hospital",
+   "location": "Kokshetau/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/37.jpg"
+  },
+  {
+   "href": "/page/almata-hilton",
+   "name": "Almata Hilton",
+   "location": "Almata/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/38.jpg"
+  },
+  {
+   "href": "/page/turkistan-sehir-hastanesi",
+   "name": "Türkistan Şehir Hastanesi",
+   "location": "Türkistan/Kazakistan",
+   "thumb": "https://metro-teknik.net/img/staff/500/30.jpg"
+  },
+  {
+   "href": "/page/tersane-istanbul-spa-merkezi-villa",
+   "name": "Tersane-İstanbul SPA Merkezi+Villa",
+   "location": "İstanbul/Türkiye",
+   "thumb": "https://metro-teknik.net/img/staff/500/36.jpg"
+  }
+ ]
+}

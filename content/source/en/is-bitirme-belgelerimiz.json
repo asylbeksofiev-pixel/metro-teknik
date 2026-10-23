@@ -1,0 +1,109 @@
+{
+ "id": "is-bitirme-belgelerimiz",
+ "type": "certificates",
+ "lang": "en",
+ "path": "/page/our-certificates-of-completion",
+ "html_lang": "en",
+ "title": "Our Certificates of Completion",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Corporate"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vision"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Mission"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "President's Message"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Quality and Environment Policy"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "Our Certificates of Completion"
+  }
+ ],
+ "heading": "Our Certificates of Completion",
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101135170141250400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101135170141250400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101104230219392800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101104230219392800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101104230106326000.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101104230106326000.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101102030160833300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101102030160833300.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101100250377344700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101100250377344700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101100230287470900.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101100230287470900.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101100210194800700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101100210194800700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101059580377893400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101059580377893400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101059560289583200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101059560289583200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101059540197594200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101059540197594200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101059290374086600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101059290374086600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101059270270980200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101059270270980200.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201904101059250175622400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201904101059250175622400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/25/main/25-201709111256120126527300.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/25/691/25-201709111256120126527300.jpg",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "akademi-a6-blok-astana",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/akademi-a6-blok-astana",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Akademi A6 Blok",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Akademi A6 Blok",
+ "heading": "Akademi A6 Blok",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": ""
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2013"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": ""
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "₸2.250.000,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/15/main/15-201710231121540191728800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/15/691/15-201710231121540191728800.jpg",
+   "alt": ""
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "misyon",
+ "type": "company",
+ "lang": "tr",
+ "path": "/page/misyon",
+ "html_lang": "tr",
+ "title": "Misyon",
+ "description": "İnsanın ilk çağlardan beri süregelen yuva ihtiyacını, ona doğal ve modern olanaklarla çevrelenmiş olarak sunmak.",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Kurumsal"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vizyon"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Misyon"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "Başkanın Mesajı"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Kalite ve Çevre Politikamız"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "İş Bitirme Belgelerimiz"
+  }
+ ],
+ "heading": "Misyon",
+ "body_html": "<ul><li>İnsanın ilk çağlardan beri süregelen yuva ihtiyacını, ona doğal ve modern olanaklarla çevrelenmiş olarak sunmak.</li><li>Öncelikle sosyal, sportif ve kültürel aktivitelerle bağını eksiksiz kurarak, doğal yuva ihtiyacını sağlam bir zemine oturtmak.</li><li>Sonra modernlik, mimari mükemmellik ve teknolojinin akıllı kullanımıyla insanı geleceğe taşımak ve böylelikle yüceltmek.</li></ul>",
+ "gallery": []
+}

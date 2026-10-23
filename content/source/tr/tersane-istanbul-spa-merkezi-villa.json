@@ -1,0 +1,53 @@
+{
+ "id": "tersane-istanbul-spa-merkezi-villa",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/tersane-istanbul-spa-merkezi-villa",
+ "html_lang": "tr",
+ "title": "Tersane-İstanbul SPA Merkezi+Villa",
+ "description": "",
+ "pagehead": null,
+ "heading": "Tersane-İstanbul SPA Merkezi+Villa",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "İstanbul/Türkiye"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "Sembol İnşaat"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "24.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2024"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "-"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/projects/tersane-map.jpg",
+   "alt": "Tersane-İstanbul SPA Merkezi+Villa",
+   "width": "1200",
+   "height": "533"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

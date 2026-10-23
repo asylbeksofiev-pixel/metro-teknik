@@ -1,0 +1,48 @@
+{
+ "id": "astana-kongre-merkezi-komple-renovasyon",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/astana-kongre-merkezi-komple-renovasyon",
+ "html_lang": "tr",
+ "title": "Astana Kongre Merkezi (Komple Renovasyon)",
+ "description": "",
+ "pagehead": null,
+ "heading": "Astana Kongre Merkezi (Komple Renovasyon)",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana/Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "Sembol İnşaat"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": "44.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2023"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": "Isıtma, Soğutma, Havalandırma, Yangın, Sıhhi Tesisat Malzeme+Montaj."
+  }
+ ],
+ "images": [
+  {
+   "src": "https://metro-teknik.net/uploads/astana_kongre_merkezi.jpg",
+   "alt": "Astana Kongre Merkezi (Komple Renovasyon)",
+   "width": "800",
+   "height": "500"
+  }
+ ],
+ "body_html": "",
+ "gallery": []
+}

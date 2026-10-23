@@ -1,0 +1,41 @@
+{
+ "id": "kervansaray",
+ "type": "project",
+ "lang": "ru",
+ "path": "/page/kervansaray-ru",
+ "html_lang": "ru",
+ "title": "",
+ "description": "",
+ "pagehead": null,
+ "heading": "Kervansaray",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Location",
+   "value": "Aktau / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "Employer/Investor",
+   "value": "SEMBOL İNŞAAT"
+  },
+  {
+   "key": "area",
+   "label": "Closed Construction Area",
+   "value": "56.000 m2"
+  },
+  {
+   "key": "date",
+   "label": "Date",
+   "value": "2019"
+  },
+  {
+   "key": "scope",
+   "label": "Scope of Project",
+   "value": "ISITMA, SOĞUTMA, HAVALANDIRMA, DUMAN EMİŞ, YANGIN, SIHHİ TESİSAT, MONTAJ+MALZEME"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": []
+}

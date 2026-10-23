@@ -1,0 +1,72 @@
+{
+ "id": "noroloji-hastanesi-mekanik-iscilik-astana",
+ "type": "project",
+ "lang": "tr",
+ "path": "/page/noroloji-hastanesi-mekanik-iscilik-astana",
+ "html_lang": "tr",
+ "title": "Tamamlanan Proje / Nöroloji Hastanesi Mekanik İşçilik",
+ "description": "",
+ "pagehead": "Tamamlanan Proje / Nöroloji Hastanesi Mekanik İşçilik",
+ "heading": "Nöroloji Hastanesi Mekanik İşçilik",
+ "facts": [
+  {
+   "key": "location",
+   "label": "Yer",
+   "value": "Astana / Kazakistan"
+  },
+  {
+   "key": "client",
+   "label": "İşveren/Yatırımcı",
+   "value": "BAYTUR / GEMTAŞ"
+  },
+  {
+   "key": "area",
+   "label": "Kapalı İnşaat Alanı",
+   "value": ""
+  },
+  {
+   "key": "date",
+   "label": "Tarih",
+   "value": "2006"
+  },
+  {
+   "key": "scope",
+   "label": "Proje Kapsamı",
+   "value": ""
+  },
+  {
+   "key": "budget",
+   "label": "Proje Bütçesi",
+   "value": "$1.360.800,00"
+  }
+ ],
+ "images": [],
+ "body_html": "",
+ "gallery": [
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103540598777600.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103540598777600.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103540419022400.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103540419022400.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103530379638800.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103530379638800.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103530253091700.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103530253091700.jpg",
+   "alt": ""
+  },
+  {
+   "full": "https://metro-teknik.net/img/gallery/23/main/23-201703141103530104319200.jpg",
+   "thumb": "https://metro-teknik.net/img/gallery/23/691/23-201703141103530104319200.jpg",
+   "alt": ""
+  }
+ ]
+}

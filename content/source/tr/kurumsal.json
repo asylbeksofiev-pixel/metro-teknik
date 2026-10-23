@@ -1,0 +1,38 @@
+{
+ "id": "kurumsal",
+ "type": "company",
+ "lang": "tr",
+ "path": "/page/kurumsal",
+ "html_lang": "tr",
+ "title": "Kurumsal",
+ "description": "",
+ "menu": [
+  {
+   "href": "/page/kurumsal",
+   "label": "Kurumsal"
+  },
+  {
+   "href": "/page/vizyon",
+   "label": "Vizyon"
+  },
+  {
+   "href": "/page/misyon",
+   "label": "Misyon"
+  },
+  {
+   "href": "/page/baskanin-mesaji",
+   "label": "Başkanın Mesajı"
+  },
+  {
+   "href": "/page/kalite-ve-cevre-politikamiz",
+   "label": "Kalite ve Çevre Politikamız"
+  },
+  {
+   "href": "/page/is-bitirme-belgelerimiz",
+   "label": "İş Bitirme Belgelerimiz"
+  }
+ ],
+ "heading": "Kurumsal",
+ "body_html": "<p>15 yıllık iş deneyimimizi 2013 yılında Türkiye Adana' da kurduğumuz Metro Teknik İnşaat İklimlendirme ve Mekanik Ltd. Şirketimizle profosyonel anlamda ve çağın teknik ve teknolojisini kullanarak iklimlendirme ve mekanik tesisat alanlarında proje ve taahhüt hizmeti vermek üzere kurulan firmamız, deneyimli ve uzman kadrosu ile sektöründe kaliteden ödün vermeden önemli işlere imza atmıştır.</p>\n<p>Isıtma-Soğutma, Havalandırma, Yangın Tesisatı, Sıhhi Tesisat, ..vb mekanik sistemleri, fizibilite ,danışmanlık, malzeme temini, uygulama, işletme ve bakım konusunda yönetmeliklere uygun, uluslararası standartlar ve teknolojik gelişmeleri takip ederek, yüksek kalite ve verimlilikte hizmet vermektedir. Çalışmaların tüm aşamalarında; sistem seçimlerini, işverenin istekleri doğrultusunda ve optimum yatırım ve işletme maliyetlerini dikkate alarak yapmayı hedefleyen METRO TEKNİK, yatırımcıların çözüm ortağı olarak sektördeki yerini almıştır.</p>\n<p>Amacımız istenilen hizmeti, etkin bir çevre ve enerji bilinci ile gelişen teknolojiyi takip ederek, verimli sistemler kurmaktır.</p>\n<p>Uluslararası projelerin yapımında bulunmanın verdiği tecrübe birikimiyle en doğru tasarım ve kaliteli imalata dayalı müşteri menmuniyetini temel hedef edinmiştir.<br>Firmamızın amacı Türkiye, Kazakistan, Türki Cumhuriyetler, Rusya, Ortadoğu Ülkelerinde standartlara uygun, doğaya saygılı, yaşam alanlarının sağlıklı konfor şartlarını sağlayan, endüstriyel, konut ve sosyal hizmet yapılarının iklimlendirme ve mekanik tesisat uygulamalarını gerçekleştirmektir.</p>\n<p>Yapımını bitirdiğimiz projelerde kurulu tüm iklimlendirme ve mekanik tesisat sistemlerinin işletme şartları performans testleri düzenli bir şekilde kontrol edilmektedir. Tesislerin dizayn şartlarında tavsiye edilen set değerleri ve öngörülen enerji tüketim maliyetlerine uygun olarak, sistemlerin en verimli şekilde çalışması sağlanmaktadır. Ayrıca işverenin isteğine bağlı olarak belirtilen işletme personeline gerekli eğitimler verilmektedir.</p>",
+ "gallery": []
+}
