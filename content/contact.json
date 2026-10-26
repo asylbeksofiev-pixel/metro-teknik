@@ -2,12 +2,21 @@
   "_note": "Official company contact data (supplied by the owner, 2026-10-26). Replaces the Istanbul/Adana offices, the fax and the old phone numbers on every page. Map embed/link use the same address.",
   "domain": "metroteknik.kz",
   "email": "info@metroteknik.kz",
-  "phone": {"text": "+7 701 360 07 79", "href": "tel:+77013600779"},
-  "map_query": "Республики 1/1, Косшы, Акмолинская область, Казахстан",
+  "phone": {
+    "text": "+7 701 360 07 79",
+    "href": "tel:+77013600779"
+  },
   "address": {
     "kk": "Қазақстан, Ақмола облысы, Қосшы қаласы, Республика көшесі, 1/1 үй, 1/4 корпус, 104 пәтер",
     "ru": "Казахстан, Акмолинская область, город Косшы, улица Республики, д. 1/1, корпус 1/4, кв. 104",
     "en": "Kazakhstan, Akmola Region, Kosshy city, Respublika street, bldg 1/1, block 1/4, apt 104",
     "tr": "Kazakistan, Akmola Bölgesi, Kosşı şehri, Respublika caddesi, No: 1/1, Blok: 1/4, Daire: 104"
+  },
+  "map": {
+    "share_url": "https://maps.app.goo.gl/ene6rKh9Wpkk6nc9A",
+    "lat": 50.996575,
+    "lng": 71.370181,
+    "zoom": 17,
+    "_note": "Coordinates resolved from the owner's share link (2026-10-26). The embed is centred on them; the button opens the share link."
   }
 }

@@ -504,11 +504,12 @@ def page_gallery(pid, lang):
 
 def page_contact(pid, lang):
     t = I18N[lang]
-    q = urllib.parse.quote(CONTACT["map_query"])
+    mp = CONTACT["map"]
+    q = f'{mp["lat"]},{mp["lng"]}'
     offices = [{"name": t["contact"]["kz_office"], "address": [CONTACT["address"][lang]], "address_lang": lang,
                 "phones": [dict(CONTACT["phone"])],
-                "map": f"https://maps.google.com/maps?q={q}&z=16&hl={lang}&output=embed",
-                "map_link": f"https://www.google.com/maps/search/?api=1&query={q}"}]
+                "map": f"https://maps.google.com/maps?q={q}&z={mp['zoom']}&hl={lang}&output=embed",
+                "map_link": mp["share_url"]}]
     h = t["nav"]["contact"]
     data = {"id": pid, "type": "contact", "title": h, "doc_title": f"{h} | Metro Teknik", "heading": h,
             "description": t["meta"]["contact"], "offices": offices}
