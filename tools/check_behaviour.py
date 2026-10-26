@@ -63,7 +63,7 @@ def main():
     s, h, body = raw(base, "/")
     check("/ without cookie is Turkish", s == 200 and '<html lang="tr"' in body, s)
     s, h, body = raw(base, "/page/ana-sayfa")
-    check("/page/ana-sayfa alias still works (canonical /)", s == 200 and 'rel="canonical" href="https://metro-teknik.net/"' in body, s)
+    check("/page/ana-sayfa alias still works (canonical /)", s == 200 and 'rel="canonical" href="https://metroteknik.kz/"' in body, s)
     s, h, _ = raw(base, "/page/teknopark-astana")
     check("removed legacy page 301s to completed list", s == 301 and h["Location"] == "/page/metro-teknik-biten-projeleri", (s, h.get("Location")))
     s, h, body = raw(base, "/page/does-not-exist-kk")

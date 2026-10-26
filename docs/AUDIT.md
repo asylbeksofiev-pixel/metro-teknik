@@ -88,3 +88,12 @@ official address is entered there, the office appears on the contact page in all
 
 The live contact page has no form, so no form, fields, placeholders or validation messages were added (adding
 a non-functional form was explicitly out of scope). Every visible label on the page is localized in all four languages.
+
+## 9. Contact data update (owner instruction, 2026-10-26)
+
+The phone/address discrepancies in §4 (#1, #2) and the Kazakhstan-office gap in §7 are resolved by the owner's data in
+`content/contact.json`: one office in Kosshy (Akmola Region), one phone `+7 701 360 07 79` (`tel:+77013600779`),
+e-mail `info@metroteknik.kz`, domain `metroteknik.kz`. The Istanbul and Adana offices, their maps, the fax and all old
+numbers are removed from every page and language. The catalog PDF is now served from the site itself
+(`/static/files/…`, with `/files/…` redirected). Photos are still loaded from the old server `metro-teknik.net`
+(`/img/…`, `/uploads/…`) because `metroteknik.kz` does not host them yet.

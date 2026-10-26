@@ -111,16 +111,15 @@
     "photo_alt": "{name} — photo {n}"
   },
   "contact": {
-    "offices_title": "Our offices",
+    "offices_title": "Our office",
     "address": "Address",
     "phone": "Telephone",
-    "fax": "Fax",
     "email": "E-mail",
     "map_title": "{office} location — Google Maps",
     "map_open": "Open in Google Maps",
     "general_title": "General contact",
     "catalog_title": "Company catalog",
-    "kz_office": "METRO-TEKNİK Kazakhstan Office"
+    "kz_office": "METRO TEKNİK Kazakhstan Office"
   },
   "footer": {
     "about": "About us",
@@ -145,7 +144,7 @@
     "list_ongoing": "Ongoing mechanical installation and HVAC projects of Metro Teknik.",
     "list_completed": "Mechanical installation and HVAC projects completed by Metro Teknik.",
     "gallery": "Metro Teknik application examples: photos of mechanical installation and ventilation works.",
-    "contact": "Addresses, telephone numbers and e-mail of the Metro Teknik offices in Istanbul and Adana.",
+    "contact": "Address, telephone number and e-mail of the Metro Teknik office.",
     "certificates": "Metro Teknik certificates of completion."
   }
 }

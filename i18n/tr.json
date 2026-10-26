@@ -111,16 +111,15 @@
     "photo_alt": "{name} — fotoğraf {n}"
   },
   "contact": {
-    "offices_title": "Ofislerimiz",
+    "offices_title": "Ofisimiz",
     "address": "Adres",
     "phone": "Telefon",
-    "fax": "Faks",
     "email": "E-posta",
     "map_title": "{office} konumu — Google Haritalar",
     "map_open": "Google Haritalar'da aç",
     "general_title": "Genel iletişim",
     "catalog_title": "Kurumsal katalog",
-    "kz_office": "METRO-TEKNİK Kazakistan Ofisi"
+    "kz_office": "METRO TEKNİK Kazakistan Ofisi"
   },
   "footer": {
     "about": "Hakkımızda",
@@ -145,7 +144,7 @@
     "list_ongoing": "Metro Teknik'in devam eden mekanik tesisat ve iklimlendirme projeleri.",
     "list_completed": "Metro Teknik'in tamamladığı mekanik tesisat ve iklimlendirme projeleri.",
     "gallery": "Metro Teknik uygulama örnekleri: mekanik tesisat ve havalandırma uygulamalarından fotoğraflar.",
-    "contact": "Metro Teknik İstanbul ve Adana ofislerinin adres, telefon ve e-posta bilgileri.",
+    "contact": "Metro Teknik ofisinin adresi, telefon numarası ve e-posta adresi.",
     "certificates": "Metro Teknik iş bitirme belgeleri."
   }
 }

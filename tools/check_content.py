@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
-BASE = "https://metro-teknik.net"
+BASE = "https://metroteknik.kz"
 LANGS = ["tr", "en", "ru", "kk"]
 KK_ONLY = set("ӘәҒғҚқҢңӨөҰұҮүҺһІі")
 TR_ONLY = re.compile(r"[ğĞışŞİ]")

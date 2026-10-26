@@ -111,16 +111,15 @@
     "photo_alt": "{name} — фото {n}"
   },
   "contact": {
-    "offices_title": "Наши офисы",
+    "offices_title": "Наш офис",
     "address": "Адрес",
     "phone": "Телефон",
-    "fax": "Факс",
     "email": "E-mail",
     "map_title": "{office} на карте — Google Карты",
     "map_open": "Открыть в Google Картах",
     "general_title": "Общие контакты",
     "catalog_title": "Каталог компании",
-    "kz_office": "Офис METRO-TEKNİK в Казахстане"
+    "kz_office": "Офис METRO TEKNİK в Казахстане"
   },
   "footer": {
     "about": "О нас",
@@ -145,7 +144,7 @@
     "list_ongoing": "Текущие проекты Metro Teknik по инженерным сетям и системам кондиционирования.",
     "list_completed": "Завершённые проекты Metro Teknik по инженерным сетям и системам кондиционирования.",
     "gallery": "Осуществлённые работы Metro Teknik: фотографии монтажа инженерных сетей и систем вентиляции.",
-    "contact": "Адреса, телефоны и e-mail офисов Metro Teknik в Стамбуле и Адане.",
+    "contact": "Адрес, телефон и e-mail офиса Metro Teknik.",
     "certificates": "Сертификаты Metro Teknik о завершении работ."
   }
 }

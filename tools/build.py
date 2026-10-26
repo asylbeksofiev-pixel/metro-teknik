@@ -18,6 +18,7 @@ import html
 import json
 import re
 import shutil
+import urllib.parse
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -25,10 +26,11 @@ from markupsafe import Markup
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
-BASE_URL = "https://metro-teknik.net"
+CONTACT = json.loads((Path(__file__).resolve().parent.parent / "content" / "contact.json").read_text(encoding="utf-8"))
+BASE_URL = "https://" + CONTACT["domain"]
 LANGS = ["tr", "en", "ru", "kk"]
 SOURCE_LANGS = ["tr", "en", "ru"]
-CATALOG = {"url": "https://metro-teknik.net/files/metro-teknik-katalog-haziran-2021.pdf", "size": "22 MB"}
+CATALOG = {"url": "/static/files/metro-teknik-katalog-haziran-2021.pdf", "size": "22 MB"}  # self-hosted copy of the live file
 ATTRIBUTION_URL = "http://www.ayaner.com"
 COMPANY = ["kurumsal", "vizyon", "misyon", "baskanin-mesaji", "kalite-ve-cevre-politikamiz", "is-bitirme-belgelerimiz"]
 SERVICES = ["havalandirma-sistemleri", "isitma-sogutma", "sihhi-tesisat", "yangin", "mekanik-otomasyon"]
@@ -254,15 +256,11 @@ def chrome(lang):
     base = "tr" if lang == "kk" else lang
     s = SITE[base]
     t = I18N[lang]
-    phone = None
-    for c in s["contacts"]:
-        if (c.get("href") or "").startswith("tel:"):
-            text = c["label"].split("|")[-1].strip()
-            phone = {"text": text, "href": tel_href(c["href"])}
+    phone = dict(CONTACT["phone"])  # single official number on every page (old numbers and fax removed)
     ft = s["footer"]["text"]
     # footer text order on the live site: heading, Adres, address, Telefon, phone, fax, fax, E-Mail, email, about-heading, about, …
     footer = {
-        "address": ft[2], "phone": ft[4], "phone_href": tel_href(ft[4]), "fax": ft[6], "email": ft[8],
+        "address": CONTACT["address"][lang], "phone": phone["text"], "phone_href": phone["href"], "email": CONTACT["email"],
         "about": KK["chrome"]["footer_about"] if lang == "kk" else ft[10],
         "rights": t["footer"]["rights"].replace("{year}", str(datetime.date.today().year)),
         "attribution": t["footer"]["attribution"], "attribution_url": ATTRIBUTION_URL,
@@ -506,30 +504,11 @@ def page_gallery(pid, lang):
 
 def page_contact(pid, lang):
     t = I18N[lang]
-    base = "tr" if lang == "kk" else lang
-    offices = []
-    tr_offices = SRC["tr"][pid]["offices"]
-    for i, o in enumerate(src(pid, base)["offices"]):
-        addr, phones = [], []
-        for f in o["fields"]:
-            lab = f["label"].lower()
-            if lab.startswith(("adres", "addres", "address", "адрес")):
-                addr = f["lines"]
-            elif lab.startswith(("telefon", "telephone", "телефон", "phone")):
-                phones = [{"text": ln, "href": tel_href(ln)} for ln in f["lines"]]
-        name = KK[pid]["offices"][i]["name"] if lang == "kk" else o["name"]
-        tr_addr = next((f["lines"] for f in tr_offices[i]["fields"] if f["label"].lower().startswith("adres")), addr)
-        q = re.sub(r"\s+", "+", " ".join(tr_addr).strip())
-        offices.append({"name": name, "address": addr, "address_lang": "tr" if TURKISH_HINT.search(" ".join(addr)) or base == "tr" or base == "en" else base,
-                        "phones": phones, "map": o.get("map"),
-                        "map_link": "https://www.google.com/maps/search/?api=1&query=" + q if q else None})
-    kz = load(CONTENT / "offices_extra.json")["kz"]
-    if kz.get("address"):
-        offices.append({"name": t["contact"]["kz_office"], "address": kz["address"], "address_lang": "kk" if lang == "kk" else lang,
-                        "phones": [{"text": ph, "href": tel_href(ph)} for ph in kz.get("phones", [])], "map": kz.get("map"),
-                        "map_link": "https://www.google.com/maps/search/?api=1&query=" + re.sub(r"\s+", "+", " ".join(kz["address"]))})
-    elif lang == "tr":
-        print("WARNING: Kazakhstan office address missing (content/offices_extra.json) — not shown on the contact page")
+    q = urllib.parse.quote(CONTACT["map_query"])
+    offices = [{"name": t["contact"]["kz_office"], "address": [CONTACT["address"][lang]], "address_lang": lang,
+                "phones": [dict(CONTACT["phone"])],
+                "map": f"https://maps.google.com/maps?q={q}&z=16&hl={lang}&output=embed",
+                "map_link": f"https://www.google.com/maps/search/?api=1&query={q}"}]
     h = t["nav"]["contact"]
     data = {"id": pid, "type": "contact", "title": h, "doc_title": f"{h} | Metro Teknik", "heading": h,
             "description": t["meta"]["contact"], "offices": offices}
@@ -639,7 +618,7 @@ def main():
         lines.append("  </url>")
     lines.append("</urlset>")
     (out / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    (out / "robots.txt").write_text("User-agent: *\nDisallow: /assets\nSitemap: https://metro-teknik.net/sitemap.xml\n", encoding="utf-8")
+    (out / "robots.txt").write_text("User-agent: *\nDisallow: /assets\nSitemap: " + BASE_URL + "/sitemap.xml\n", encoding="utf-8")
     shutil.copy(ROOT / "static" / "img" / "icons" / "favicon.ico", out / "favicon.ico")
     shutil.copy(ROOT / "static" / "img" / "icons" / "apple-touch-icon.png", out / "apple-touch-icon.png")
     print(f"built {count} pages into {out}")

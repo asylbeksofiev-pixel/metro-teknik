@@ -9,7 +9,7 @@
 </div>
 <div class="container section pt-7">
   <h2 class="visually-hidden">{{ t.contact.offices_title }}</h2>
-  <div class="offices" data-reveal-group>
+  <div class="offices{% if page.offices|length == 1 %} offices--single{% endif %}" data-reveal-group>
     {%- for o in page.offices %}
     <article class="office" data-reveal>
       <div class="office__body">
