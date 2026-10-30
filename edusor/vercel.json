@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "regions": ["fra1"],
+  "crons": [{ "path": "/api/jobs/run", "schedule": "*/5 * * * *" }],
+  "functions": {
+    "src/app/api/jobs/run/route.ts": { "maxDuration": 300 },
+    "src/app/api/documents/route.ts": { "maxDuration": 300 },
+    "src/app/api/attempts/[id]/submit/route.ts": { "maxDuration": 120 }
+  }
+}

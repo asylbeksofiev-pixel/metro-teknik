@@ -174,7 +174,7 @@ export function AttemptRunner(p: Props) {
       <div className="mx-auto mt-10 max-w-lg rounded-lg border border-border bg-surface p-8 text-center shadow-card">
         <CheckCircle2 className="mx-auto mb-3 size-10 text-success" />
         <h1 className="text-lg font-semibold">{finishReason === "timeout" ? d.attempt.timeUpTitle : d.attempt.submittedTitle}</h1>
-        <p className="mt-2 text-sm text-muted-foreground">{finishReason === "timeout" ? d.attempt.timeUpText : d.attempt.submittedTitle}</p>
+        {finishReason === "timeout" && <p className="mt-2 text-sm text-muted-foreground">{d.attempt.timeUpText}</p>}
         <Loader2 className="mx-auto mt-4 size-5 animate-spin text-muted-foreground" />
       </div>
     );
@@ -225,7 +225,7 @@ export function AttemptRunner(p: Props) {
         </div>
       )}
 
-      <div className="mx-auto grid w-full max-w-6xl flex-1 gap-6 px-4 py-6 lg:grid-cols-[1fr_260px]">
+      <div className="mx-auto grid w-full max-w-6xl flex-1 content-start gap-6 px-4 py-6 lg:grid-cols-[1fr_260px]">
         <main className="min-w-0">
           {p.lockdown && !lockdown.supported && <Alert tone="info" className="mb-4">{d.lockdown.fullscreenUnsupported}</Alert>}
           {submitError && <Alert tone="danger" className="mb-4">{submitError}</Alert>}

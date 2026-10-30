@@ -13,7 +13,8 @@
     "test:watch": "vitest",
     "test:integration": "vitest run --config vitest.integration.mts",
     "db:seed": "node --experimental-strip-types --no-warnings scripts/seed.ts",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "mock-ai": "node --experimental-strip-types --no-warnings scripts/mock-ai-server.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^6.0.2",
