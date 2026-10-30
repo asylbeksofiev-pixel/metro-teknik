@@ -37,7 +37,7 @@ export function QuestionImages({ images }: { images: { path: string; alt: string
 export function QuestionView({
   question,
   response,
-  onChange,
+  onChange: onChangeProp,
   optionOrder,
   disabled,
   files,
@@ -46,7 +46,8 @@ export function QuestionView({
 }: {
   question: ViewQuestion;
   response: Resp;
-  onChange: (r: Resp) => void;
+  /** Omit for read-only rendering (e.g. from a server component). */
+  onChange?: (r: Resp) => void;
   optionOrder?: string[];
   disabled?: boolean;
   files?: UploadedFile[];
@@ -54,6 +55,7 @@ export function QuestionView({
   onRemoveFile?: (fileId: string) => void;
 }) {
   const { d } = useI18n();
+  const onChange = onChangeProp ?? (() => {});
   const c = question.content;
   const prompt = String(c.prompt ?? "");
   const [uploading, setUploading] = useState(false);

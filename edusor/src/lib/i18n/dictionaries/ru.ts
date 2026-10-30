@@ -616,6 +616,8 @@ export const ru = {
     noMistakeData: "Данных пока недостаточно — анализ появится после публикации результатов.",
     topicAccuracy: "Точность по теме",
     basedOn: "На основе {n} проверенных ответов",
+    mistakeTypes: "Типы заданий с частыми ошибками",
+    topicChanges: "Изменения по темам",
   },
   analytics: {
     title: "Аналитика: {title}",
@@ -629,6 +631,7 @@ export const ru = {
     distribution: "Распределение результатов",
     questionNavigator: "Вопросы",
     responses: "Ответов",
+    answer: "Ответ",
     correct: "Верно",
     incorrect: "Неверно",
     partial: "Частично",

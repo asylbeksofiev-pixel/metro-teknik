@@ -70,3 +70,5 @@
   body { background: #fff; }
   .print-break { break-inside: avoid; }
 }
+.print-only { display: none; }
+@media print { .print-only { display: inline; } aside, header { display: none !important; } }

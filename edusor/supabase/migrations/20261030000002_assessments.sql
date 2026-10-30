@@ -360,7 +360,7 @@ create policy assessments_staff_select on public.assessments for select to authe
     or (class_id is not null and public.teaches_class_subject(class_id, subject_id) and public.is_school_staff(school_id))
   );
 create policy assessments_student_select on public.assessments for select to authenticated
-  using (status in ('published', 'closed') and public.is_assigned(id));
+  using (status in ('published', 'closed', 'archived') and public.is_assigned(id));
 create policy assessments_insert on public.assessments for insert to authenticated
   with check (created_by = auth.uid() and public.is_school_staff(school_id)
     and (class_id is null or public.teaches_class_subject(class_id, subject_id) or public.is_school_admin(school_id)));
@@ -394,7 +394,7 @@ create policy snapshots_manage_select on public.assessment_snapshots for select 
   using (public.can_manage_assessment(assessment_id));
 create policy snapshots_student_select on public.assessment_snapshots for select to authenticated
   using (public.is_assigned(assessment_id) and exists (
-    select 1 from public.assessments a where a.id = assessment_id and a.status in ('published', 'closed')
+    select 1 from public.assessments a where a.id = assessment_id and a.status in ('published', 'closed', 'archived')
   ));
 -- Inserts happen only inside publish_assessment().
 

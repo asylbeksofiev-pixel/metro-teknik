@@ -617,6 +617,8 @@ export const kk: Dictionary = {
     noMistakeData: "Деректер әлі жеткіліксіз — талдау нәтижелер жарияланғаннан кейін пайда болады.",
     topicAccuracy: "Тақырып бойынша дәлдік",
     basedOn: "{n} тексерілген жауап негізінде",
+    mistakeTypes: "Жиі қате жіберілетін тапсырма түрлері",
+    topicChanges: "Тақырыптар бойынша өзгерістер",
   },
   analytics: {
     title: "Талдау: {title}",
@@ -630,6 +632,7 @@ export const kk: Dictionary = {
     distribution: "Нәтижелердің таралуы",
     questionNavigator: "Сұрақтар",
     responses: "Жауаптар",
+    answer: "Жауап",
     correct: "Дұрыс",
     incorrect: "Бұрыс",
     partial: "Ішінара",
