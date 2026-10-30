@@ -1,3 +1,6 @@
 import "server-only";
-// AI/OCR workers are registered here (see Phase 4 modules).
-export {};
+import { registerWorkers } from "./jobs";
+import { processGradingJobs } from "@/lib/ai/grading-worker";
+import { processOcrJobs } from "@/lib/ai/document-worker";
+
+registerWorkers({ processGradingJobs, processOcrJobs });

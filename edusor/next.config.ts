@@ -9,7 +9,7 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
-  serverExternalPackages: ["mammoth", "unpdf"],
+  serverExternalPackages: ["mammoth", "unpdf", "@napi-rs/canvas"],
   experimental: {
     serverActions: { bodySizeLimit: "2mb" },
   },
