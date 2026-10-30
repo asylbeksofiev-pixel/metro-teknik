@@ -21,7 +21,6 @@ export async function loadStudentResult(supabase: ServerClient, studentId: strin
     supabase.from("assessment_snapshot_keys").select("question_id, answer_key, rubric, explanation").eq("snapshot_id", t.snapshot_id),
     supabase.from("ai_explanations").select("answer_id, locale, messages").eq("student_id", studentId),
   ]);
-  const byQ = new Map(((snap?.questions ?? []) as SnapshotQuestion[]).map((q) => [q.id, q]));
   const keyOf = new Map((keys ?? []).map((k) => [k.question_id, k]));
   const answerOf = new Map((answers ?? []).map((a) => [a.question_id, a]));
   const scoreOf = new Map((scores ?? []).map((s) => [s.question_id, s]));
