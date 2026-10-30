@@ -227,7 +227,8 @@ create table public.notifications (
   created_at timestamptz not null default now()
 );
 create index notifications_user_idx on public.notifications (user_id, created_at desc);
-create unique index notifications_dedupe on public.notifications (user_id, dedupe_key) where dedupe_key is not null;
+-- NULL dedupe keys are distinct, so non-deduplicated notifications are unaffected.
+alter table public.notifications add constraint notifications_dedupe unique (user_id, dedupe_key);
 
 create table public.audit_events (
   id uuid primary key default gen_random_uuid(),

@@ -47,7 +47,10 @@ export function SimpleForm({
   const router = useRouter();
   const [pending, start] = useTransition();
   const [status, setStatus] = useState<{ error?: string; success?: boolean }>({});
-  const defaults = Object.fromEntries(fields.map((f) => [f.name, f.defaultValue ?? ""]));
+  // A required select shows its first option, so its value must start as that option too.
+  const defaults = Object.fromEntries(
+    fields.map((f) => [f.name, f.defaultValue ?? (f.type === "select" && f.required ? (f.options?.[0]?.value ?? "") : "")]),
+  );
   const form = useForm<Record<string, string>>({ defaultValues: defaults });
 
   const onSubmit = form.handleSubmit((values) =>
@@ -59,7 +62,10 @@ export function SimpleForm({
         if (resetOnSuccess) form.reset(defaults);
         router.refresh();
       } else if (res.fieldErrors) {
-        for (const [k, v] of Object.entries(res.fieldErrors)) form.setError(k, { message: v });
+        const known = new Set(fields.map((f) => f.name));
+        for (const [k, v] of Object.entries(res.fieldErrors)) if (known.has(k)) form.setError(k, { message: v });
+        // An error on a field this form does not show must still be visible.
+        if (Object.keys(res.fieldErrors).some((k) => !known.has(k))) setStatus({ error: "invalid" });
       } else setStatus({ error: res.error });
     }),
   );

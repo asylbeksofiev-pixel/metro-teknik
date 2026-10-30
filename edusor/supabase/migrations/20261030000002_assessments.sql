@@ -126,8 +126,9 @@ create table public.assessment_assignments (
   created_at timestamptz not null default now(),
   check ((class_id is null) <> (student_id is null))
 );
-create unique index assignments_class_unique on public.assessment_assignments (assessment_id, class_id) where class_id is not null;
-create unique index assignments_student_unique on public.assessment_assignments (assessment_id, student_id) where student_id is not null;
+-- Plain unique constraints (NULLs are distinct) so they can be used as ON CONFLICT targets.
+alter table public.assessment_assignments add constraint assignments_class_unique unique (assessment_id, class_id);
+alter table public.assessment_assignments add constraint assignments_student_unique unique (assessment_id, student_id);
 create index assignments_class_idx on public.assessment_assignments (class_id);
 create index assignments_student_idx on public.assessment_assignments (student_id);
 
