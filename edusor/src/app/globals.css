@@ -1,0 +1,72 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  --color-background: #f6f7fb;
+  --color-surface: #ffffff;
+  --color-foreground: #111827;
+  --color-muted: #f1f3f8;
+  --color-muted-foreground: #5b6476;
+  --color-border: #e3e6ee;
+  --color-input: #d5d9e4;
+  --color-ring: #3b6fe0;
+
+  --color-primary: #2557d6;
+  --color-primary-hover: #1d48b8;
+  --color-primary-foreground: #ffffff;
+  --color-primary-soft: #eaf0fd;
+
+  --color-success: #15803d;
+  --color-success-soft: #e8f6ee;
+  --color-warning: #b45309;
+  --color-warning-soft: #fdf3e3;
+  --color-danger: #c62828;
+  --color-danger-soft: #fdecec;
+  --color-info: #0e7490;
+  --color-info-soft: #e5f5f8;
+
+  --color-sidebar: #0f1b33;
+  --color-sidebar-foreground: #c9d3e6;
+  --color-sidebar-active: #1c2c4f;
+
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --shadow-card: 0 1px 2px rgb(16 24 40 / 0.04), 0 1px 3px rgb(16 24 40 / 0.06);
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    background: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv11", "ss01";
+  }
+  :focus-visible { outline: 2px solid var(--color-ring); outline-offset: 2px; }
+  ::selection { background: var(--color-primary-soft); }
+}
+
+/* Rendered question content (markdown + math) */
+.prose-q { line-height: 1.6; overflow-wrap: anywhere; }
+.prose-q p { margin: 0.4em 0; }
+.prose-q table { border-collapse: collapse; margin: 0.6em 0; font-size: 0.95em; display: block; overflow-x: auto; }
+.prose-q th, .prose-q td { border: 1px solid var(--color-border); padding: 4px 10px; text-align: left; }
+.prose-q th { background: var(--color-muted); font-weight: 600; }
+.prose-q code { background: var(--color-muted); padding: 1px 4px; border-radius: 4px; font-size: 0.9em; }
+.prose-q img { max-width: 100%; border-radius: 8px; border: 1px solid var(--color-border); }
+.prose-q .katex-display { overflow-x: auto; overflow-y: hidden; padding: 4px 0; }
+
+/* Lockdown: discourage selection on assessment content */
+.no-select { -webkit-user-select: none; user-select: none; }
+.no-select textarea, .no-select input { -webkit-user-select: text; user-select: text; }
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: #fff; }
+  .print-break { break-inside: avoid; }
+}
