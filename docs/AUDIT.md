@@ -97,3 +97,11 @@ e-mail `info@metroteknik.kz`, domain `metroteknik.kz`. The Istanbul and Adana of
 numbers are removed from every page and language. The catalog PDF is now served from the site itself
 (`/static/files/…`, with `/files/…` redirected). Photos are still loaded from the old server `metro-teknik.net`
 (`/img/…`, `/uploads/…`) because `metroteknik.kz` does not host them yet.
+
+## 10. Primary domain: www (2026-11-08)
+
+`https://www.metroteknik.kz` is the primary address (`content/contact.json → domain`). Canonical, hreflang,
+`og:url`, `sitemap.xml` and `robots.txt` all use it. The apex → www redirect (308, path and query kept) is configured
+in the Vercel project's domain settings, not in `vercel.json`; keep it that way — adding the opposite rule in either
+place would create a loop. Verified chains: `https://metroteknik.kz/…` → www in 1 hop; `http://metroteknik.kz/…` →
+`https://metroteknik.kz/…` → www in 2 hops (Vercel's HTTPS upgrade runs first); no loops.
