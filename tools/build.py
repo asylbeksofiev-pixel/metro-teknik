@@ -619,7 +619,7 @@ def main():
         lines.append("  </url>")
     lines.append("</urlset>")
     (out / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    (out / "robots.txt").write_text("User-agent: *\nDisallow: /assets\nSitemap: " + BASE_URL + "/sitemap.xml\n", encoding="utf-8")
+    (out / "robots.txt").write_text("User-agent: *\nAllow: /\n\nSitemap: " + BASE_URL + "/sitemap.xml\n", encoding="utf-8")
     shutil.copy(ROOT / "static" / "img" / "icons" / "favicon.ico", out / "favicon.ico")
     shutil.copy(ROOT / "static" / "img" / "icons" / "apple-touch-icon.png", out / "apple-touch-icon.png")
     print(f"built {count} pages into {out}")
